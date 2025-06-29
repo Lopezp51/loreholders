@@ -6,21 +6,7 @@
   "templatePath": "",
   "autoCreate": true,
   "enableCollapsing": false,
-  "excludeFolders": [
-    {
-      "type": "folder",
-      "path": "npc",
-      "subFolders": true,
-      "disableSync": true,
-      "disableAutoCreate": true,
-      "disableFolderNote": false,
-      "enableCollapsing": false,
-      "position": 0,
-      "excludeFromFolderOverview": false,
-      "string": "",
-      "hideInSettings": false
-    }
-  ],
+  "excludeFolders": [],
   "whitelistFolders": [],
   "showDeleteConfirmation": false,
   "underlineFolder": true,

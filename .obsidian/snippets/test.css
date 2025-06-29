@@ -1,0 +1,46 @@
+.news-box {
+  background-color: var(--background-primary);
+  border: 1px solid var(--color-base-30);
+  border-radius: 8px;
+  padding: 10px;
+  margin-top: 10px;
+  position: relative;
+  font-size: 0.9rem;
+}
+
+.news-preview,
+.news-full {
+  font-family: Atkinson Hyperlegible Next;
+  white-space: pre-wrap;
+  line-height: 1.5;
+}
+
+.news-full {
+  display: none;
+  margin-top: 10px;
+}
+
+.news-toggle {
+  display: none;
+}
+
+.expand-button {
+  display: inline-block;
+  margin-top: 8px;
+  cursor: pointer;
+  font-weight: bold;
+  font-size: 0.85rem;
+  color: var(--text-accent);
+}
+
+.news-toggle:checked ~ .news-full {
+  display: block;
+}
+
+.news-toggle:checked + .expand-button::after {
+  content: " – Collapse";
+}
+
+.expand-button::after {
+  content: "";
+}

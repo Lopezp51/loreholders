@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"9842620f39decad1","type":"file","file":"Loreholder's/media/strahd/Localidades/2 andar casa party.png","x":-167,"y":-743,"width":334,"height":400},
+		{"id":"12b121236f54a868","type":"file","file":"Loreholder's/media/strahd/Localidades/3 andar casa party.png","x":-167,"y":-1143,"width":334,"height":400},
+		{"id":"335ed0c3a6ded15e","type":"file","file":"Loreholder's/media/strahd/Localidades/4 andar.png","x":-167,"y":-1406,"width":400,"height":263},
+		{"id":"03b2163e27cffe42","type":"file","file":"Loreholder's/media/strahd/Localidades/5 andar party.png","x":-167,"y":-1656,"width":400,"height":250},
+		{"id":"85bab6c8fe4d16dd","type":"file","file":"Loreholder's/media/strahd/Localidades/primeiro_andar.png","x":-167,"y":-343,"width":400,"height":393},
+		{"id":"d002a65e6771a19c","type":"file","file":"Loreholder's/media/strahd/Localidades/casa leste da party.png","x":-1367,"y":-1301,"width":1200,"height":1351}
+	],
+	"edges":[]
+}

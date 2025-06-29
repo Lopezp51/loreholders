@@ -1,0 +1,60 @@
+/* Disgraceland Script Mode — Grey with Gold Accents */
+.disgraceland-script {
+  --font-mono: 'Courier New', Courier, monospace;
+  --bg-grey: #1e1e1e;
+  --bg-softer: #2a2a2a;
+  --text-white: #f7f7f7;
+  --accent-gold: #d4af37;
+  --accent-muted: #555;
+
+  background-color: var(--bg-grey);
+  color: var(--text-white);
+  font-family: var(--font-mono);
+  padding: 2rem;
+  line-height: 1.7;
+  letter-spacing: 0.04em;
+  border-left: 4px solid var(--accent-gold);
+  border-right: 4px solid var(--accent-gold);
+  box-shadow: inset 0 0 30px rgba(0,0,0,0.5);
+}
+
+.disgraceland-script h1 {
+  font-size: 2.2em;
+  color: var(--accent-gold);
+  border-bottom: 2px solid var(--accent-gold);
+  padding-bottom: 0.3em;
+  margin-bottom: 1em;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+}
+
+.disgraceland-script h2,
+.disgraceland-script h3 {
+  color: var(--accent-gold);
+  font-weight: bold;
+  text-transform: uppercase;
+  margin-top: 2em;
+  margin-bottom: 0.5em;
+  letter-spacing: 0.05em;
+}
+
+.disgraceland-script strong {
+  color: var(--accent-gold);
+  font-weight: bold;
+}
+
+.disgraceland-script blockquote {
+  border-left: 4px solid var(--accent-gold);
+  padding-left: 1em;
+  font-style: italic;
+  color: #e0e0e0;
+  background-color: var(--bg-softer);
+  margin: 1.5em 0;
+}
+
+.disgraceland-script hr {
+  border: none;
+  border-top: 2px dashed var(--accent-gold);
+  margin: 2em 0;
+  opacity: 0.7;
+}

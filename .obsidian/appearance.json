@@ -1,14 +1,28 @@
 {
   "cssTheme": "ITS Theme",
-  "theme": "obsidian",
   "enabledCssSnippets": [
+    "disgraceland-profile",
+    "fullstat",
+    "hrline",
     "supercharged-links-gen",
-    "npc-card",
-    "npc-dataview",
-    "npc-card copy",
-    "sessao-nota",
-    "datacards",
-    "campnhas"
+    "videopop",
+    "world",
+    "test",
+    "htc",
+    "topnav",
+    "dgl",
+    "bside",
+    "scriptwrite",
+    "npc_card",
+    "SailKite - TabsInObsidian",
+    "TabsInObsidian - MaxH480",
+    "TabsInObsidian - MaxH"
   ],
-  "accentColor": "#b02121"
+  "accentColor": "#f9f6f6",
+  "interfaceFontFamily": "Atkinson Hyperlegible Next,Atkinson Hyperlegible Next Medium",
+  "textFontFamily": "Atkinson Hyperlegible Next,Atkinson Hyperlegible Next Medium",
+  "showRibbon": true,
+  "showViewHeader": true,
+  "monospaceFontFamily": "Atkinson Hyperlegible Next,Atkinson Hyperlegible Next Medium",
+  "nativeMenus": false
 }

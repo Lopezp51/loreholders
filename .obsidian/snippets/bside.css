@@ -1,0 +1,57 @@
+/* B-Sides from the End Times: Script Styling */
+
+.b-sides-script {
+  --b-sides-bg: #111416;
+  --b-sides-accent: #b22d2d;
+  --b-sides-muted: #888;
+  --b-sides-font: 'Atkinson Hyperlegible Next', monospace;
+
+  background-color: var(--b-sides-bg);
+  color: #e3e3e3;
+  font-family: var(--b-sides-font);
+  padding: 2rem;
+  border: 1px solid var(--b-sides-accent);
+  box-shadow: 0 0 20px rgba(178, 45, 45, 0.3);
+  border-radius: 8px;
+  line-height: 1.6;
+}
+
+/* Scene headers like ACT I, SCENE 1 */
+.b-sides-script h1,
+.b-sides-script h2,
+.b-sides-script h3 {
+  font-family: 'Impact', sans-serif;
+  letter-spacing: 2px;
+  color: var(--b-sides-accent);
+  text-transform: uppercase;
+  border-bottom: 2px dashed var(--b-sides-accent);
+  padding-bottom: 4px;
+  margin-top: 2rem;
+}
+
+
+
+/* Dialogue lines */
+.b-sides-script p {
+  margin: 0.5rem 0;
+}
+
+/* Directions, beats, or scene notes */
+.b-sides-script em {
+  display: block;
+  color: var(--b-sides-muted);
+  font-style: italic;
+  margin: 0.5rem 0;
+}
+
+/* Optional: Stylize blockquotes as retro commentary boxes */
+.b-sides-script blockquote {
+  border-left: 4px solid var(--b-sides-accent);
+  background-color: rgba(255, 255, 255, 0.03);
+  padding: 0.5rem 1rem;
+  font-style: italic;
+  color: #ccc;
+  margin: 1rem 0;
+}
+
+

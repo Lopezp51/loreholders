@@ -1,1 +1,0 @@
-[[Campanhas/Curse Of Strahd/Barovia │ Era de Ouro/Localidades/Cidades/Cidades]]

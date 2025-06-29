@@ -1,0 +1,4 @@
+/* Hide the centered title at the top of the page */
+.markdown-preview-view h1:first-of-type {
+  display: none;
+}

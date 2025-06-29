@@ -1,1 +1,0 @@
-Chegamos na [[Abadia de Santa Markovia]]

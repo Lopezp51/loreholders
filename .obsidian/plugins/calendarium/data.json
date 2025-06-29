@@ -1,11 +1,1119 @@
 {
   "autoParse": false,
-  "calendars": [],
+  "calendars": [
+    {
+      "name": "Tribucian Calendar",
+      "description": "",
+      "id": "ID_2bf89b3b6bcb",
+      "showIntercalarySeparately": true,
+      "static": {
+        "incrementDay": false,
+        "firstWeekDay": 0,
+        "overflow": true,
+        "weekdays": [
+          {
+            "type": "day",
+            "name": "Alphaday",
+            "id": "ID_7bbab979582a"
+          },
+          {
+            "type": "day",
+            "name": "Moonday",
+            "id": "ID_a9fbab4a387b"
+          },
+          {
+            "type": "day",
+            "name": "Temperday",
+            "id": "ID_caf9185b3a4b"
+          },
+          {
+            "type": "day",
+            "name": "Middleday",
+            "id": "ID_bb688aebe8ab"
+          },
+          {
+            "type": "day",
+            "name": "Burnday",
+            "id": "ID_bad8eb28f89a"
+          },
+          {
+            "type": "day",
+            "name": "Restday",
+            "id": "ID_58fa8a4b08ab"
+          },
+          {
+            "type": "day",
+            "name": "Omegaday",
+            "id": "ID_6a08a9c83b1b"
+          }
+        ],
+        "months": [
+          {
+            "type": "month",
+            "name": "Frostsun",
+            "length": 30,
+            "id": "ID_688aeb1928d8",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Frozensun",
+            "length": 30,
+            "id": "ID_8a6bcab8eba9",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Rainsun",
+            "length": 30,
+            "id": "ID_c88a78cae9d9",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Bloomsun",
+            "length": 30,
+            "id": "ID_7be9fadb5ac9",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Greensun",
+            "length": 30,
+            "id": "ID_280bbb6a5bf8",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Highsun",
+            "length": 30,
+            "id": "ID_8a9adb481a29",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Searsun",
+            "length": 30,
+            "id": "ID_293a0b1a6938",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Redsun",
+            "length": 30,
+            "id": "ID_684a5b59ea98",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Ambertide",
+            "length": 30,
+            "id": "ID_4af83a399988",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Hollowtide",
+            "length": 30,
+            "id": "ID_eae95af85ac9",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Dusktide",
+            "length": 30,
+            "id": "ID_7a8a1b49e8da",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Whitetide",
+            "length": 30,
+            "id": "ID_babbc82a2ab9",
+            "interval": 1,
+            "offset": 0
+          }
+        ],
+        "moons": [],
+        "displayMoons": true,
+        "displayDayNumber": false,
+        "leapDays": [],
+        "eras": [],
+        "padMonths": 2,
+        "padDays": 2
+      },
+      "current": {
+        "day": 9,
+        "month": 3,
+        "year": 2186
+      },
+      "events": [
+        {
+          "name": "New Year's Day",
+          "description": "Survival honored. Fires lit. Food shared if possible. |",
+          "date": {
+            "month": 0,
+            "day": 1,
+            "year": 2186
+          },
+          "id": "ID_b978c99aa97b",
+          "note": null,
+          "category": "ID_3b98d93a8b19",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Ashmoor Festival",
+          "description": "Celebration of Ashmoor's founding; mostly benefits the elite.",
+          "date": {
+            "month": 3,
+            "day": 14,
+            "year": 2186
+          },
+          "id": "ID_282908297828",
+          "note": null,
+          "category": "ID_3b98d93a8b19",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Blackshift Massacre Memorial Day",
+          "description": "Mourning for the slaughtered workers at Blackshift Mine.",
+          "date": {
+            "month": 6,
+            "day": 23,
+            "year": 2186
+          },
+          "id": "ID_a88afb9a6b08",
+          "note": null,
+          "category": "ID_3b98d93a8b19",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Worker's Day",
+          "description": "Steeltown and Charspire only. Honors laborers. Often sparks protests or violence.",
+          "date": {
+            "month": 9,
+            "day": 18,
+            "year": 2186
+          },
+          "id": "ID_498aab9bfb7a",
+          "note": null,
+          "category": "ID_88694b1b3a8b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Dark Night",
+          "description": "Loyalist Guards stay home. Lawlessness reigns for one night.",
+          "date": {
+            "month": 9,
+            "day": 30,
+            "year": 2186
+          },
+          "id": "ID_db5a892958da",
+          "note": null,
+          "category": "ID_d8990a49b939",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Day of the Ember Saint",
+          "description": "Religious fire rituals honoring the Ember Saint.",
+          "date": {
+            "month": 11,
+            "day": 20,
+            "year": 2186
+          },
+          "id": "ID_9bb8588bfbbb",
+          "note": null,
+          "category": "ID_88694b1b3a8b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Harvest Festival",
+          "description": "Last feast before The Withering. Debts settled, trades made.",
+          "date": {
+            "month": 8,
+            "day": 30,
+            "year": 2186
+          },
+          "id": "ID_2a5a18886b28",
+          "note": null,
+          "category": "ID_3b98d93a8b19",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Vol. 2 - Ghosts on the Waves",
+          "description": "Events of Volume 2 of B-Sides from the End Times.\n",
+          "date": {
+            "day": 6,
+            "month": 3,
+            "year": 2186
+          },
+          "id": "ID_8a5a4a1aa948",
+          "note": "B-Sides from the End Times/Vol. 2 - Ghosts on the Waves.md",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Vol. 1 - Main Event Shadows",
+          "description": "Events of Vol 1. of B-Sides from the End Times.\n",
+          "date": {
+            "day": 1,
+            "month": 3,
+            "year": 2186
+          },
+          "id": "ID_0aba29995a4a",
+          "note": "B-Sides from the End Times/Vol. 1 - Main Event Shadows.md",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "03 - The Devil In The Row",
+          "description": null,
+          "date": {
+            "day": 7,
+            "month": 3,
+            "year": 2186
+          },
+          "id": "ID_fbea69484a3a",
+          "note": "DISGRACELAND/03 - The Devil In The Row.md",
+          "category": "ID_3b98d93a8b19",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "02 - Ghosts On The Waves",
+          "description": null,
+          "date": {
+            "day": 6,
+            "month": 3,
+            "year": 2186
+          },
+          "id": "ID_996aab6b89c9",
+          "note": "DISGRACELAND/02 - Ghosts On The Waves.md",
+          "category": "ID_3b98d93a8b19",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "01 - Main Event Shadows",
+          "description": null,
+          "date": {
+            "day": 1,
+            "month": 3,
+            "year": 2186
+          },
+          "id": "ID_e9c9f95998cb",
+          "note": "DISGRACELAND/01 - Main Event Shadows.md",
+          "category": "ID_3b98d93a8b19",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Ashmoor Festival",
+          "description": null,
+          "date": {
+            "day": 14,
+            "month": 3,
+            "year": 2186
+          },
+          "id": "ID_8bc94b89dac8",
+          "note": "Lore/Ashmoor Festival.md",
+          "category": "ID_3b98d93a8b19",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "World Lucha Libre",
+          "description": "Final Reckoning",
+          "date": {
+            "day": 25,
+            "month": 3,
+            "year": 2186
+          },
+          "id": "ID_792aeb98a959",
+          "note": "Lore/World Lucha Libre.md",
+          "category": "ID_3b98d93a8b19",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "04 - Glowing Darkness",
+          "description": null,
+          "date": {
+            "day": 7,
+            "month": 3,
+            "year": 2186
+          },
+          "id": "ID_78b8bba9e98b",
+          "note": "DISGRACELAND/04 - Glowing Darkness.md",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "05 - Sight Unseen",
+          "description": null,
+          "date": {
+            "day": 8,
+            "month": 3,
+            "year": 2186
+          },
+          "id": "ID_cbfa3ab9e908",
+          "note": "DISGRACELAND/05 - Sight Unseen.md",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Hymn From A Dead Girl",
+          "description": null,
+          "date": {
+            "day": 6,
+            "month": 3,
+            "year": 2186
+          },
+          "id": "ID_387a9b4bbb79",
+          "note": "DISGRACELAND/B-Sides From The End Times/Hymn From A Dead Girl.md",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Snake Eyes In Threshton",
+          "description": null,
+          "date": {
+            "day": 9,
+            "month": 3,
+            "year": 2186
+          },
+          "id": "ID_4beb194b3afa",
+          "note": "DISGRACELAND/B-Sides From The End Times/Snake Eyes In Threshton.md",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "06 - Showdown In Gage Park",
+          "description": null,
+          "date": {
+            "day": 9,
+            "month": 3,
+            "year": 2186
+          },
+          "id": "ID_3a6be8e9e8e8",
+          "note": "DISGRACELAND/06 - Showdown In Gage Park.md",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Visions In The Night",
+          "description": null,
+          "date": {
+            "day": 10,
+            "month": 3,
+            "year": 2186
+          },
+          "id": "ID_7a3baac88aba",
+          "note": "DISGRACELAND/B-Sides From The End Times/Visions In The Night.md",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "07 - The Spotlight Lies",
+          "description": null,
+          "date": {
+            "day": 11,
+            "month": 3,
+            "year": 2186
+          },
+          "id": "ID_783b196859ba",
+          "note": "DISGRACELAND/07 - The Spotlight Lies.md",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "08 - No Answers",
+          "description": null,
+          "date": {
+            "day": 12,
+            "month": 3,
+            "year": 2186
+          },
+          "id": "ID_39b94a3a19c8",
+          "note": "DISGRACELAND/08 - No Answers.md",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        }
+      ],
+      "categories": [
+        {
+          "id": "ID_3b98d93a8b19",
+          "color": "#d4ce21",
+          "name": "Full Events"
+        },
+        {
+          "id": "ID_88694b1b3a8b",
+          "color": "#056d82",
+          "name": "Regional"
+        },
+        {
+          "id": "ID_d8990a49b939",
+          "color": "#c1474d",
+          "name": "Dark Night"
+        }
+      ],
+      "path": [],
+      "supportInlineEvents": true,
+      "inlineEventTag": "#inline-events",
+      "dateFormat": "DD-MM-YYYY",
+      "seasonal": {
+        "seasons": [],
+        "offset": 0,
+        "type": "Periodic",
+        "displayColors": true,
+        "interpolateColors": true,
+        "weather": {
+          "enabled": false,
+          "seed": -880590140,
+          "tempUnits": "Imperial",
+          "windUnits": "Imperial",
+          "primaryWindDirection": "E"
+        }
+      },
+      "locations": {
+        "locations": []
+      }
+    },
+    {
+      "name": "Calendário",
+      "description": "A calendar for the real world.",
+      "path": [],
+      "supportInlineEvents": false,
+      "inlineEventTag": "inline-events",
+      "showIntercalarySeparately": true,
+      "static": {
+        "displayDayNumber": false,
+        "incrementDay": true,
+        "displayMoons": true,
+        "firstWeekDay": 1,
+        "overflow": true,
+        "weekdays": [
+          {
+            "type": "day",
+            "name": "Sunday",
+            "id": "ID_19ea684b4a08"
+          },
+          {
+            "type": "day",
+            "name": "Monday",
+            "id": "ID_2928b90ab949"
+          },
+          {
+            "type": "day",
+            "name": "Tuesday",
+            "id": "ID_0ad9a8f9e95b"
+          },
+          {
+            "type": "day",
+            "name": "Wednesday",
+            "id": "ID_195a4b290bc9"
+          },
+          {
+            "type": "day",
+            "name": "Thursday",
+            "id": "ID_abe8c89b0999"
+          },
+          {
+            "type": "day",
+            "name": "Friday",
+            "id": "ID_2b5b8a79fa4a"
+          },
+          {
+            "type": "day",
+            "name": "Saturday",
+            "id": "ID_1a78cb79c8cb"
+          }
+        ],
+        "months": [
+          {
+            "name": "January",
+            "type": "month",
+            "length": 31,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_e9997a780b3a"
+          },
+          {
+            "name": "February",
+            "type": "month",
+            "length": 28,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_b8c9ebeb0b89"
+          },
+          {
+            "name": "March",
+            "type": "month",
+            "length": 31,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_b83bda2b9be8"
+          },
+          {
+            "name": "April",
+            "type": "month",
+            "length": 30,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_29baea7b28ab"
+          },
+          {
+            "name": "May",
+            "type": "month",
+            "length": 31,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_6a3899fad909"
+          },
+          {
+            "name": "June",
+            "type": "month",
+            "length": 30,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_384aeb1afa8a"
+          },
+          {
+            "name": "July",
+            "type": "month",
+            "length": 31,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_48b8cba87b8a"
+          },
+          {
+            "name": "August",
+            "type": "month",
+            "length": 31,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_fa0b1a6bab8a"
+          },
+          {
+            "name": "September",
+            "type": "month",
+            "length": 30,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_da880b8af849"
+          },
+          {
+            "name": "October",
+            "type": "month",
+            "length": 31,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_babba8186968"
+          },
+          {
+            "name": "November",
+            "type": "month",
+            "length": 30,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_da582bfaf9b9"
+          },
+          {
+            "name": "December",
+            "type": "month",
+            "length": 31,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_ba1bab4a3a28"
+          }
+        ],
+        "moons": [
+          {
+            "name": "Moon",
+            "cycle": 29.530588853,
+            "offset": 9.24953,
+            "faceColor": "#ffffff",
+            "shadowColor": "#000000",
+            "id": "ID_a9ab186b1819"
+          }
+        ],
+        "leapDays": [
+          {
+            "name": "Leap Day",
+            "type": "leapday",
+            "interval": [
+              {
+                "ignore": false,
+                "exclusive": false,
+                "interval": 4
+              },
+              {
+                "ignore": false,
+                "exclusive": true,
+                "interval": 100
+              },
+              {
+                "ignore": false,
+                "exclusive": false,
+                "interval": 400
+              }
+            ],
+            "offset": 0,
+            "timespan": 1,
+            "intercalary": false,
+            "id": "ID_b91ad86a887a"
+          }
+        ],
+        "eras": [],
+        "offset": 0,
+        "padDays": 2,
+        "padMonths": 2
+      },
+      "seasonal": {
+        "seasons": [
+          {
+            "id": "STANDARD_WINTER",
+            "name": "Winter",
+            "color": "#ADD8E6",
+            "kind": "Winter",
+            "type": "Periodic",
+            "duration": 91.310625,
+            "weatherOffset": 56,
+            "weatherPeak": 5
+          },
+          {
+            "id": "STANDARD_SPRING",
+            "name": "Spring",
+            "kind": "Spring",
+            "color": "#90EE90",
+            "type": "Periodic",
+            "duration": 91.310625,
+            "weatherOffset": 56,
+            "weatherPeak": 5
+          },
+          {
+            "id": "STANDARD_SUMMER",
+            "name": "Summer",
+            "kind": "Summer",
+            "color": "#FFFF00",
+            "type": "Periodic",
+            "duration": 91.310625,
+            "weatherOffset": 56,
+            "weatherPeak": 5
+          },
+          {
+            "id": "STANDARD_AUTUMN",
+            "name": "Autumn",
+            "kind": "Autumn",
+            "color": "#DAA520",
+            "type": "Periodic",
+            "duration": 91.310625,
+            "weatherOffset": 56,
+            "weatherPeak": 5
+          }
+        ],
+        "offset": -12.5,
+        "type": "Periodic",
+        "displayColors": true,
+        "interpolateColors": true,
+        "weather": {
+          "enabled": false,
+          "seed": 1,
+          "tempUnits": "Imperial",
+          "windUnits": "Metric",
+          "primaryWindDirection": "E"
+        }
+      },
+      "locations": {
+        "locations": []
+      },
+      "current": {
+        "day": 19,
+        "month": 5,
+        "year": 2025
+      },
+      "events": [
+        {
+          "name": "Summer Solstice",
+          "description": "At the summer solstice, the Sun travels the longest path through the sky, and that day therefore has the most daylight.",
+          "id": "824599",
+          "note": null,
+          "date": {
+            "day": null,
+            "year": null,
+            "month": null
+          },
+          "type": "Undated",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          }
+        },
+        {
+          "name": "Winter Solstice",
+          "description": "The winter solstice marks the shortest day and longest night of the year, when the sun is at its lowest arc in the sky.",
+          "id": "824600",
+          "note": null,
+          "date": {
+            "day": null,
+            "year": null,
+            "month": null
+          },
+          "type": "Undated",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          }
+        },
+        {
+          "name": "Spring Equinox",
+          "description": "The equinox marks the day and the night is equally as long.",
+          "id": "824601",
+          "note": null,
+          "date": {
+            "day": null,
+            "year": null,
+            "month": null
+          },
+          "type": "Undated",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          }
+        },
+        {
+          "name": "Autumn Equinox",
+          "description": "The equinox marks the day and the night is equally as long.",
+          "id": "824602",
+          "note": null,
+          "date": {
+            "day": null,
+            "year": null,
+            "month": null
+          },
+          "type": "Undated",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          }
+        },
+        {
+          "name": "Christmas",
+          "description": "Christmas is a Christian holiday celebrating the birth of Christ. Due to a combination of marketability and long lasting traditions it is popular even among many non-Christians, especially in countries that have a strong Christian tradition.",
+          "id": "824603",
+          "note": null,
+          "date": {
+            "day": 25,
+            "month": 11,
+            "year": [
+              null,
+              null
+            ]
+          },
+          "type": "Recurring",
+          "category": "christian-holidays",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          }
+        },
+        {
+          "name": "Paschal Full Moon",
+          "description": "The first full moon after march 21st, which is considered the fixed date for the spring equinox.",
+          "id": "824604",
+          "note": null,
+          "date": {
+            "day": null,
+            "year": null,
+            "month": null
+          },
+          "type": "Undated",
+          "category": "christian-holidays",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          }
+        },
+        {
+          "name": "Easter",
+          "description": "Easter is considered the most important feast for Christians, celebrating the resurrection of Christ. It is classed as a moveable feast occurring on the first full moon after the spring equinox, which is considered to be fixed at March 21st for the sake of computing the date.",
+          "id": "824605",
+          "note": null,
+          "date": {
+            "day": null,
+            "year": null,
+            "month": null
+          },
+          "type": "Undated",
+          "category": "christian-holidays",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          }
+        },
+        {
+          "name": "Easter Monday",
+          "description": "The Monday following the Easter Sunday is often considered part of the Easter Celebration and is a day off in many countries with a strong Christian tradition.",
+          "id": "824606",
+          "note": null,
+          "date": {
+            "day": null,
+            "year": null,
+            "month": null
+          },
+          "type": "Undated",
+          "category": "christian-holidays",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          }
+        },
+        {
+          "name": "Good Friday",
+          "description": "Good Friday is the Friday preceding Easter. It comemmorates the crucifixion of Christ according to the Bible.",
+          "id": "824607",
+          "note": null,
+          "date": {
+            "day": null,
+            "year": null,
+            "month": null
+          },
+          "type": "Undated",
+          "category": "christian-holidays",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          }
+        },
+        {
+          "name": "Pentecost",
+          "description": "Celebrated exactly 50 days after Easter, Pentecost is the celebration of the Holy Spirit appearing before the Apostles as described in the Bible.",
+          "id": "824608",
+          "note": null,
+          "date": {
+            "day": null,
+            "year": null,
+            "month": null
+          },
+          "type": "Undated",
+          "category": "christian-holidays",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          }
+        },
+        {
+          "name": "New Year's Day",
+          "description": "New Year's Day marks the date of a new year on the Gregorian Calendar. It dates when the clock strikes midnight and is often celebrated with fireworks, champagne and kissing.",
+          "id": "824609",
+          "note": null,
+          "date": {
+            "day": 1,
+            "year": [
+              null,
+              null
+            ],
+            "month": 0
+          },
+          "type": "Recurring",
+          "category": "secular-holidays",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          }
+        },
+        {
+          "name": "Valentine's Day",
+          "description": "Valentine's day is a celebration of love and romance that is popular across the world. Many more cynically minded people mostly consider it an attempt to monetize the expectation of romantic gestures on the holiday through gift cards, flowers, chocolate and dates.",
+          "id": "824610",
+          "note": null,
+          "date": {
+            "day": 14,
+            "year": [
+              null,
+              null
+            ],
+            "month": 1
+          },
+          "type": "Recurring",
+          "category": "secular-holidays",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          }
+        },
+        {
+          "name": "Halloween",
+          "description": "Halloween is holiday popular in the US, Canada and Ireland that has gradually been adopted by more and more countries. It is often celebrated by people dressing up, usually as something scary. Children will often go from door to door shouting \"trick or treat\" in the hopes of receiving candy, while adults tend to go to parties.",
+          "id": "824611",
+          "note": null,
+          "date": {
+            "day": 31,
+            "year": [
+              null,
+              null
+            ],
+            "month": 9
+          },
+          "type": "Recurring",
+          "category": "secular-holidays",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          }
+        },
+        {
+          "name": "Introduction of the Gregorian Calendar",
+          "description": "On this day in 1582 the Gregorian calendar was officially introduced, following Thursday October 4th on the Julian Calendar",
+          "id": "824614",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": 15,
+            "year": 1582,
+            "month": 9
+          },
+          "category": "historical-events",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          }
+        }
+      ],
+      "id": "ID_8abafa4a6a08",
+      "categories": [
+        {
+          "name": "Natural Events",
+          "id": "natural-events",
+          "color": "#2E7D32"
+        },
+        {
+          "name": "Christian Holidays",
+          "id": "christian-holidays",
+          "color": "#9b2c2c"
+        },
+        {
+          "name": "Secular Holidays",
+          "id": "secular-holidays",
+          "color": "#0D47A1"
+        },
+        {
+          "name": "Historical Events",
+          "id": "historical-events",
+          "color": "#455A64"
+        },
+        {
+          "name": "Miscellaneous Events",
+          "id": "miscellaneous-events",
+          "color": "#0288D1"
+        }
+      ],
+      "dateFormat": "DD/MM/YYYY"
+    }
+  ],
   "configDirectory": null,
   "dailyNotes": false,
   "dateFormat": "YYYY-MM-DD",
-  "defaultCalendar": null,
-  "eventPreview": false,
+  "defaultCalendar": "ID_8abafa4a6a08",
+  "eventPreview": true,
   "exit": {
     "saving": false,
     "event": false,
@@ -22,13 +1130,13 @@
   },
   "debug": false,
   "askedToMoveFC": false,
-  "askedAboutSync": false,
-  "syncBehavior": "Ask",
+  "askedAboutSync": true,
+  "syncBehavior": "Always",
   "inlineEventsTag": null,
   "paths": [
     [
       "/",
-      "DEFAULT"
+      "ID_2bf89b3b6bcb"
     ]
   ]
 }

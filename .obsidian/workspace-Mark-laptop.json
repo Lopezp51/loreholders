@@ -1,0 +1,268 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Home"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4f31d1e335b1ab27",
+    "type": "split",
+    "children": [
+      {
+        "id": "4aad8b33aad091f7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "18617be2742649fd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "fe329f5ec457bd58",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "88c0ad69daadb594",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "35e1514821e88d21",
+    "type": "split",
+    "children": [
+      {
+        "id": "7ba402a8df18668c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "72c177465246d3ff",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "749d514cec44cda3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Home.md",
+                "followCursor": false,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Home"
+            }
+          },
+          {
+            "id": "727b41ea6369e037",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Home.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Home"
+            }
+          },
+          {
+            "id": "a187052a4059d3a7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Home.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Home"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "0173c20f4275b18c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "de2571d671ece136",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM_AGENDA",
+              "state": {
+                "calendar": "ID_2bf89b3b6bcb",
+                "id": "ID_d9facbc8fa19",
+                "parent": "ID_ab592aeb9ac8"
+              },
+              "icon": "CALENDARIUM_AGENDA",
+              "title": "Agenda"
+            }
+          }
+        ]
+      },
+      {
+        "id": "73b70eeca8fd1350",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9ced9ff4a1caaf3d",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM_AGENDA",
+              "state": {
+                "calendar": "ID_2bf89b3b6bcb",
+                "id": "ID_0aabd8cb6958",
+                "parent": "ID_181b2b28c86b"
+              },
+              "icon": "CALENDARIUM_AGENDA",
+              "title": "Agenda"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "homepage:Open homepage": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "templater-obsidian:Templater": false,
+      "local-backup:Run local backup": false,
+      "obsidian42-brat:BRAT": false,
+      "calendarium:Open Calendarium": false
+    }
+  },
+  "active": "e7a7b303c61786dc",
+  "lastOpenFiles": [
+    "Home.md",
+    "Ollama_Bash_Cheat_Sheet.md",
+    "DISGRACELAND/DISGRACELAND.md",
+    "DISGRACELAND/07 - The Spotlight Lies.md",
+    "Workflow/OUTLINES.md",
+    "DISGRACELAND/04 - Glowing Darkness.md",
+    "DISGRACELAND/B-Sides From The End Times/Visions In The Night.md",
+    "DISGRACELAND/B-Sides From The End Times/Snake Eyes In Threshton.md",
+    "DISGRACELAND/B-Sides From The End Times/Hymn From A Dead Girl.md",
+    "DISGRACELAND/06 - Showdown In Gage Park.md",
+    "DISGRACELAND/05 - Sight Unseen.md",
+    "DISGRACELAND/03 - The Devil In The Row.md",
+    "DISGRACELAND/02 - Ghosts On The Waves.md",
+    "DISGRACELAND/01 - Main Event Shadows.md",
+    "Characters/Individual/Bastian Redd.md",
+    "Characters/Individual/Owen McCready.md",
+    "CULTURE.md",
+    "Characters/Individual/Warren Scottyard.md",
+    "Characters/Individual/Tyren Will.md",
+    "Characters/Individual/Morris Gable.md",
+    "Characters/Individual/Ora Razchek.md",
+    "Characters/Individual/Jaden Kade.md",
+    "Characters/Individual/Hella.md",
+    "Characters/Individual/Flint Garritt.md",
+    "Characters/Individual/Dusty Dillon.md",
+    "Characters/Individual/Jay Dillinger.md",
+    "zz_media/~4.tmp",
+    "zz_media/071.png",
+    "zz_media/07.png",
+    "Pasted image 20250605193758.png",
+    "zz_media/~bevsbob.tmp",
+    "zz_media/~es1.tmp",
+    "zz_media/~ool2.tmp",
+    "zz_media/tes1.png",
+    "zz_media/sool2.png",
+    "zz_media/~ool.tmp",
+    "zz_media/0950dc3e-8e8f-4218-b222-7042d0a55da6.tmp",
+    "zz_media/0a7531a4-e92b-451a-96ad-27b0979972b2.tmp",
+    "zz_media/~ool1.tmp",
+    "zz_media/sool1.png",
+    "zz_media/sool.png",
+    "zz_media/dban1.png",
+    "zz_media/dban.png",
+    "zz_media/~t.tmp",
+    "zz_media/tt.png",
+    "zz_media/~od.tmp",
+    "Disgraceland Canvas.canvas"
+  ]
+}

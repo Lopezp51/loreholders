@@ -1,0 +1,283 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Home"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4f31d1e335b1ab27",
+    "type": "split",
+    "children": [
+      {
+        "id": "4aad8b33aad091f7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "18617be2742649fd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "fe329f5ec457bd58",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#wrecking_crew",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "88c0ad69daadb594",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 243.5
+  },
+  "right": {
+    "id": "35e1514821e88d21",
+    "type": "split",
+    "children": [
+      {
+        "id": "7ba402a8df18668c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "72c177465246d3ff",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "749d514cec44cda3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          },
+          {
+            "id": "94ed217914109861",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "B-Sides from the End Times/02 - Ghosts On The Waves.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 02 - Ghosts On The Waves"
+            }
+          },
+          {
+            "id": "8195db260ec5e3b7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Characters/Rancher Collective/Freddy Blanchard.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Freddy Blanchard"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "6b21a08cd38933cd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "364554dc58a43358",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM_AGENDA",
+              "state": {
+                "calendar": "ID_2bf89b3b6bcb",
+                "id": "ID_ba5989ab5bfa",
+                "parent": "ID_792b68399a7a"
+              },
+              "icon": "CALENDARIUM_AGENDA",
+              "title": "Agenda"
+            }
+          }
+        ]
+      },
+      {
+        "id": "dc84643c06eb0d92",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0be58e42401cc612",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM_AGENDA",
+              "state": {
+                "calendar": "ID_2bf89b3b6bcb",
+                "id": "ID_3acb390a58e8",
+                "parent": "ID_ba0a5a9ada58"
+              },
+              "icon": "CALENDARIUM_AGENDA",
+              "title": "Agenda"
+            }
+          }
+        ]
+      },
+      {
+        "id": "92bab0c6f961165f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e6119bf5712c30ed",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM_AGENDA",
+              "state": {
+                "calendar": "ID_2bf89b3b6bcb",
+                "id": "ID_7909487a79d8",
+                "parent": "ID_faca695bb94b"
+              },
+              "icon": "CALENDARIUM_AGENDA",
+              "title": "Agenda"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "homepage:Open homepage": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "templater-obsidian:Templater": false,
+      "local-backup:Run local backup": false,
+      "obsidian42-brat:BRAT": false,
+      "calendarium:Open Calendarium": false
+    }
+  },
+  "active": "e7a7b303c61786dc",
+  "lastOpenFiles": [
+    "Notes.md",
+    "Outlines.md",
+    "Home.md",
+    "DISGRACELAND/03 - The Devil In The Row.md",
+    "DISGRACELAND/DISGRACELAND.md",
+    "Factions/Loyalist Guard.md",
+    "Factions/Third Row.md",
+    "Factions/Steeltown Wrecking Crew.md",
+    "Factions/Unseen Widows.md",
+    "Factions/Rustwater Raiders.md",
+    "Factions/Rancher Collective.md",
+    "Factions/Murray Boys.md",
+    "DISGRACELAND/01 - Main Event Shadows.md",
+    "DISGRACELAND/02 - Ghosts On The Waves.md",
+    "Characters/Individual/Royce Sincayd.md",
+    "Characters/Wrecking Crew/Mark Jeffrey.md",
+    "Characters/Wrecking Crew/Jimmy Douglass.md",
+    "Characters/Individual/Bobby Cutman.md",
+    "Characters/Wrecking Crew/Lincoln Jones.md",
+    "Characters/Wrecking Crew/Katie Kowalski.md",
+    "Characters/Third Row/Jailface.md",
+    "Characters/Third Row/Malika Locke.md",
+    "Characters/Wrecking Crew/Abel May Jr..md",
+    "Characters/Wrecking Crew/Rodney Blythe.md",
+    "Characters/Wrecking Crew/Selena Matissao.md",
+    "Characters/Wrecking Crew/Joe Ameen.md",
+    "zz_media/03.png",
+    "zz_media/dstory.png",
+    "Disgraceland Canvas.canvas",
+    "Characters/Murray Boys",
+    "zz_media/~c.tmp",
+    "zz_media/rc.png",
+    "zz_media/th_sable.png",
+    "zz_media/sable.png",
+    "zz_media/th_malika.png",
+    "zz_media/malika.png",
+    "zz_media/th_nine.png",
+    "zz_media/ninepack.png",
+    "zz_media/th_jail.png",
+    "Characters/Third Row",
+    "zz_media/burn.mp3",
+    "zz_media/Let It Burn3.mp3"
+  ]
+}

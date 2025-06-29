@@ -1,1 +1,0 @@
-[[Barovia │ Era das Trevas]]

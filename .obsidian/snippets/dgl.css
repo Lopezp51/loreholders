@@ -1,0 +1,246 @@
+
+.callout {
+  background-color: #1f2329; /* steel grey */
+  border-left: 4px solid #5e6b75; /* muted steel blue accent */
+  color: #d0d5dc; /* cool, light steel text */
+  border-radius: 6px;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.4);
+}
+
+.callout-title {
+  background-color: #2a2f36; /* darker steel tone for header */
+  color: #e0e4e9;
+  font-weight: 600;
+  border-bottom: 1px solid #3b424a;
+}
+
+.callout-icon {
+  color: #6e7883 !important; /* soft silver/blue icon */
+}
+
+
+/* Hide page title in Reading View */
+.markdown-preview-view .inline-title {
+  display: none !important;
+}
+
+/* Hide properties (frontmatter display) in Reading View */
+.markdown-preview-view .metadata-container {
+  display: none !important;
+}
+
+/* Make nav row stretch full width */
+.nav-row {
+  display: flex;
+  justify-content: center; /* or use 'space-between' or 'space-around' */
+  flex-wrap: wrap;
+  gap: 1rem;
+  width: 100%;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+/* Style the links inside */
+.nav-row a.internal-link {
+  padding: 0.4em 1em;
+  border-radius: 6px;
+  background-color: var(--background-secondary-alt);
+  color: var(--text-normal);
+  text-decoration: none;
+  font-weight: bold;
+  transition: all 0.2s ease;
+}
+
+.nav-row a.internal-link:hover {
+  background-color: var(--interactive-accent);
+  color: var(--background-primary);
+}
+
+
+
+/* === DISGRACELAND COMMAND CONSOLE THEME === */
+
+.markdown-preview-view h1,
+.markdown-preview-view h2,
+.markdown-preview-view h3 {
+  color: #ff2d2d;
+  border-bottom: 1px solid #ff2d2d;
+  padding-bottom: 0.2em;
+  margin-top: 1em;
+}
+
+
+.callout[data-callout="info"] {
+  --callout-color: #ff2d2d;
+  --callout-icon: lucide-terminal;
+}
+
+.callout[data-callout="tip"] {
+  --callout-color: #5555ff;
+  --callout-icon: lucide-map;
+}
+
+.callout[data-callout="note"] {
+  --callout-color: #5fff5f;
+  --callout-icon: lucide-eye;
+}
+
+.callout[data-callout="todo"] {
+  --callout-color: #ffcc00;
+  --callout-icon: lucide-clipboard-check;
+}
+
+.callout-title {
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+table {
+  border: 1px solid #333;
+  border-collapse: collapse;
+  margin-top: 0.5rem;
+  width: 100%;
+}
+
+thead th {
+  background-color: #111;
+  color: #ff2d2d;
+  text-transform: uppercase;
+  font-size: 0.85em;
+  padding: 0.4em;
+}
+
+tbody td {
+  padding: 0.5em;
+  border-top: 1px solid #333;
+  background-color: rgba(255, 255, 255, 0.02);
+  color: #ddd;
+}
+
+a {
+  color: #ff5555;
+  font-weight: bold;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* === GRID LAYOUT FOR CONSOLE DASHBOARD === */
+.console-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  justify-content: space-between;
+  margin-top: 1rem;
+}
+
+.console-grid > div {
+  flex: 1;
+  min-width: 300px;
+  max-width: 48%;
+}
+
+/* === CALL OUT GRID USING PURE CALL OUT STRUCTURE === */
+.console-callout-grid .callout {
+  display: inline-block;
+  vertical-align: top;
+  width: 48%;
+  margin-right: 2%;
+}
+
+.console-callout-grid .callout:nth-child(2n) {
+  margin-right: 0;
+}
+
+/* === SMART SIDE-BY-SIDE CALLOUTS === */
+.callout-stack .callout {
+  display: inline-block;
+  vertical-align: top;
+  width: 49%;
+  margin-right: 2%;
+  margin-bottom: 1rem;
+}
+
+.callout-stack .callout:nth-child(2n) {
+  margin-right: 0;
+}
+
+/* Target callout titles */
+.callout-title,
+.callout[data-callout="info"] .callout-title {
+  color: var(--steel-blue) !important;
+}
+
+/* Optional: also tone down dataview inline titles */
+.markdown-preview-view .dataview.result-group-title,
+.dataview.result-group-title {
+  color: var(--steel-blue) !important;
+}
+
+/* Change red text (headers, etc.) */
+.markdown-preview-view h1,
+.markdown-preview-view h2,
+.markdown-preview-view h3,
+span.cm-header,
+.calendar .calendar-title {
+  color: var(--steel-blue) !important;
+}
+
+/* Remove/redesign glow from callouts */
+.callout {
+  box-shadow: 0 0 10px var(--steel-blue);
+  border-left: 2px solid var(--steel-blue);
+}
+
+.centered-img {
+  text-align: center;
+}
+.centered-img img {
+  display: inline-block;
+}
+
+.character-box-right {
+  background-color: #1c1f26; /* dark steel grey */
+  border: 1px solid #3a3f45;
+  border-radius: 12px;
+  padding: 10px;
+  box-shadow: 0 0 12px rgba(0,0,0,0.4);
+  max-width: 420px;
+}
+
+.character-box-right img {
+  border-radius: 6px;
+  margin: 0 auto;
+  display: block;
+}
+
+.markdown-preview-view h1::after {
+  content: "";
+  display: block;
+  width: 100%;
+  height: 2px;
+  background-color: #5e6b75; /* steel blue/grey */
+  margin-top: 4px;
+  border: none !important;
+}
+
+.markdown-preview-view h1 {
+  border-bottom: none !important;
+}
+
+.callout.is-clean.is-right[data-callout="note"] {
+  background-color: #1d2127; /* steel blue/grey */
+  border: 1px solid #3b424a;
+  border-radius: 10px;
+  padding: 12px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.3);
+}
+
+.callout.is-clean.is-right[data-callout="note"] img {
+  border-radius: 6px;
+  display: block;
+  margin: 0 auto;
+}
+

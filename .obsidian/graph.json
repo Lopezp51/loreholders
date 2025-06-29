@@ -1,44 +1,72 @@
 {
   "collapse-filter": false,
-  "search": "path:\"Campanhas/Curse Of Strahd/Barovia │ Era de Ouro\"  ",
+  "search": "-path:.canvas",
   "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": false,
+  "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#vampiro",
+      "query": "tag: #lore  ",
       "color": {
         "a": 1,
-        "rgb": 5653115
+        "rgb": 7885536
       }
     },
     {
-      "query": "path:\"Campanhas/Curse Of Strahd/Barovia │ Era de Ouro/Bestiário\"",
+      "query": "tag: #faction",
       "color": {
         "a": 1,
-        "rgb": 6555906
+        "rgb": 12210912
       }
     },
     {
-      "query": "path:\"Campanhas/Tales from the Yawning Portal\"",
+      "query": "tag: #character",
       "color": {
         "a": 1,
-        "rgb": 7971589
+        "rgb": 6790770
+      }
+    },
+    {
+      "query": "tag: #territory",
+      "color": {
+        "a": 1,
+        "rgb": 11956271
+      }
+    },
+    {
+      "query": "tag: #chapter",
+      "color": {
+        "a": 1,
+        "rgb": 11216422
+      }
+    },
+    {
+      "query": "tag: #home",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "tag: #bside",
+      "color": {
+        "a": 1,
+        "rgb": 14633349
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": -1.9,
-  "nodeSizeMultiplier": 1.04150204742834,
-  "lineSizeMultiplier": 1.3942896998605,
-  "collapse-forces": true,
-  "centerStrength": 0.415335463258786,
-  "repelStrength": 20,
-  "linkStrength": 0.251181208657697,
-  "linkDistance": 492,
-  "scale": 0.42465330965708786,
+  "textFadeMultiplier": -0.1,
+  "nodeSizeMultiplier": 0.871453287197232,
+  "lineSizeMultiplier": 1.93961937716263,
+  "collapse-forces": false,
+  "centerStrength": 0.5,
+  "repelStrength": 15.0519031141869,
+  "linkStrength": 0.493079584775087,
+  "linkDistance": 94,
+  "scale": 0.7514342322277698,
   "close": true
 }

@@ -3743,7 +3743,7 @@ body:not(.folder-arrow-display) .nav-folder .tree-item-icon.collapse-icon,
 }
 
 .nav-file-title {
-  color: var(--file-text-color);
+  color: #ffffff;
 }
 
 .nav-file-tag {

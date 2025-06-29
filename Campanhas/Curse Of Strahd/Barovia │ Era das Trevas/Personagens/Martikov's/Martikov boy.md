@@ -1,1 +1,0 @@
-![[Martikov boy.png]]

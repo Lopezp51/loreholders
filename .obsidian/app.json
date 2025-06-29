@@ -1,17 +1,9 @@
 {
-  "alwaysUpdateLinks": true,
+  "defaultViewMode": "preview",
+  "livePreview": false,
+  "readableLineLength": false,
   "promptDelete": false,
-  "attachmentFolderPath": "Campanhas/Curse Of Strahd/Imagens",
-  "defaultViewMode": "source",
-  "autoConvertHtml": true,
-  "livePreview": true,
-  "pdfExportSettings": {
-    "includeName": false,
-    "pageSize": "Letter",
-    "landscape": false,
-    "margin": "0",
-    "downscalePercent": 100
-  },
-  "showInlineTitle": true,
+  "alwaysUpdateLinks": true,
+  "showInlineTitle": false,
   "propertiesInDocument": "visible"
 }

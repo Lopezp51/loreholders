@@ -1,1 +1,0 @@
-![[Vinícola Mago dos Vinhos.png]]

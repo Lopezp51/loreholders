@@ -1,0 +1,13 @@
+{
+  "cssTheme": "ITS Theme",
+  "enabledCssSnippets": [
+    "supercharged-links-gen",
+    "disgraceland-profile",
+    "dgl",
+    "bside",
+    "fullstat",
+    "world",
+    "hrline"
+  ],
+  "accentColor": "#e9e6d3"
+}

@@ -1,0 +1,373 @@
+{
+  "mapMarkers": [
+    {
+      "id": "tribucia-map",
+      "locked": true,
+      "lastAccessed": 1750374757967,
+      "markers": [
+        {
+          "id": "ID_d96bbae888d9",
+          "type": "Sagrado",
+          "loc": [
+            87.3697919845581,
+            208.7300481378262
+          ],
+          "link": "Loreholder's/Campanhas/Curse Of Strahd/Barovia │ Era de Ouro/Localidades/Cidades/Vila de Barovia/Casa Leste da Party Canvas.canvas",
+          "layer": "media%2Fstrahd%2FLocalidades%2Fvila_de_barovia.png",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Casa do Time 1",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6b383af9dbeb",
+          "type": "default",
+          "loc": [
+            87.45572805404663,
+            202.9243887762858
+          ],
+          "layer": "media%2Fvault%2FSword-Coast-Map_HighRes.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": []
+    },
+    {
+      "id": "vila_de_barovia",
+      "locked": true,
+      "lastAccessed": 1750642282765,
+      "markers": [
+        {
+          "id": "ID_ab6a4998db49",
+          "type": "default",
+          "loc": [
+            2323.906565844707,
+            2948.0554160043193
+          ],
+          "layer": "media%2Fstrahd%2FLocalidades%2Fvila_de_barovia.png",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 10,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_cbd97a6b086a",
+          "type": "default",
+          "loc": [
+            2349.916717529297,
+            2941.8182487122886
+          ],
+          "layer": "media%2Fstrahd%2FLocalidades%2Fvila_de_barovia.png",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 10,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_085beab9e86b",
+          "type": "default",
+          "loc": [
+            2170.5001831054688,
+            2648.7382065167403
+          ],
+          "layer": "media%2Fstrahd%2FLocalidades%2Fvila_de_barovia.png",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 10,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4978c9089bea",
+          "type": "default",
+          "loc": [
+            2454.5001831054688,
+            2356.5233426462473
+          ],
+          "layer": "media%2Fstrahd%2FLocalidades%2Fvila_de_barovia.png",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 10,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_084b1919f8ca",
+          "type": "default",
+          "loc": [
+            2249.4247091042216,
+            2862.1361901810333
+          ],
+          "layer": "media%2Fstrahd%2FLocalidades%2Fvila_de_barovia.png",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 10,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3a287be94bdb",
+          "type": "default",
+          "loc": [
+            2298.3333740234375,
+            2030.513612950699
+          ],
+          "layer": "media%2Fstrahd%2FLocalidades%2Fvila_de_barovia.png",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 10,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_499879fbf98b",
+          "type": "default",
+          "loc": [
+            2374.5000610351562,
+            2811.7130242825606
+          ],
+          "layer": "media%2Fstrahd%2FLocalidades%2Fvila_de_barovia.png",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_0abb882adae9",
+          "type": "default",
+          "loc": [
+            2010.3333740234375,
+            2198.63723325975
+          ],
+          "layer": "media%2Fstrahd%2FLocalidades%2Fvila_de_barovia.png",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_fa58d8e839e9",
+          "type": "Local Seguro",
+          "loc": [
+            2360.676032149662,
+            2988.488615637116
+          ],
+          "link": "Loreholder's/Campanhas/Curse Of Strahd/Barovia │ Era de Ouro/Localidades/Cidades/Vila de Barovia/Casa Leste da Party.canvas",
+          "layer": "media%2Fstrahd%2FLocalidades%2Fvila_de_barovia.png",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Casa da Party",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_68091838da99",
+          "type": "Sagrado",
+          "loc": [
+            3551.4438516678083,
+            1162.4937228491501
+          ],
+          "link": "Loreholder's/Campanhas/Curse Of Strahd/Barovia │ Era de Ouro/Localidades/Cidades/Vila de Barovia/Igreja Vila de Barovia do Sol.canvas",
+          "layer": "media%2Fstrahd%2FLocalidades%2Fvila_de_barovia.png",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Igreja do Sol",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Loreholder's/Campanhas/Curse Of Strahd/Barovia │ Era de Ouro/Localidades/Cidades/Vila de Barovia/Vila de Barovia.md"
+      ]
+    }
+  ],
+  "defaultMarker": {
+    "type": "default",
+    "iconName": "map-marker",
+    "color": "#dddddd",
+    "transform": {
+      "size": 6,
+      "x": 0,
+      "y": -2
+    }
+  },
+  "markerIcons": [
+    {
+      "type": "Territory",
+      "iconName": "city",
+      "color": "#e65151",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Sagrado",
+      "iconName": "church",
+      "color": "#e09200",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Memorial",
+      "iconName": "cross",
+      "color": "#9a7a23",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Local Seguro",
+      "iconName": "home",
+      "color": "#d60505",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    }
+  ],
+  "color": "#dddddd",
+  "lat": 39.983334,
+  "long": -82.98333,
+  "notePreview": true,
+  "layerMarkers": true,
+  "previousVersion": "6.0.5",
+  "version": {
+    "major": 6,
+    "minor": 0,
+    "patch": 5
+  },
+  "warnedAboutMapMarker": false,
+  "copyOnClick": false,
+  "displayMarkerTooltips": "hover",
+  "displayOverlayTooltips": true,
+  "configDirectory": null,
+  "mapViewEnabled": true,
+  "mapViewParameters": {
+    "darkMode": "false",
+    "defaultZoom": -3,
+    "distanceMultiplier": 1,
+    "drawColor": "#3388ff",
+    "geojson": [],
+    "geojsonColor": "#3388ff",
+    "gpx": [],
+    "gpxColor": "#3388ff",
+    "height": "500px",
+    "image": "media/strahd/Localidades/vila_de_barovia.png",
+    "imageOverlay": [],
+    "isMapView": false,
+    "layers": [
+      "media/strahd/Localidades/vila_de_barovia.png"
+    ],
+    "linksFrom": [],
+    "linksTo": [],
+    "marker": [],
+    "commandMarker": [],
+    "markerFile": [],
+    "markerFolder": [],
+    "markerTag": [],
+    "maxZoom": 1,
+    "minZoom": -3,
+    "osmLayer": true,
+    "overlay": [],
+    "overlayColor": "blue",
+    "scale": 0.09328358208955223,
+    "showAllMarkers": false,
+    "tileServer": [],
+    "verbose": false,
+    "zoomDelta": 0.5,
+    "zoomFeatures": false,
+    "id": "vila_de_barovia",
+    "bounds": [
+      [
+        0,
+        0
+      ],
+      [
+        5000,
+        4025
+      ]
+    ],
+    "width": "95%",
+    "lat": 2500,
+    "long": 2012.5,
+    "unit": "mi",
+    "recenter": false,
+    "darkmode": false,
+    "filterTag": []
+  },
+  "enableDraw": true,
+  "defaultUnitType": "imperial",
+  "defaultTile": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultTileDark": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultAttribution": "&copy; <a href=\"https://www.openstreetmap.org/copyright\">OpenStreetMap</a> contributors &copy; <a href=\"https://carto.com/attributions\">CARTO</a>",
+  "defaultTileSubdomains": "a,b,c,d"
+}

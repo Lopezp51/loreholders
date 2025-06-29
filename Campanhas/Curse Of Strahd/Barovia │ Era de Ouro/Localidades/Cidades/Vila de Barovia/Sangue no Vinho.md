@@ -1,1 +1,0 @@
-Taverna de vila de Barovia. 

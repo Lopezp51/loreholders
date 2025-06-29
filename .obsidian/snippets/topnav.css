@@ -1,0 +1,35 @@
+.top-nav {
+  background-color: #333942;
+  padding: 10px 20px;
+  text-align: center;
+  border-bottom: 2px solid #444;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  display: flex;
+  justify-content: center;
+  gap: 30px; /* controls spacing between items */
+}
+
+.top-nav a {
+  color: #ddd;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 16px;
+  transition: color 0.2s ease;
+  position: relative;
+  padding: 0 10px;
+}
+
+/* Add a vertical divider using ::after, except on the last link */
+.top-nav a:not(:last-child)::after {
+  content: "|";
+  position: absolute;
+  right: -15px;
+  color: #555;
+}
+  
+.top-nav a:hover {
+  color: #FFFFFF;
+}
+

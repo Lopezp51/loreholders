@@ -1,0 +1,77 @@
+.callout[data-callout="video"] {
+    max-width: 700px;
+    margin: 20px auto; /* centers horizontally */
+    padding: 15px;
+    background-color: #222;
+    border: 2px solid #555;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.7);
+    display: block; /* ensure block behavior */
+}
+
+
+
+/* Base popup */
+.video-container {
+  position: relative;
+}
+
+/* Hide the popup if checkbox is checked */
+#close-popup-toggle:checked ~ .video-container .video-popup {
+  display: none;
+}
+
+/* Video reset trick: when checkbox is checked, remove the video from flow */
+#close-popup-toggle:checked ~ .video-container .video-popup video {
+  display: none;
+}
+
+/* Popup styles */
+.video-popup {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background-color: rgba(0,0,0,0.85);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 999;
+}
+
+/* Video box */
+.video-wrapper {
+  position: relative;
+  width: 1040px;
+  max-width: 90%;
+  border: 3px solid #444;
+  box-shadow: 0 0 20px black;
+}
+
+/* Close button */
+#closeBtn {
+  position: absolute;
+  top: -15px;
+  right: -15px;
+  background: #222;
+  color: white;
+  border: none;
+  font-size: 18px;
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  cursor: pointer;
+  text-align: center;
+  line-height: 32px;
+  z-index: 1001;
+}
+
+/* Video display */
+.video-wrapper video {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+
