@@ -60,5 +60,7 @@
   "supercharged-links@@1ab5-55e0-color": "#FF8D00",
   "supercharged-links@@d94f-7f86-color": "#F2E31B",
   "supercharged-links@@b64b-bb5c-color": "#00F49F",
-  "supercharged-links@@8f24-bd22-color": "#CEAD00"
+  "supercharged-links@@8f24-bd22-color": "#CEAD00",
+  "ITS@@ITS-Sizes": "none",
+  "ITS@@file-line-width": 700
 }

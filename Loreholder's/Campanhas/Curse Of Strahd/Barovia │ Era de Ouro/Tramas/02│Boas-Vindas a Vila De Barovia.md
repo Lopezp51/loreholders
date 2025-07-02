@@ -1559,7 +1559,7 @@ Ele ergueu as mãos, calmamente, acalmando-a. Trocaram algumas palavras baixas, 
 
 Apresentou-se como **sacerdotisa temporária**. Explicou, com hesitação, que nunca tinha visto aqueles rostos na missa. Perguntou quem eram. O grupo se apresentou como **candidatos ao trono de Barovia**. Um sorriso tenso dançou no rosto dela — respeito misturado à dúvida.
 
-Ofereceram ajuda. Falaram que viram o estado da igreja, poderiam ajudar a arrumar. Ela aceitou — precisava. Contou que estava sozinha agora, sacerdote provisória pelos próximos meses. O [[Sacerdote da Vila de Barovia|sacerdote]] anterior tinha partido no mesmo dia em que eles deixaram suas cidades — outro possível candidato ao trono.
+Ofereceram ajuda. Falaram que viram o estado da igreja, poderiam ajudar a arrumar. Ela aceitou — precisava. Contou que estava sozinha agora, sacerdote provisória pelos próximos meses. O [[Pastor Gatstaf|sacerdote]] anterior tinha partido no mesmo dia em que eles deixaram suas cidades — outro possível candidato ao trono.
 
 Quando Anna perguntou **o que aconteceu lá dentro**, a sacerdotisa baixou o olhar, apertando o castiçal contra o peito.
 
@@ -1910,3 +1910,159 @@ A sacerdotisa virou-se para o grupo, agora dentro da igreja, a chama do castiça
 — A propósito… meu nome é **[[Fiona Solbakk]]**. Muito prazer.
 
 ### **2.7 -**  P´ROXIMA SESSÃO
+
+Fiona adentrou o corredor principal, o castiçal erguido, as chamas oscilando enquanto seus passos ecoavam na madeira quebrada. Foi direto até a primeira porta à direita, empurrou-a com certo receio — mas o que viu ali dentro fez seus ombros murcharem num suspiro longo. Fechou a porta devagar, o trinco rangendo baixo.
+
+Virou-se para o grupo, os olhos ainda cansados, mas o tom da voz era aberto, quase caloroso:
+
+— Bom… sintam-se convidados a entrar em nossa casa.
+
+Ela deu uma olhada nos estragos: bancos despedaçados, velas caídas, farpas por todo lado. Respirou fundo.
+
+— Agradeço muito pela ajuda de vocês. E… quais seriam os nomes? Eu me apresentei a vocês, mas não vocês para mim.
+
+Um por um, o grupo se apresentou. Vozes breves, nomes trocados num laço rápido que a brisa fria carregou até os cantos altos da igreja. Quando todos terminaram, Fiona acenou com a cabeça, quase sorrindo:
+
+— Bom, sintam-se livres, convidados a entrarem. Eu já vou começar a arrumar as coisas aqui — temos uma missa ao final da tarde.
+
+Estalou os dedos, e pequenas centelhas douradas saltaram de suas mãos, correndo pelas velas apagadas. A chama brotou suave — não como fogo violento, mas como o **primeiro sol de uma manhã tímida**, espalhando calor em ondas silenciosas. Quando chegou aos bancos partidos, Fiona se ajoelhou. Passou a mão sobre a madeira quebrada — seus lábios moveram-se num sussurro baixo, quase uma prece.
+
+Um clarão miúdo, **cor de aurora**, brotou de sua palma. Como se o calor do próprio amanhecer fosse costurando as fendas, as lascas de madeira se encaixaram umas nas outras, voltando ao lugar. O estalo dos nós se fechando misturava-se ao som leve de um cântico, quase inaudível, que parecia sussurrar promessas de renovação. Um toque do **Sol**, costurando aquilo que o tempo ou a fome haviam partido.
+
+Anna entrou devagar, os passos ecoando na madeira parcialmente restaurada. Seus olhos, no entanto, não buscavam só o altar — varriam cada sombra, cada canto alto, procurando o vulto que a havia atacado. Nikolai e Bel vieram logo atrás, atentos, rastreando frestas.
+
+Foram os três que notaram primeiro: a porta que Fiona fechara estava entreaberta por um fio. Pela fresta, viram uma escrivaninha, papéis empilhados, um armário baixo — mas o que chamou atenção foi o chão: uma escotilha improvisada, parcialmente tapada com tábuas soltas. Rachaduras velhas, serragem fresca. O provável ninho da fome.
+
+Anna quebrou o silêncio, sem tirar os olhos da fresta:
+
+— Fiona, se isso sair de controle outra hora… chama a gente **na hora**.
+
+A sacerdotisa, ainda ajoelhada junto aos bancos, ergueu o rosto. A luz suave do **mending** dourava suas têmporas.
+
+— Não, tudo bem. Foi descuido meu, mas agradeço. Ele… é meio difícil de explicar, depois do que aconteceu. Mas eu não acredito que faria mal aos sacerdotes. Ele só estava **com muita fome**, rompeu uma das barreiras. E bom… — apontou para a destruição ao redor — todo esse resto deve ter sido do **dia amanhecer**. Mas agora que a luz voltou, ele vai ficar no subterrâneo.
+
+Anna não baixou o tom, firme:
+
+— Mas mesmo assim… acontecendo de novo, **chama**.
+
+Fiona assentiu, a voz suave:
+
+— Agradeço muito. E peço desculpas pela sujeira.
+
+Anna deu uma risada fraca, mirando Bel:
+
+— Não. O Bel fez um trabalho esplêndido aqui — ele e o Malkieer.
+
+Bel sorriu de canto, já rolando as mangas:
+
+— Bom… vamos às reformas?
+
+Nikolai, com um floreio quase teatral, sacou o bandolim. Um acorde ecoou, vibrando nas vigas altas, empurrando a poeira pra longe. A melodia era leve — um compasso animado, notas simples para dar ritmo às mãos.
+
+Cassandra, de pé junto a um banco semi-quebrado, olhou para Bel com um leve aceno:
+
+— Caso veja objetos que possam se conectar, Bel… vai trazendo pra perto.
+
+Bel ergueu o queixo num sinal de acordo, deixando seu capacete de lado para ajudar:
+
+— Pode deixar.
+
+Anna, já de joelhos, começou a reunir tábuas, pedaços de velas partidas, cacos de bancos. As vozes baixas misturavam-se ao som do bandolim de Nikolai — madeira se encaixando, feitiços sussurrados, preces do amanhecer reatando aquilo que a noite tentou quebrar.
+
+Cassandra se aproximou de um banco partido ao meio — o encosto quebrado, farpas espetando o chão de pedra. Parou diante dele como quem encara um velho campo de batalha: respiração firme, olhar alinhado, o corpo quase imóvel.
+
+O braço mecânico rangeu num clique contido — pequenas placas deslizaram para o lado, revelando o interior oculto: uma dança de juntas, dobradiças e hastes finas que se desenroscaram devagar, como braços de um relojoeiro minucioso.  
+Na ponta dos dedos, brotaram pinças finas, uma lâmina curva, um ponteiro que tremia de leve, buscando a primeira fenda na madeira.
+
+Quando apoiou a palma de metal sobre o encosto partido, um leve **calor** subiu pelas juntas — um sopro de vapor branco escapou, carregando o cheiro de óleo limpo misturado ao pó do banco velho.  
+Nada de luzes brilhantes. Nada de faíscas espetaculares. Apenas o som suave de **molas, engrenagens**, o tic-tic de um trabalho paciente.
+
+Por dentro, Cassandra sentiu o caos de pensamentos zunir — o velho instinto de que sempre a empurrava a **quebrar**. Mas ali, entre farpas e poeira, ela se obrigava a inverter o pulso: **reunir**, **costurar**, **refazer**. Cada prego encaixado era uma brida na mente. Cada tábua colada, uma âncora para não se perder.
+
+Enquanto isso, Bel ia reunindo pedaços maiores, jogando-os mais perto, Anna recolhia lascas menores, e a música suave de Nikolai, pairando pelo teto alto, abafava qualquer ruído de fora.
+
+Aos poucos, o banco voltava a ser banco — fissuras se alinhavam, fendas sumiam, os parafusos invisíveis apertavam-se sozinhos, soldas quentes se firmavam na fibra. E Cassandra seguia, quieta, concentrada, respirando o cheiro de madeira aquecida e metal morno — **reparando o que podia**.
+
+Malkieer permaneceu perto de Cassandra por longos minutos, o rabo balançando de um lado para o outro como se acompanhasse a cadência dos **aparelhos do braço mecânico** dela. De tempos em tempos, ele inclinava a cabeça, olhos curiosos — fascinado por cada pinça, cada faísca de calor que costurava a madeira partida como se fosse carne viva.
+
+O grupo seguiu nesse ritmo por mais de uma hora e meia. Entre tábuas recolhidas, bancos reerguidos e velas recolocadas, o salão principal da igreja foi voltando a parecer um lugar digno de acolher fiéis — não um túmulo para espíritos famintos.
+
+Fiona, no começo, movia-se como quem pisa em ovos — ansiosa, os ombros tensos, os dedos trêmulos ao manusear vassouras e panos úmidos. Mas, aos poucos, à medida que as vozes suaves enchiam o ar — a melodia de Nikolai, as piadas de Malkieer, o tom calmo de Bel — a jovem começou a relaxar. Entre um banco e outro, ficou claro: **ela era muito mais nova do que tentava aparentar**. Talvez **dezesseis anos**, no máximo. E cada “obrigada” saía dela como se fosse uma prece solta no ar — repetida, insistente, quase tímida.
+
+Quando viu Cassandra novamente soldando uma fenda, não conteve a pergunta — a voz saiu num tom que misturava a curiosidade de aprendiz e o receio de ser rude:
+
+— As suas… me perdoe se isso for um pouco indiscreto… mas apesar de você estar consertando da mesma maneira, não é a mesma forma da magia sagrada, né?
+
+Cassandra ergueu os olhos, ainda focada no braço que zumbia baixo:
+
+— É um pouco diferente, né? Eu tento replicar um pouco desse tipo de magia. Tem algo dentro que eu posso manipular, mas… eu preciso de ajuda pra **tirar**. O braço meio que auxilia um pouco nisso.
+
+Fiona soltou uma risada pequena, quase infantil, mas sincera:
+
+— Acho que eu entendo bem. Eu demorei até um pouco pra pegar o jeito. — Deu uma fungada, ajeitando o véu bagunçado. — Às vezes eu sinto que preciso **desligar um pouco o cérebro**, só acreditar que tá tudo bem… e as coisas ficam bem.
+
+Cassandra sorriu de lado, ajustando uma dobradiça de metal no pulso:
+
+— O meu… eu acho que tento ficar mais ativa em contrapartida. Consertar alguma coisa assim pra mim é complicado. É mais difícil… é foco, entende?
+
+Fiona assentiu, as mãos juntas:
+
+— Bom, se você precisar um dia tirar essa sensação, o que me ajudou bastante foi o [[Pastor Gatstaf|pastor]] — foi ele quem me ensinou as minhas magias.
+
+Cassandra arqueou uma sobrancelha:
+
+— O antigo sacerdote chefe daqui?
+
+— Isso… o [[Pastor Gatstaf]]. E quem ia imaginar que, depois de **dois dias** de ele me deixar responsável, a igreja estaria assim…
+
+Cassandra soltou um riso contido, quase cúmplice:
+
+— Um começo complicado…
+
+Fiona balançou a cabeça, os olhos se enrugando num sorriso:
+
+— Eu sabia que não era uma boa ideia. — E deu de ombros. — Mas, bem… aqui em Barovia, se você não faz as coisas, quem mais vai fazer, né?
+
+Cassandra apoiou o braço metálico na beirada de um banco, ainda focada na solda que se fechava:
+
+— Você tá começando agora. Não exija tanto de você. Você ainda vai aprender muita coisa. E pelo menos seu coração tá no caminho certo. Vai dar tudo bem… **confia**.
+
+Fiona sorriu, os olhos úmidos de alívio:
+
+— Obrigada.
+
+Cassandra completou, com a voz baixa, mas firme:
+
+— E também… o pastor, se ele tá viajando pra outros lugares, talvez esteja ajudando mais gente também.
+
+Fiona respirou fundo, enxugou a ponta do nariz com a manga:
+
+— Sem dúvidas. Bom… eu vou tentar não falhar dessa vez. E, como você falou… tentar ajudar o povo daqui. — Ajeitou o véu, olhou para os outros. — Se precisarem… caso queiram rezar um pouco, as missas são às **quatro da tarde**.
+
+Cassandra, agora ajustando o último parafuso de madeira:
+
+— Talvez seja bom, de vez em quando.
+
+Fiona riu, balançando a cabeça:
+
+— Bom… eu acredito que, já que a missão de vocês é **melhorar Barovia**, acho que a cidade vai ficar melhor mesmo com o bom trabalho de vocês. Eu estava pensando que teria que derrubar a porta pra entrar, por isso acabei pedindo ajuda pro Vadrik. Mas que bom que vocês conseguiram resolver da maneira mais… pacífica, eu diria.
+
+Do outro lado, Anna, empilhando alguns pedaços de banco que restavam, soltou um seco:
+
+— É…
+
+Nikolai, dedilhando uma nota maior no bandolim, abriu um sorriso largo, carregado de ironia:
+
+— Bem pacífica…
+
+Malkieer, que vinha rodopiando uma lasca de madeira na mão, miou baixinho:
+
+— É, não tivemos nenhuma **morte**.
+
+Nikolai não perdeu a deixa — piscou para Anna e completou, rindo:
+
+— Teve até um **abracinho**, né?
+
+O grupo riu. O eco dessa risada — leve, quase deslocada naquele templo manchado — subiu pelas vigas, misturou-se ao som do vento lá fora. Por um instante, a igreja parecia mesmo viva de novo.
+
+22:20

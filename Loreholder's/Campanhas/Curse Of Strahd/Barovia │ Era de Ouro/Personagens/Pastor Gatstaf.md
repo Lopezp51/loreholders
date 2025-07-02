@@ -14,10 +14,10 @@ aparicao:
   - 02│Boas-Vindas a Vila De Barovia
 ---
 
-> [!NOTE|clean no-i right]+ Sacerdote da Vila de Barovia
+> [!NOTE|clean no-i right]+ Gatstaf
 > ![[.png|500]]  
 
-# ** Sacerdote da Vila de Barovia **
+# ** Pastor Gatstaf**
 
 **Descrição:**  
 

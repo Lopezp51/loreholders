@@ -822,8 +822,8 @@
         "locations": []
       },
       "current": {
-        "day": 19,
-        "month": 5,
+        "day": 1,
+        "month": 6,
         "year": 2025
       },
       "events": [
@@ -1076,6 +1076,57 @@
             "timestamp": 5e-324,
             "order": ""
           }
+        },
+        {
+          "name": "Notas Rascunho",
+          "description": "tes",
+          "date": {
+            "day": 29,
+            "month": 5,
+            "year": 2025
+          },
+          "id": "ID_ab78bb9929e8",
+          "note": "Jogadores/Pedro/Notas Rascunho.md",
+          "category": "natural-events",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Stranhd Era de Ouro - Sessão 5",
+          "description": null,
+          "date": {
+            "day": 29,
+            "month": 5,
+            "year": 2025
+          },
+          "id": "ID_1b19fa1a2869",
+          "note": null,
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "02│Boas-Vindas a Vila De Barovia",
+          "description": "Sessão 5",
+          "date": {
+            "day": 29,
+            "month": 5,
+            "year": 2025
+          },
+          "id": "ID_59dbf9e819db",
+          "note": "Loreholder's/Campanhas/Curse Of Strahd/Barovia │ Era de Ouro/Tramas/02│Boas-Vindas a Vila De Barovia.md",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
         }
       ],
       "id": "ID_8abafa4a6a08",

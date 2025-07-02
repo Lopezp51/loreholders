@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"7c915603cf55df1e","type":"file","file":"Loreholder's/media/strahd/Localidades/igreja do sol vila de barovia.png","x":-720,"y":-400,"width":1240,"height":1021}
+		{"id":"6665e0ba9af4ac79","x":-880,"y":-460,"width":1420,"height":1236,"type":"file","file":"Loreholder's/media/strahd/Localidades/igreja_do_sol.png"}
 	],
 	"edges":[]
 }
