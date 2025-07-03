@@ -88,3 +88,7 @@ lazyLoad: true
 [⛪ Igreja do Sol](obsidian://open?vault=DisgracelandOnline&file=Loreholder's%2FCampanhas%2FCurse%20Of%20Strahd%2FBarovia%20%E2%94%82%20Era%20de%20Ouro%2FLocalidades%2FCidades%2FVila%20de%20Barovia%2FIgreja%20Vila%20de%20Barovia%20do%20Sol.canvas)
 
 🍺Sangue no Vinho
+
+🛖Fazenda do Velho Ernist
+
+🛖Açougue Porco Feliz

@@ -46,7 +46,7 @@
     {
       "id": "vila_de_barovia",
       "locked": true,
-      "lastAccessed": 1750642282765,
+      "lastAccessed": 1751504493911,
       "markers": [
         {
           "id": "ID_ab6a4998db49",
@@ -209,6 +209,70 @@
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
+        },
+        {
+          "id": "ID_2bc8a919a879",
+          "type": "Casa",
+          "loc": [
+            3202.3333740234375,
+            3468.9798065706927
+          ],
+          "layer": "media%2Fstrahd%2FLocalidades%2Fvila_de_barovia.png",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Fazenda do Velho Ernist",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_99a8fbeb2a78",
+          "type": "Taverna",
+          "loc": [
+            2583.8335571289062,
+            2006.831584834683
+          ],
+          "layer": "media%2Fstrahd%2FLocalidades%2Fvila_de_barovia.png",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Taverna Sangue no Vinho",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_59fa5a798a78",
+          "type": "Comercio",
+          "loc": [
+            1555.2499694824219,
+            3199.199342567083
+          ],
+          "layer": "media%2Fstrahd%2FLocalidades%2Fvila_de_barovia.png",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Açogue Porco Feliz",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4808daeada1b",
+          "type": "Comercio",
+          "loc": [
+            2013.604554420135,
+            1966.9500369059037
+          ],
+          "layer": "media%2Fstrahd%2FLocalidades%2Fvila_de_barovia.png",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Mercantil de Bildrath",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
         }
       ],
       "overlays": [],
@@ -281,6 +345,54 @@
       "type": "Local Seguro",
       "iconName": "home",
       "color": "#d60505",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Casa",
+      "iconName": "house-user",
+      "color": "#18a528",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Taverna",
+      "iconName": "beer",
+      "color": "#feaf06",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Comercio",
+      "iconName": "building",
+      "color": "#0aadff",
       "alpha": 1,
       "layer": true,
       "transform": {

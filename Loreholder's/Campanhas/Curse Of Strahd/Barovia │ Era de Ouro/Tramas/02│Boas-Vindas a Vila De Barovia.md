@@ -2065,4 +2065,36 @@ Nikolai não perdeu a deixa — piscou para Anna e completou, rindo:
 
 O grupo riu. O eco dessa risada — leve, quase deslocada naquele templo manchado — subiu pelas vigas, misturou-se ao som do vento lá fora. Por um instante, a igreja parecia mesmo viva de novo.
 
-22:20
+---
+A reconstrução chegou ao fim quando o último banco foi encaixado no lugar — as tábuas lisas de novo, as velas todas acesas, o cheiro da poeira misturado ao leve aroma de cera e madeira recém-lixada. Fiona ainda passava um pano úmido por entre as fendas, os olhos marejados de gratidão que ela parecia não conseguir disfarçar.
+
+Ao final da obra, perguntaram a respeito do [[Ernist|Velho Ernist]], Fiona comentou que ele é alguém estranho, não aparece nas missas e não conhece ninguém que é amigo dele, só o que se houve é rumores estranhos, ele vive meio isolado das pessoas.
+>
+Antes de saírem, Nikolai ergueu um dedo, apontando para o alto da igreja:
+>
+— E o sino… vocês usam quando?
+>
+Fiona olhou na mesma direção, como se confirmasse que ele ainda estava lá, firme no campanário cinzento.
+>
+— Ao **amanhecer**, ao **pôr do sol**, e… antes da **missa**.
+>
+Nikolai sorriu, quase satisfeito:
+>
+— Se acontecer qualquer coisa, toque o sino fora desses horários. Que a gente vem.
+>
+Fiona juntou as mãos, baixou o rosto num aceno profundo, sussurrando um **obrigada** quase engasgado.
+
+O grupo foi saindo em fila, um a um, atravessando o corredor onde a luz filtrava suave pelas frestas dos vitrais rachados. Na soleira, Cassandra parou por um instante. O braço mecânico rangeu, descansando ao lado do corpo. Ela fechou os olhos, os lábios se movendo num sopro:
+
+— Se és tu que alimenta a chama em meu peito, então não a deixe se apagar antes que eu termine o que prometi…
+
+Havia uma ponta de incerteza na prece — como se ela falasse a alguém que não sabia nomear. Mas, ainda assim, era uma promessa lançada ao vento de Barovia.
+
+Quando cruzaram os portões de ferro, o dia lá fora parecia mais **claro**, pelo menos para os padrões da vila. A névoa da manhã se rendera a um céu nublado, espesso, pesado como uma manta cinzenta que nunca se ergue de verdade.  Era quase **meio-dia**. 
+
+
+> [!NOTE|clean no-i left]+ Ernist e seu "amiguinho"
+> ![[ernist_e_seu_bicho.png|300]] 
+>
+
+30:10
