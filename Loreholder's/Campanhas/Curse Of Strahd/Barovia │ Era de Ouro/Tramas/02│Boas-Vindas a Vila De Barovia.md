@@ -1403,7 +1403,7 @@ Anna abriu. Era um mapa, um esboço da vila vista de cima  ruas tortas, marcas d
 
 O homem tirou outro papel do bolso.
 
-— O [[Vadrik]] mandou esses dois apontamentos. Primeiro: alguns moradores disseram que as plantações perto da fazenda do velho [[Ernist]] andam amanhecendo reviradas. Dizem que é por causa do novo bicho de estimação dele.
+— O [[Vadrik]] mandou esses dois apontamentos. Primeiro: alguns moradores disseram que as plantações perto da fazenda do velho [[Ernest]] andam amanhecendo reviradas. Dizem que é por causa do novo bicho de estimação dele.
 
 Anna ergueu uma sobrancelha.
 
@@ -1506,7 +1506,7 @@ Bel respirou fundo. E desceu, passo a passo, indo encontrar o resto do grupo.
 
 ---
 
-Lá embaixo, todos se reuniram por volta das onze da manhã. Um a um, foram chegando — cumprimentos contidos, sorrisos lentos, a voz baixa misturando o cheiro ainda morno de chá e restos de pão. Anna explicou o que os guardas haviam trazido: o mapa, as anotações, o relato do velho [[Ernist]] e a falta de missa na [[Igreja Vila de Barovia do Sol.canvas|igreja]].
+Lá embaixo, todos se reuniram por volta das onze da manhã. Um a um, foram chegando — cumprimentos contidos, sorrisos lentos, a voz baixa misturando o cheiro ainda morno de chá e restos de pão. Anna explicou o que os guardas haviam trazido: o mapa, as anotações, o relato do velho [[Ernest]] e a falta de missa na [[Igreja Vila de Barovia do Sol.canvas|igreja]].
 
 Enquanto falava, o grupo reunia o essencial — rações, cantis, algumas bolsas de mantimento —, preparando tudo para a primeira caminhada do dia. No estábulo, os cavalos aguardavam, coçando os cascos no chão úmido.
 
@@ -1909,7 +1909,7 @@ A sacerdotisa virou-se para o grupo, agora dentro da igreja, a chama do castiça
 
 — A propósito… meu nome é **[[Fiona Solbakk]]**. Muito prazer.
 
-### **2.7 -**  P´ROXIMA SESSÃO
+### **2.7 -**  Mãos a obra na igreja
 
 Fiona adentrou o corredor principal, o castiçal erguido, as chamas oscilando enquanto seus passos ecoavam na madeira quebrada. Foi direto até a primeira porta à direita, empurrou-a com certo receio — mas o que viu ali dentro fez seus ombros murcharem num suspiro longo. Fechou a porta devagar, o trinco rangendo baixo.
 
@@ -2068,7 +2068,7 @@ O grupo riu. O eco dessa risada — leve, quase deslocada naquele templo manchad
 ---
 A reconstrução chegou ao fim quando o último banco foi encaixado no lugar — as tábuas lisas de novo, as velas todas acesas, o cheiro da poeira misturado ao leve aroma de cera e madeira recém-lixada. Fiona ainda passava um pano úmido por entre as fendas, os olhos marejados de gratidão que ela parecia não conseguir disfarçar.
 
-Ao final da obra, perguntaram a respeito do [[Ernist|Velho Ernist]], Fiona comentou que ele é alguém estranho, não aparece nas missas e não conhece ninguém que é amigo dele, só o que se houve é rumores estranhos, ele vive meio isolado das pessoas.
+Ao final da obra, perguntaram a respeito do [[Ernest|Velho Ernest]], Fiona comentou que ele é alguém estranho, não aparece nas missas e não conhece ninguém que é amigo dele, só o que se houve é rumores estranhos, ele vive meio isolado das pessoas.
 >
 Antes de saírem, Nikolai ergueu um dedo, apontando para o alto da igreja:
 >
@@ -2092,9 +2092,420 @@ Havia uma ponta de incerteza na prece — como se ela falasse a alguém que não
 
 Quando cruzaram os portões de ferro, o dia lá fora parecia mais **claro**, pelo menos para os padrões da vila. A névoa da manhã se rendera a um céu nublado, espesso, pesado como uma manta cinzenta que nunca se ergue de verdade.  Era quase **meio-dia**. 
 
+### **2.8 -**  Open de abóbora 
+O grupo tomou a estrada curta em direção à **Taverna Sangue no Vinho**, decidido a avisar que a situação na igreja estava sob controle. Mas, ao se aproximarem, deram de cara com a tabuleta de madeira balançando na porta: **“Fechado.”**
 
-> [!NOTE|clean no-i left]+ Ernist e seu "amiguinho"
-> ![[ernist_e_seu_bicho.png|300]] 
+Malkieer, curioso como sempre, se esgueirou até a porta, apoiando as patas na madeira. Deu uma espiada pela janelinha de vidro — lá dentro, o que viu foi uma fileira de homens em uniformes: todos **guardas da Vila de Barovia**, espalhados pelas mesas e bancos, dormindo em posturas tortas, cabeças pendendo, alguns roncando baixo como velhos cansados demais pra vigiar qualquer coisa.
+
+O grupo trocou olhares. Não havia muito a fazer ali — então seguiram em frente, virando para a estrada de terra batida que levava à **fazenda do Velho Ernest**.
+
+No caminho, Nikolai andava meio distraído, até que, num cruzamento, viu o que procurava: um guarda da vila, sentado sozinho num banco de madeira, encostado num poste torto. O homem mirava o nada — os olhos abertos, mas o espírito num lugar tão cinzento quanto o céu de Barovia.
+>
+Nikolai aproximou-se devagar, a voz suave como um sopro:
+>
+— Com licença?
+>
+O guarda piscou, voltando à realidade com um som de garganta arranhada:
+>
+— Hm? Bom dia.
+>
+— Bom dia! — sorriu Nikolai, aquele sorriso ensaiado que já derrubara muralhas — Você sabe me dizer que horas a taverna ali abre?
+>
+O guarda soltou um suspiro que parecia puxar o mundo inteiro junto. Coçou a barba rala, olhou para o céu nublado como se procurasse as horas entre as nuvens:
+>
+— Abre... — coçou de novo, arrastando o som — Abre no pôr do sol.
+>
+Nikolai inclinou a cabeça, interessado:
+>
+— Entendi… Vocês usam como dormitório para os guardas?
+>
+O guarda estreitou os olhos, um lampejo de suspeita cortando a neblina mental:
+>
+— Por que você quer tanto saber da guarda? Você quer entrar pra guarda?
+>
+Sem piscar, Nikolai disparou a mentira mais doce do dia até então:
+>
+— Sim! Eu sempre quis. Me inspiro muito em vocês. Vocês são corajosos demais.
+>
+O guarda se endireitou como se lembrasse, de repente, que usava uma farda — inflou o peito, ajeitou a postura, tentou parecer digno:
+>
+— Bom… não é muito, mas é um trabalho honesto. Estamos sempre precisando de jovens fortes como você. Quer ser guarda da cidade? Fala com o Vadrik de noite. Pra quem não é guarda, a taverna abre só de noite, mas o taverneiro deixa a gente usar de dia, pra descanso.
+>
+Nikolai ergueu as sobrancelhas, dramático:
+>
+— Opa, mais uma vantagem de ser guarda.
+>
+O homem balançou a cabeça, satisfeito com sua própria importância:
+>
+— É, pô. Aqui eu trabalho de graça. Boa forma de ganhar a vida. Boa sorte no seu teste de iniciação.
+>
+— Obrigado. E bom trabalho pra você. Tô me sentindo muito seguro com você vigiando a rua.
+
+O guarda acenou, voltando a encarar o nada, já afundando de novo na lentidão.
+
+Assim que se afastaram alguns passos, Malkieer se aproximou de Nikolai, puxando a bainha da camisa. Parou bem na frente dele, os olhos imensos, arregalados — um brilho molhado, redondo, faiscando. As orelhinhas se abaixaram, o rabinho deu uma voltinha lenta, macio, balançando quase hipnótico.
+
+— Você vai deixar a gente, Nikolai? — miou, a voz arrastada num tom de pura fofura.
+
+Nikolai deu uma gargalhada, passou a mão no ombro do tabaxi.
+— Eu jamais faria isso Malkieer, eu só tava querendo algumas informações para a gente. — e, num gesto súbito, deu um **tapinha na bunda** dele, como se estivesse dando um peteleco num gato.
+
+Por um segundo, o mundo congelou. O grupo parou de andar. Anna abriu a boca, Cassandra ergueu uma sobrancelha, Bel arregalou os olhos. E então todos caíram na risada, meio sem acreditar no que tinham visto.
+
+Bel pigarreou, ainda rindo, tentando recobrar a compostura:
+
+— Vamos seguir pra fazenda?
+
+Cassandra deu um passo adiante, puxando o grupo com a voz seca, ansiosa pra sair logo dali:
+
+— Vamos… por favor.
+
+E assim, com Malkieer balançando o rabo indignado e Nikolai sorrindo satisfeito, a estrada de terra seguiu aberta rumo ao **Velho Ernest** — levando junto o eco daquela risada que, por um instante, parecia mais viva que o próprio céu de Barovia.
+
+---
+Chegando na fazenda, as casas nessa área da cidade pareciam **abandonadas**, mas não mortas — construções grandes demais para quem ainda restava ali. Um dia já foram fazendas prósperas, agora eram apenas cabanas de madeira encharcada, hortas improvisadas que mal se mantinham vivas na terra cinzenta de Barovia.  
+A cabana em questão era de um só andar, paredes tortas, tábuas apodrecidas, telhado cravejado de buracos. Ao lado, uma construção menor, que um dia foi um chiqueiro, agora não passava de um abrigo esquecido para ratos ou corvos famintos.
+
+Bel bateu na porta, uma, duas vezes — nada. O silêncio era espesso como neblina.
+
+Anna cantarolou, numa voz quase zombeteira:  
+— No silêncio da noite...
+
+Cassandra ergueu a mão, bateu de novo — o mesmo silêncio retornou, indiferente, como uma jogada inútil num tabuleiro parado.
+
+Bel olhou para os outros, respirou fundo:  
+— Vamos dar a volta na casa. Ver se encontramos algo.
+
+Tomou a dianteira, pisando sobre o barro úmido na rua ao lado. O grupo o seguiu por um beco improvisado, chutando sacos de tecido empilhados como se alguém despejasse lixo ali. O cheiro era acre, um apodrecido doce de cascas de legumes, sementes fermentadas e esterco velho. O som de passos esmagando folhas mortas ecoava como uma promessa ruim.
+
+> [!NOTE|clean no-i right]+ Ernest e seu "amiguinho"
+> ![[ernist_e_seu_bicho.png|800]] 
 >
 
-30:10
+Foi então que, dobrando o canto da parede carcomida, deram de cara com **[[Centopeia Gigante|aquilo]]**.
+
+Uma **centopeia colossal**, negra como carvão molhado, o corpo dividido em placas que pareciam armaduras de ferro polido. Cada junta da carapaça se fechava num vinco úmido, como se fosse feita de couro vivo, pulsante. Das laterais, surgiam dezenas — talvez centenas — de patas arqueadas, terminando em garras curvadas, vermelhas como carne viva. Cada pata se movia com uma sincronia quase silenciosa, arranhando o solo, mexendo as folhas secas como um coro de navalhas.
+
+Mas o que paralisava mais era o que vinha das patas da frente: **tentáculos**, longos, lustrosos, se projetavam como serpentes. Três deles serpenteavam no ar, se enroscando numa **abóbora** que parecia minúscula comparada àquele corpo. E quem segurava a abóbora era um **velho** — o tal Velho Ernest, só podia ser ele.
+
+Ele sorria. Um sorriso largo, banguela, o rosto enrugado de felicidade pura, olhos acesos como de uma criança que vê um animal de estimação. Vestia um manto velho de couro, forrado de peles, o gorro amassado sobre os cabelos brancos. As luvas grossas seguravam a abóbora com cuidado, como se fosse um presente precioso.
+
+Diante dos olhares, o Velho Ernest soltou uma risada rouca:
+
+— Ai meu deus, que coisa bonita… Vem cá, vem cá! — falou, e estendeu a abóbora pros tentáculos, que se enrolaram nela como dedos famintos.
+
+A abóbora sumiu entre as placas da carapaça. Não houve trituração, não houve estalo de dentes — apenas um som úmido, de algo sendo engolido inteiro, sumindo num buraco sem fundo entre as escamas.
+
+— **Veem cá! Tem mais um!** — disse, balançando outra abóbora como quem balança um brinquedo para um cachorro de colo.
+
+O velho Ernest ainda não parecia ter registrado a presença deles. O sorriso dele era só para a criatura, como se ninguém mais existisse sob aquele céu pálido.
+
+O grupo, parado no meio da cerca improvisada, observava a cena como quem espiava um segredo que não queria carregar.
+
+Foi Anna quem rompeu o silêncio, baixinho, com o cenho franzido:  
+— Será que isso é um problema? Eles parecem felizes, né?
+
+Bel olhou em volta, via agora como o velho abrira parte da cerca, criando um caminho de terra pisada que sumia no mato alto — uma trilha que ia dar, lá longe, numa faixa de floresta, uns cinquenta metros adiante. A criatura era enorme demais para se esgueirar sem rastros — mas o mato, alto, dava conta de esconder quase tudo. Uma estrada viva para um monstro passar sem ser notado.
+
+Nikolai pigarreou, ergueu um dedo como quem se voluntaria para o palco:  
+— Posso tomar a frente?
+
+Todos assentiram, quase por reflexo — talvez porque ninguém queria ser o primeiro a falar com o Velho Ernest.
+
+Nikolai olhou para Malkieer, um sorriso esquisito atravessando o rosto:  
+— Malkieer, eu acredito que você tenha a ferramenta certa para o meu plano. Você tem... veneno?
+
+Malkieer piscou, confuso:  
+— Por quê?
+
+Nikolai fez um gesto amplo, teatral, apontando para o bicho — e depois para o velho:  
+— Caso precise, podemos, amigavelmente, fazer ele assassinar o próprio bicho.
+
+O silêncio caiu como uma pá de cal. O grupo arregalou os olhos — até Malkieer esticou as orelhas, a cauda congelada.
+
+O tabaxi olhou de Nikolai para o monstro, do monstro para o velho — depois de volta para Nikolai, a sobrancelha arqueada.
+
+— Não é pra usar agora, é só se precisar.  Você tem?
+
+Malkieer espiou a criatura — o corpo colossal, as garras chitinadas, os tentáculos — e soltou um risinho tenso:  
+— Eu acho que o veneno que eu tenho não da conta disso aí não.
+
+Anna, ainda de braços cruzados, soltou um suspiro seco:  
+— Eu acho que não é “se” vai precisar. É “quando”. Olha pra esse troço — quando acabar a abóbora, ele vai comer o velho, certeza.
+
+Foi quando ela terminou que o Velho Ernest, todo contente, jogou uma abóbora pro alto — e o bicho disparou. A centopeia se contorceu numa curva grotesca, arqueando o corpo como um chicote de ferro, as garras frontais rasgando o ar. Um estalo surdo — a abóbora estourou no ar, sementes e polpa caindo como chuva fedorenta.
+
+O velho bateu palmas, radiante:  
+— Perfeito, boa pegada! — riu, virando-se para pegar outra. Mas o bicho pareceu perder o interesse — o corpo colossal se enrolou de novo, patas rangendo contra a terra, e num instante começou a deslizar para o mato alto, como uma sombra viva voltando pra toca.
+
+— Satisfeita já? — disse o Velho Ernest, dando uma risada curta, abanando a mão. — Bom, vou guardar o resto pra próxima vez. Tchau tchau!
+
+A criatura sumiu. Restou o velho, solitário, segurando a abóbora como se fosse um troféu.
+>
+Foi quando Nikolai se aproximou da cerca, palmas lentas, um sorriso largo talhado no rosto como uma máscara de pura cordialidade:  
+— Com licença, senhor Ernest?
+>
+O velho deu um pulo, largando a abóbora que segurava. O susto escapou num grito engasgado:  
+— AH! — Ele se recompôs, o peito arfando de leve, ajeitando o gorro puído na cabeça. — Ah, hm… sim?
+>
+Nikolai não perdeu o ritmo, a voz pingando doçura:  
+— Que espécie linda que você estava alimentando! Eu amo animais desse tipo!
+>
+Atrás dele, o grupo conteve a explosão de risadas. 
+>
+O velho piscou, desconfiado por um instante — mas logo o rosto se abriu num sorriso de gengivas quase nuas, o olhar brilhando de orgulho:  
+— Tem outro apreciador… dessa criatura magnífica? Qual o seu nome, jovem?
+>
+— Meu nome é Nikolai. Ela é, de fato, incrível! Magnífica!
+>
+Ernest se voltou para a grama alta, apontando com o dedo torto.  
+— É, é, é… eu acho ela tão bonita… olha lá! — Ele indicou uma mancha de movimento entre as moitas. De onde estavam, ainda era possível ver a centopeia pulando uma rocha, o corpo se contorcendo em segmentos, cada parte viva como um músculo de couro e quitina. Foram bons quinze segundos até toda a extensão dela sumir por trás das pedras, dissolvendo-se na linha da floresta.
+>
+Anna acompanhou com os olhos arregalados, tentando decifrar onde aquela criatura acabava — se é que acabava.
+>
+— Que lindeza… que beleza… — continuou o velho, sonhador. — O nome dela é [[Centopeia Gigante|Centi]].
+>
+Nikolai ergueu as sobrancelhas, como se saboreasse o nome na língua:  
+— Você é muito bom em dar nomes! Há quanto tempo ela te visita?
+>
+O velho coçou a têmpora, contou nos dedos sujos de terra:  
+— Olha, eu acho que faz uns… — fez uma pausa, perdendo a conta, recomeçando — umas duas semanas.
+>
+— E ela já era desse tamanho há duas semanas atrás? — Nikolai disse num tom tão inocente que chegava a ser criminoso. — Crescido, já vi algumas espécies que crescem meio rápido… e ela tem uma carinha que é dessas.
+>
+O velho Ernest soltou uma risada curta, quase infantil:  
+— Olha… se ela cresceu, eu não consegui estimar não, viu? Mas apareceu um dia… pedindo comida. E eu, como um bom fazendeiro, não vou recusar um prato de comida pra alguém necessitado. Além disso… — ele sorriu de orelha a orelha — …ela é alguém muito bonita.
+>
+— E ela vem com um horário meio fixo? — insistiu Nikolai, a lábia afiada. — Ou é quando dá fome?
+>
+— Bom… nos primeiros dias ela aparecia num horário meio aleatório. Mas agora… eu acho que ela aprendeu que meio-dia é o horário do almoço. — Ele estufou o peito de orgulho. — Ela é muito inteligente, muito bela. Mas não vem todo dia, não… vem uns dois ou três dias, mas sempre na hora certa.
+— Entendi… — Nikolai inclinou a cabeça, sem perder o sorriso — E ela tem amigos? Ou é só ela que te visita?
+>
+O velho estalou a língua, balançando o queixo:  
+— Eu acredito que ela seja uma espécie única. Raridade nesse mundo! — Ele ajeitou a gola puída, inflando o peito como se fosse dono de um segredo precioso. — E você, jovem? Que tipo de criatura você começou por essa paixão?
+>
+Nikolai piscou. Aquela fração de segundo foi suficiente para inventar, do nada, um ser mitológico:  
+— Eu tenho um elefante.
+>
+Ernest franziu as sobrancelhas, as rugas formando vales profundos em torno dos olhos:  
+— O que que é um elefante?
+>
+— Ah, é uma criatura linda… parecida com essa aí — Nikolai apontou, teatral, para onde a Centi se perdia no mato alto — só que um pouquinho mais gorda. Tem um dente grande, um nariz grande… basicamente isso.
+>
+O velho soltou um **“Hmmm…”** longo, a língua estalando contra o céu da boca. Um brilho de curiosidade faiscou.  
+— Pode desenhar pra mim?
+>
+— Não é minha melhor habilidade — disse o bardo, já arrancando um pedaço de pergaminho amassado da mochila — mas vou tentar.
+>
+O grupo se amontoou atrás dele, Markieer subindo na ponta dos pés, Cassandra cruzando os braços com ar resignado. Bel soltou uma risada baixa, balançando a cabeça.
+>
+Com a ponta de um carvão, Nikolai começou a arranhar linhas no papel, a língua presa no canto da boca. O resultado foi… peculiar. Diante deles, surgiu um contorno esquisito: um corpo oval, um rastro de linhas que poderiam ser cerdas ou grama, uma protuberância comprida para a frente — que, em teoria, era a tromba — e, acima dela, algo como uma orelha gigante. Um olho minúsculo flutuava solitário, meio fora de lugar.
+>
+> >[!NOTE|clean no-i right]+ "Elefante" do Nikolai
+>> ![[elefante_de_nikolai.png|600]] 
+>>
+>
+Ele ergueu o desenho para Ernest, inflando o peito de orgulho como se exibisse uma obra de arte.
+>
+Ernest se aproximou, curvando o tronco como quem examina uma relíquia preciosa. Os olhos se estreitaram, o queixo tremulou, e a boca se abriu num “O” silencioso, prolongado, como um sussurro de assombro. Atrás de Nikolai, o resto do grupo parecia conter a respiração — uma reverência irônica, como se contemplassem um oráculo em forma de rabisco.
+>
+— Entendi, entendi… é uma espécie diferente — murmurou Ernest, batendo de leve o indicador no desenho, tentando decifrar onde começava o bicho e onde terminava o mundo.
+>
+Nikolai abriu os braços, teatral, como se abrisse cortinas num palco.  
+— Bonito, né?
+>
+— Borboleta de cor diferente, hã? — Ernest coçou a têmpora, confuso, mas decidido a não perder a compostura.
+>
+— É… borboletas… borboletas — respondeu Nikolai, segurando a risada na garganta, que quase explodia junto com o sorriso.
+>
+Ernest, no entanto, não notou a piada. Fechou o pergaminho com cuidado, como se fosse um mapa de tesouro.  
+— Se quiser, daqui uns dois ou três dias apareça por aqui. Você vai poder ver a Centi de perto, dar comida na mão pra ela.
+>
+— Eu adoraria! — Nikolai ergueu as sobrancelhas, fingindo um entusiasmo genuíno. — Com certeza virei novamente.
+>
+Anna deu um passo adiante, a voz suave mas curiosa.  
+— Com licença… mas você sabe se ela só visita você ou se aparece em outras fazendas da região?
+>
+Ernest coçou o queixo, lançando um olhar enviesado para a mata onde a Centi desaparecera.  
+— Sei lá… O pessoal aqui do lado não é muito receptivo a coisas diferentes. Não acho que saberiam apreciar a beleza. Eu gosto de pensar que é um caso especial, sabe? Um presente pra mim. Uma honra receber uma visita tão digna.
+>
+Ele deu uma risada seca, satisfeito com a própria sorte.  
+— Acho que são poucos em Barovia que conseguem isso.
+>
+Nikolai pôs uma mão no peito, solene como um sacerdote.  
+— É verdade. Continue tratando bem essa criatura — disse, segurando o riso na beirada dos dentes. — Ela merece.
+>
+Ernest bateu as mãos, entusiasmado:  
+— E se você encontrar ou domesticar um “elefante”, traz pra eu dar uma olhada. Eu adoro esses bichos!
+>
+— Claro! É meio difícil, porque ele é grande, mas vou tentar — Nikolai respondeu, sério como um juiz,.
+>
+— Imagino… mas olha, aqui em Barovia tem bastante espaço!
+>
+— É verdade — disse Nikolai, dando um meio-giro, já se preparando para sair. — Bom, muito obrigado pela conversa, adorei te conhecer.
+>
+— Eu também! — Ernest abriu um sorriso quase infantil, batendo palmas. — Eu te oferecia uma abóbora, mas… estou guardando, se é que me entende.
+>
+— Claro, claro… ela tem a prioridade.
+>
+Ernest ergueu a mão, despedindo-se como quem abençoa.  
+— Tenham uma boa semana, tchau, tchau!
+
+O grupo virou as costas, avançando pela cerca, enquanto atrás deles o velho Ernest recolhia suas abóboras, satisfeito. Assim que saíram do alcance da voz do fazendeiro, todos trocaram olhares, digerindo em silêncio o que tinham acabado de testemunhar.
+
+Sem perder tempo, concordaram em seguir o rastro deixado na grama alta — um sulco tão largo que mais parecia uma pequena trilha cavada à força pela passagem da Centi. O mato vergado mostrava exatamente para onde ela tinha ido: direto para a Svalich, engolida pela muralha viva da floresta.
+
+Enquanto caminhavam, Malkieer quebrou o silêncio:  
+— Nikolai, você sabe se esses bichos costumam ser agressivos? Do tipo agressivos e carnívoros? Se acabar as abóboras eles vão atacar as pessoas aqui?
+
+— Eu nunca vi um bicho desse, Malkieer.
+
+O grupo trocou olhares confusos.
+
+Cassandra ergueu o queixo, semicerrando os olhos:  
+— Mas não era parecido com o “elefante”?
+
+Malkieer piscou devagar:  
+— Você não tem um desse??
+
+— Não galera, eu só tava tentando pegar informações pro nosso time — disse Nikolai, sem perder o sorriso, enquanto Bel soltava uma risada alta que ecoou pela vegetação.
+
+Cassandra, ainda de olhos semicerrados, murmurou com a voz baixa, quase rindo de incredulidade:  
+— Caraca, você mente muito bem.
+
+— Obriga… — Nikolai começou, mas Cassandra cortou:  
+— Isso é preocupante.
+
+Um silêncio seco caiu no grupo. Todos pararam, encarando Nikolai. Ele respirou fundo, ainda rindo:  
+— Mas eu me importo muito com vocês, relaxa.
+
+### **2.9 -**  Rastro infinito
+
+Sem mais comentários, a coruja de Malkieer ergueu voo, cortando o céu cinzento para vigiar o caminho adiante. Malkieer baixou-se, a cauda roçando o mato, liderando a trilha que se estendia como uma cicatriz verde até a boca da floresta.
+
+Pelas marcas e o mato esmagado, era claro: a criatura era veloz — mais rápida do que qualquer um deles poderia ser. Ainda assim, ninguém sugeriu parar. Com passos cautelosos, avançaram sob as copas úmidas e espessas da Svalich, onde o vento não ousava soprar.
+
+Malkieer percebia, a cada passo, como a criatura se mantinha rente ao chão. O rastro mostrava marcas fundas, raízes expostas, buracos semiabertos — como se ela cavasse parte das árvores, criando passagens e túneis pela floresta.
+
+Depois de uns dez minutos seguindo a trilha, ele se deu conta de que não havia mais sinal de que a Centi estivesse por perto. O caminho continuava, se aprofundando cada vez mais na mata, mas nenhum som, nenhum farfalhar indicava a presença imediata da criatura.
+
+Até que chegou à encruzilhada. Ali, trilhas se cruzavam sob as copas pesadas. Um silêncio quase sólido pairava — o tipo de silêncio que torna audível o próprio coração. Acima, as árvores fechavam a luz, deixando o ar mais frio. Um vento gelado serpenteava por entre os troncos. Ao longe, o grasnar de corvos — ou algum outro pássaro — soava como um aviso, sem beleza alguma.
+
+Enquanto o grupo olhava em volta, Malkieer estudava o chão, o mato dobrado, os túneis rasos. Viu que a criatura devia habitar trechos ainda mais profundos, sumindo no escuro onde a floresta engole tudo. Mas não era só isso: algumas das trilhas não iam para dentro. Voltavam, serpenteando até as bordas da vila. Não era um único caminho. Eram vários.
+
+Olhando para trás, na direção onde a vila se escondia entre a neblina, Malkieer entendeu — aquela criatura não tinha uma rota fixa. Ela poderia se aproximar da cidade por onde quisesse. E cada rastro novo era uma promessa: não havia cerca, nem porta, que a mantivesse longe por muito tempo.
+
+Malkieer explicou em voz baixa o que havia visto: túneis, raízes rasgadas, as trilhas se abrindo como veias na mata — algumas mergulhando fundo na Svalich, outras voltando para lamber as cercas da vila. Depois de uma troca curta de olhares, o grupo concordou: ainda não era hora de recuar. Avançariam mais um pouco, só o bastante para ver se o rastro levava a algo que valesse ser sabido antes de voltarem. Quando fosse hora de voltar, poderiam explorar um dos caminhos que se aninhavam em volta da cidade como serpentes.
+
+E assim foram, adentrando a floresta com uma cautela que não combinava com o frio cortante que o mato exalava.
+
+Anna ia na ponta de pés leves, o corpo baixo, a capa recolhida para não roçar em galhos. Cada passo, ela testava o chão antes de pisar de vez — um ritual silencioso, aprendida mais pela necessidade do que por treino de mago.
+
+Bel vinha logo atrás, um vulto esculpido em bronze, o elmo encaixado escondendo cada sombra de seu rosto. A penugem dourada dos cabelos escorria de leve pela beirada do elmo, mas eram os olhos, fixos e alertas, que mais pesavam. A cada passo, ele mantinha a espada recolhida junto ao peito, os joelhos dobrados para abafar o som das placas, e sempre que o metal roçava numa pedra, sua mão enguantada pousava ali — abafando tudo, como um sino calado. 
+
+Cassandra fechava a retaguarda, tão atenta ao mato quanto ao grupo à frente. O braço mecânico recolhido junto à costela, os dedos de metal contra a couraça — nenhuma dobradiça rangia, nenhum fecho batia. O peso dela parecia se equilibrar na ponta dos pés, como se cada galho soubesse que devia silenciar sob suas solas.
+
+Malkieer era um vulto felpudo à frente — o único que, de fato, parecia nascer do próprio mato. As orelhas tremulavam a cada estalo, os bigodes sorriam ao vento, e as patas quase não marcavam o chão úmido. Às vezes, parava, erguia a cabeça, o rabo tremendo, cheirava o ar — então avançava mais fundo, certa de que a trilha continuava.
+
+E, no meio desse silêncio contido, vinha Nikolai — um passo atrás, os lábios entoando de quando em quando um assobio fino, repetido, como se fosse a trilha sonora de um drama barato. Uma melodia de suspense que entrava e saía do ar feito neblina.
+
+E assim foram. Um corpo só, costurado de passos, respiração presa e atenção — engolidos pela floresta que se fechava mais a cada árvore.
+
+Malkieer avançava à frente, as patas pisando a lama como quem folheia um livro empoeirado. Seus olhos felinos dançavam de rastro em rastro: sulcos fundos, troncos partidos, raízes expostas como veias abertas na terra. Ele se deteve, o rabo tenso como um galho seco.
+
+Havia tanto rastro que a ideia mais simples — de ser uma só criatura — parecia se esfarelar. Eram sulcos demais, voltas demais, como se uma centopeia sem fim se enrolasse em si mesma para escavar o mundo. Onde o tronco de uma árvore era obstáculo, o tronco era roído até ruir. Se uma raiz se intrometia, ela era rasgada, aberta, empurrada como se fosse carne podre. Nada ali sussurrava paz. Mas ela não tinha certeza se poderiam haver mais de uma.
+
+Enquanto Malkieer farejava a terra, o resto do grupo espalhou-se ao redor, passos contidos, respiração medida. O mato rangia de leve — um aviso que todos aprenderam a ouvir.
+
+Foi então que veio o som.
+
+Primeiro, um estalo — galhos partidos sob um peso impossível. Depois, um tremor no chão, como se o coração da floresta batesse debaixo dos pés deles. O rangido se tornou estilhaço, estourando em mil talos quebrados. Um vento de terra e podridão soprou na altura das canelas.
+
+Ninguém precisou de ordem. Cada um se moveu como uma sombra rasgada: Bel, couraça tensa, se encostou num tronco grosso, a capa  moldando o corpo. Anna, joelhos dobrados, se escondeu atrás de uma moita, o olhar cravado na trilha. Cassandra pousou o braço mecânico contra uma pedra, o peso do corpo recolhido atrás de uma raiz exposta.
+
+Malkieer, felino até os ossos, não pensou duas vezes — as garras rasgaram a casca de uma árvore, escalando num pulo, sumindo na copa, os olhos entre galhos como duas brasas trêmulas.
+
+Nikolai respirou fundo, ergueu os dedos. Diferente de um mago que traçaria sigilos, ele abriu o sorriso, como quem inicia uma mentira boa demais. Murmurou palavras que mais pareciam um sussurro de palco — promessas de silêncio, notas de veludo costurando a própria voz. Um leve tremor de luz correu por sua pele, escorregou como uma onda de fumaça, e então... nada. O bardo sumiu como um truque de prestidigitação — só o eco do seu último assobio ficou preso entre as árvores.
+
+E então, ela veio.
+
+A floresta, que por um instante parecia segurar o fôlego, se rompeu num clarão de folhas partidas. A centopeia explodiu de dentro de uma das trilhas — um corpo de placas úmidas, patas afiadas rasgando o chão, lama espirrando nos troncos. Era rápida, mas se arrastava como uma corrente viva: vinte metros de músculo e casca, fina, comprida, um pesadelo que se contorcia em gomos escuros.
+
+Quando resvalou num tronco, a criatura soltou um guincho rouco — a lateral do corpo se retorceu, e quem olhou com cuidado viu o brilho de metal cravado na carne: uma espada fincada entre as placas, balançando como um espinho torto. Anna estreitou os olhos — a lâmina era simples, sem runas, sem joias. Mas o padrão era inconfundível: uma arma de soldado da guarda da vila de Barovia.
+
+Por um segundo, ela pareceu farejar — antenas tateando o ar pesado. Mas não parou. Se lançou adiante, cortou outra trilha, sumindo de novo na boca escura da Svalich. O silêncio voltou, como se engolisse tudo.
+
+Atrás dos troncos, dos arbustos, no alto dos galhos, cinco sombras prenderam a respiração. O vento devolveu o cheiro acre da madeira recém rasgada.
+
+Um a um, eles se reuniram outra vez na trilha. Poucas palavras foram trocadas — um assentir de cabeça, um olhar que dizia mais do que qualquer fala. Era hora de sair dali. Aquele trecho da Svalich, viram bem, não pertencia a eles.
+
+Voltaram pelo mesmo sulco de lama, seguindo a linha torta aberta pelos rastros. Os galhos estalavam acima, mas agora era o som de corvos distantes — a floresta, finalmente, os deixava partir.
+
+Quando enfim cruzaram a clareira de encruzilhadas, tomaram outra trilha — uma veia de mato alto que se derramava em direção à cidade. O céu pendia cada vez mais cinzento, o sol filtrado num suspiro pálido entre as nuvens. Ainda restavam duas ou três horas de claridade, mas o ar já era de véspera, pesado, anunciando o que viria com a noite.
+
+Seguiram em silêncio pela lateral sul da vila, pés afundando na relva úmida, até que o cheiro chegou antes da visão: podre, pesado, grudento na garganta. Um buraco na terra — negro, úmido — abria a boca onde a trilha morria.
+
+A poucos passos da borda, viram tudo: restos, tantos restos. Ossos pálidos, alguns partidos, outros inteiros como cacos de marfim. Entranhas escuras, costuradas entre panos de carne putrefata. Um cheiro que parecia uma língua lamber o rosto.
+
+Nikolai soltou a frase, sem força pra ironia:  
+— É, não é só abóbora não.
+
+Anna, braços cruzados, semicerrando os olhos:  
+— Eu acho que é só questão de tempo até ela comer o velhinho também.
+
+Bel andou ao redor, a armadura rangendo em tom baixo. Notou alguns carrinhos de mão, largados na grama, cobertos de lama e fiapos de carne seca.
+
+Anna tentou, a distância, decifrar a origem daquelas partes. Humanos? Animais? Mas ali tudo era pasta, tudo era resto, tudo era devorado até perder nome. O fedor subia da fossa como um aviso.
+
+Cassandra olhou de novo para o buraco fétido, a mão no queixo.  
+— Talvez seja um abatedouro, algo assim.
+
+Bel cruzou os braços, observando o chão ao redor da fossa.  
+— Exatamente o que eu pensei.
+
+— Vamos ver a estrutura desse casa a frente, se for um abatedouro, essas podem ser carnes que não podem ser usada, eles podem descartar ali — disse Cassandra.
+
+Bel assentiu:  
+— Tipo vísceras, né?
+
+— Isso, tipo tudo que eles não vão usar eles jogam ali. Aí agora a criatura tá comendo também — completou Cassandra.
+
+— Vamos dar uma olhada então, vai que é um açougue — disse Bel, já caminhando.
+
+Seguiram pela lateral, pisando devagar na grama úmida, contornando a cerca até avistarem a fachada: **“Açougue Porco Feliz”.**
+
+Bel soltou uma risada curta.  
+— Faz sentido.
+
+Nikolai olhou para o letreiro, depois para a fossa.  
+— Não tão feliz assim né?
+
+Cassandra respirou fundo.  
+— Provavelmente essa pessoa nem sabe que ela está alimentando né?
+
+Bel ergueu uma sobrancelha, o canto da boca se curvando num riso seco.  
+— Pode ser, só some milagrosamente a carne do buraco.
+
+Cassandra riu junto:  
+— "É um milagre não preciso limpar".
+
+Bel riu também, balançando o ombro.
+
+Malkieer, mais atrás, comentou baixo:  
+— Sabemos que é carnívoro.
+
+Cassandra cruzou os braços.  
+— Provavelmente se tiver outra descarte assim na cidade, ela vai estar se alimentando, se não for de outras coisas específicas. Eu não sei se vale a pena entrar no açougue, ou ir talvez direto falar com o Vadrik.
+
+Bel respondeu logo:  
+— Eu acho que não vale.
+
+Cassandra confirmou, olhando para o grupo:  
+— Por mim também não.
+
+Todos concordaram em não entrar.
+
+— Bom tem um tempinho até a taverna abrir né — disse Cassandra, o olhar perdido na placa do açougue, as nuvens acima começando a engrossar, enquanto o dia se arrastava para a tarde.
+
+
+### **2.10 -**  Passando o tempo

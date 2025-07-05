@@ -14,10 +14,10 @@ aparicao:
   - 02│Boas-Vindas a Vila De Barovia
 ---
 
-> [!NOTE|clean no-i right]+ Ernist  
+> [!NOTE|clean no-i right]+ Ernest  
 > ![[velho_ernist.png|500]]  
 
-# ** Ernist **
+# ** Ernest **
 
 **Descrição:**  
 Um fazendeiro que vende abóbora na vila de Barovia.
