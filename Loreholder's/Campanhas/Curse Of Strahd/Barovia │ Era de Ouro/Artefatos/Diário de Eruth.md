@@ -44,6 +44,9 @@ Uma mulher jovem. Ou talvez uma garota. Os olhos pareciam opacos, como se tivess
 
 Ao fundo, formas distorcidas surgiam como vultos famintos. Dentes. Garras. Sorrisos abertos demais. O traço era detalhado, quase obsessivo, como se cada ponto tivesse sido colocado à força, um a um.
 
+### **Leitura de Nikolai:**
+As página que Nikolai leu ficavam mais bizarras a cada passagem, os destaques forma de quando Eruth sonhou que tudo que comia virava cera e uma passagem onde tinha somente uma escrita na página **Eu sonhei que meu pai morreu**,  ficando vários dias sem escrever no diário.
+
 ### **Primeira Aparição:** 02│Boas-Vindas a Vila De Barovia
 Foi recostruído por Cassandra e entregue para Anna estudar.
 

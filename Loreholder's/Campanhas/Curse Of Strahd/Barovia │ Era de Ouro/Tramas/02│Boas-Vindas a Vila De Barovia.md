@@ -2508,4 +2508,350 @@ Todos concordaram em não entrar.
 — Bom tem um tempinho até a taverna abrir né — disse Cassandra, o olhar perdido na placa do açougue, as nuvens acima começando a engrossar, enquanto o dia se arrastava para a tarde.
 
 
-### **2.10 -**  Passando o tempo
+### **2.10 -**  Calmaria Antes da Taverna
+
+O grupo começa a se dividir na frente do **Porco Feliz**, cada um escolhendo o que fazer enquanto esperam a taverna abrir. Cassandra segue para a missa na **Igreja do Sol**. Nikolai volta para casa, para ler livro da Eruth. Anna, de olhos atentos, puxa Malkieer pelo braço — quer aprender a jogar adagas com ele, também começam a voltar para a casa.
+
+Bel, por sua vez, decide cuidar das necessidades mais simples: reabastecer a despensa. Cruza a rua de passos firmes, procurando um estabelecimento que lhe iria auxiliar.
+
+Pelas ruas encardidas da vila, só um lugar chama a atenção dele: **Mercantil de Bildrath**, com uma placa cansada que ostenta “desde” — mas o ano foi riscado e rabiscado tantas vezes que agora é só uma mancha de tinta apagada.
+
+Bel empurra a porta. Um **sino** agudo tilinta acima da cabeça, espalhando o som pelo ar abafado da lojinha. O cheiro de farinha velha, frutas secas e velas baratas se mistura ao de especiarias guardadas em potes de barro. Sacos de grãos se empilham nos cantos, prateleiras de madeira torta carregam vidros escuros, barris e algumas roscas de pão duro.
+
+Do fundo, um farfalhar discreto — alguém se mexe entre as sombras. Um homem surge. O [[Bildrath|dono]] provavelmente, aparece em silêncio: ombros magros, barba cinzenta misturada a fios negros, olhos fundos que escaneiam Bel de cima a baixo.
+
+— Boa tarde — resmunga, voz rouca como dobradiça seca.
+
+Bel responde num tom calmo, quase cordial.  
+— Boa tarde.
+
+O dono da loja inclinou o corpo para o lado, avaliando o loiro de cima a baixo, os dedos batendo de leve no balcão gasto.  
+— Eu nunca vi por essas bandas, mas como posso ajudar?
+
+Bel abriu um sorriso educado.  
+— Pois é, sou novo por aqui, mas eu dei uma olhadinha e esse parece o lugar pra encontrar ingredientes e coisas assim.
+
+— Sim — disse o dono, seco. — É o único que tem aqui.
+
+Bel circulou pelo espaço, os passos pesados abafados pelo rangido do assoalho velho. Passou a mão pelas sacas de farinha — testou a textura entre os dedos, apertou uma para sentir se estava úmida demais. Pegou duas que pareciam menos expostas à umidade, afastando um saco rasgado que tinha farelo escapando por uma costura aberta.
+
+Foi até a fileira de raízes. Batatas pequenas, algumas já brotadas — separou as que ainda pareciam firmes, girando-as na palma para checar manchas escuras. Pegou algumas cebolas de um feixe pendurado no alto, ignorando as que estavam moles ou pingando um cheiro acre.
+
+Nos potes de especiarias, ergueu as tampas devagar, cheirou o conteúdo. Um deles, canela ressecada — torceu o nariz, mas levou mesmo assim, seria útil pra disfarçar o gosto de carne salgada demais. Pegou ainda um punhado de folhas secas, imaginando um chá ou um caldo rápido.
+
+Chegou à estante dos pães. Apertou um com o polegar — casca dura, mas por dentro ainda prestava. Selecionou três, mais alguns biscoitos guardados em potes de vidro, rachados nas beiradas.
+
+Passou pelo cesto de frutas desidratadas, separando algumas que ainda mantinham um resto de cheiro doce. Tudo isso foi empilhado em silêncio, num ritmo paciente, quase metódico.
+
+Quando teve certeza de que nada ficaria sobrando ou se estragaria rápido demais, voltou ao balcão. Abriu a bolsa de couro, contou cinco moedas de prata uma a uma — o tilintar suave cortou o silêncio da loja. Pousou as moedas na madeira, erguendo o rosto para o dono como quem confirma: **“É isso.”**
+
+Enquanto o homem reunia tudo em sacolas rústicas, Bel ajeitou o peso da mochila no ombro. Na cabeça, já calculava quantos dias aquelas provisões segurariam a casa em pé.
+
+— Muito obrigado pelos ingredientes. Talvez eu volte daqui uns dias.
+
+O dono recolheu as pratas sem erguer muito os olhos.  
+— Bom fazer negócios. Sempre abertos pra servi-los. Menos finais de semana. E segunda de manhã.
+
+Bel soltou uma risada curta, arqueando uma sobrancelha.  
+— Bem, se vocês conseguirem ingrediente novo, me avise, por favor. Eu sou bem interessado.
+
+O homem bufou, abrindo um sorriso torto, quase zombeteiro.  
+— Olha, vou dizer o seguinte: o estoque aqui não muda faz uns dez anos. Se quiser coisa diferente, vai ter que esperar alguma caravana.
+
+Bel respirou fundo, ajeitando o embrulho de provisões.  
+— Beleza. Inclusive… muitas caravanas passam por aqui?
+
+O dono negou com a cabeça, soltando um assobio curto.  
+— A última vez que eu vi foi faz uns cinco anos.
+
+Bel abafou uma risada, balançando a cabeça.  
+— Okay, okay… mas o estoque é confiável então. Muito obrigado.
+
+Recolheu os sacos, pendurou-os com cuidado no gancho do cavalo lá fora e seguiu o caminho de volta para casa, sentindo o peso reconfortante do alimento balançar ao ritmo de seus passos.
+
+---
+Nikolai entrou em casa com passos contidos, a madeira rangendo suave sob suas botas. O diário de **Eruth** estava onde as garotas o deixaram — sobre a mesa, como se esperasse ser aberto de novo, como se pedisse por olhos curiosos.
+
+Ele o pegou com cuidado, sentindo o couro frio sob as pontas dos dedos. Subiu as escadas, rangido após rangido, até seu quarto. Lá dentro, sentou-se na beirada da cama, abriu as páginas amareladas e mergulhou na escrita torta.
+
+A caligrafia mudava de linha pra linha, num desleixo íntimo que só quem confia demais em seus próprios segredos teria. Nikolai folheava devagar, a ponta do dedo desenhando caminhos sobre os garranchos.
+
+Era um ciclo — pesadelos, uma pequena tragédia, mais pesadelos. E cada vez mais... grotesco. Um sonho de mastigar comida que virava cera de vela. Ele franziu o cenho. Imediatamente a imagem voltou da noite passada: a comida da cozinha, tudo translúcido, pingando como velas abandonadas.
+
+Quando achou uma página solitária — só uma frase, **"Eu sonhei que meu pai morreu"**, sentiu um arrepio na espinha. O silêncio no quarto pareceu mais grosso. Virou as folhas adiante. Nada. Dias em branco, como se o resto tivesse ficado preso na garganta da dona do diário.
+
+Nikolai soltou o ar. O estalo da porta da frente o trouxe de volta. Um reflexo — fechou o diário, deslizou-o sob o colchão, abafando o som do couro arranhando o tecido.
+
+De pé, ele respirou fundo. Puxou o bandolim, como se fosse afinar uma nota silenciosa. As palavras sussurradas saíram quase como poesia, mais encantamento que canto.
+
+Um leve brilho surgiu nos cantos de sua boca, como se as sílabas fossem notas de um alaúde, vibrando no ar. O feitiço não o apagava — o moldava, engolindo-o na própria retórica. As bordas do corpo se dissolveram como bruma à luz, uma última palavra suave dissolvendo o contorno do seu sorriso no nada.
+
+Nikolai se fez silêncio — um suspiro invisível à espreita no quarto, mas dentro dele algo latejava como uma corda de bandolim esticada demais. Ele começou a ir em direção da escada.
+
+A mão apertou o corrimão. Ainda invisível, ele desceu meio passo, espiando pela fresta da escada. Nada. Só o som — passos pesados, lentos, baque de gavetas. A luz do entardecer invadia a sala, mas não o suficiente para revelar quem estava lá.
+
+Ele respirou. A garganta estava seca.
+
+— Com licença, o que você está fazendo aqui? — a voz saiu mais fina do que gostaria.
+
+Um silêncio de dois segundos — e então, da cozinha, uma voz conhecida.
+
+— Nikolai? Tá tudo bem? Eu vim só trazer os ingredientes, eu—
+
+— Porra! — escapou dele, alto demais, a invisibilidade tremulando no peito.
+
+Bel ergueu a voz, soando quase ofendido entre as panelas:  
+— Eu avisei que ia comprar comida. Tá tudo bem, sou só eu.
+
+Nikolai soltou o ar, meio rindo:  
+— Pô, fez eu gastar uma skill ainda... — a risada saiu engasgada.
+
+Bel riu junto, o som normal demais para aquele ambiente carregado.  
+— Relaxa, é só eu aqui. Tô organizando as coisas na cozinha.
+
+Nikolai apoiou o ombro na parede. Pela janela do corredor, o céu já se tingia de ferro e vinho. Tinha se perdido no diário, tinha se perdido na própria cabeça. E Barovia — Barovia sempre alimentava medos pequenos, até que parecessem monstros debaixo da cama.
+
+---
+Nesse meio tempo, Cassandra seguiu em passos silenciosos para a Igreja do Sol. A bruma da tarde ainda se agarrava aos telhados quando ela cruzou as portas pesadas, entrando alguns minutos antes do início. Dentro, o cheiro de vela queimando e madeira encerada envolveu seus sentidos — um cheiro que parecia antigo, mas reconfortante.
+
+Já havia gente ali. Silhuetas esparsas, ombros encolhidos dentro de mantos puídos, cabeças abaixadas sob capuzes gastos. Poucas palavras murmuradas, poucas trocas de olhar — naquela vila, até a fé parecia pedir silêncio.
+
+Cassandra deslizou até um dos bancos do fundo. A madeira fria sob as palmas, o rangido leve quando se acomodou. Seus olhos buscaram o altar — lá estava Fiona, ajeitando um candelabro, folheando um livrinho com as mãos trêmulas. A cada detalhe que Cassandra reparava — as tochas presas às colunas, os vitrais escuros apenas insinuando cor sob a luz tênue — uma pontada de algo esquecido latejava dentro dela.
+
+**Um calor que não vinha do sol lá fora.**
+
+Enquanto a jovem sacerdotisa começava a missa, Cassandra deixou a mente flutuar entre os símbolos entalhados nas paredes. Discípulos do sol, raios esculpidos, pequenas marcas de cera derretida que reluziam um brilho dourado. O lume dançando parecia sussurrar memórias que ela não tinha, ou que não lembrava ter.
+
+Fiona, ainda que a voz fosse pequena, sustentava as palavras com uma honestidade crua. Contou à assembleia que houvera contratempos, que a igreja precisava da fé de cada um para seguir de pé, que o Deus Sol, mesmo oculto, seguiria trazendo vida e calor a cada amanhecer, mesmo nesta terra de névoa. Uma promessa simples — mas dita num tom que abraçava as costelas.
+
+Quando a missa se encerrou, Cassandra respirou fundo. O toque do banco, o cheiro das velas, o calor breve das palavras — tudo ecoava dentro dela como um recado ainda por decifrar. Pelos vitrais, notou o céu manchado em tons ferrugem: o sol se despedia.
+
+Na frente, Fiona trocava algumas palavras tímidas com os fiéis. Cassandra apenas inclinou a cabeça numa saudação de longe, sem querer tomar o tempo dela, e se retirou pelo corredor, sentindo o chão de pedra sob as botas.
+
+Do lado de fora, encontrou sua égua de pelagem negra esperando, quieta como um segredo. Cassandra acariciou o pescoço de **Agro**, montou sem dizer palavra — e partiu num trote ritmado, de volta à taverna, levando consigo aquela chama pequena que se recusava a se apagar.
+
+---
+
+Malkieer e Anna foram para os fundos da casa, onde uma árvore solitária se erguia, o tronco grosso e a casca enrugada, como se guardasse segredos antigos sob a névoa de Barovia.
+
+Malkieer, sempre felino em cada passo, girou a adaga entre os dedos, as garras brancas riscando a lâmina. Então ergueu a outra mão e, com um estalar quase inaudível, deixou escapar um **sopro de magia**. A ponta das garras brilhou, costurando faíscas finas no ar. Num **pisc** breve, a casca da árvore se acendeu com um alvo ilusório — **círculos translúcidos**, pulsando em tons de cobre e azul, como se respirassem junto ao vento.
+
+Malkieer manteve distância. Num único movimento fluido, lançou a adaga — o **thunk** seco cravou a lâmina bem no centro do alvo. Sem sequer avançar, ergueu os dedos de novo: uma **mage hand invisível**, tão silenciosa que só Anna pôde perceber pelo leve sussurro de folhas, puxou a adaga de volta até o Tabaxi. Ele a ofereceu para ela, girando o cabo na palma.
+
+Anna segurou, ajeitou o peso na mão. Ela mirou — o foco estampado nos olhos castanhos, que refletiam o alvo etéreo tremeluzindo na árvore. Então soltou o ar devagar, jogou o braço para trás e lançou. O som de lâmina rasgando o vento se perdeu no **estalo limpo**: a adaga cravou-se onde a de Malkieer estivera.
+
+Ela olhou para ele, balançando a cabeça de leve — uma risada presa na garganta, que virou um sorriso. Malkieer apenas ronronou, satisfeito, o rabo balançando de um lado para o outro como uma bandeira de vitória.
+
+Repetiram o movimento. Enquanto Anna praticava, Malkieer gesticulava com calma, corrigindo a postura com um gesto do queixo, ajustando o ângulo do punho. De tempos em tempos, ele estalava as garras de novo: o alvo piscava, mudava de cor, corria pelas fendas da casca como tinta viva — **um truque só deles**, entre lâminas e sorrisos.
+
+A cada lançamento, Anna ajustava o peso no pé, a força no ombro, o gesto do pulso. E Malkieer, felino e paciente, recolhia cada lâmina com sua mão invisível, devolvendo como quem entrega uma chave.
+
+— Caramba você é bom. — disse Anna, recuperando a adaga da mão invisível, a respiração leve e uma pontinha de riso no canto dos lábios.
+
+Malkieer estendeu o rabo, batendo na perna dela de leve, quase como um aplauso discreto.  
+— Olha esse talento é todo seu Anna.
+
+Ela virou o rosto, meio descrente, balançou a cabeça.  
+— Não não, é o professor.
+
+Por um instante, o alvo ilusório na árvore brilhou outra vez, com a cor mudando de tom sob a luz fria que já caía. Anna segurou firme o cabo da adaga, ajeitando de novo a postura — seus ombros pareciam menos tensos, a mira mais confiante. Ainda não era domínio perfeito, mas o gesto já guardava memória.
+
+Malkieer apenas cruzou os braços, observando. A mage hand recolheu uma segunda adaga caída na relva, devolvendo a ela sem uma palavra — como se fosse parte do vento.
+
+— Muito obrigada, se haver algo que eu possa lhe ajudar também eu posso tentar.
+
+Ele inclinou a cabeça, o brilho dos olhos amarelos refletindo o alvo.  
+— Agradeço muito Anna, a gente como grupo devemos mesmo ajudou uns aos outros né?
+
+— Sim, eu não quero passar por uma situação igual aquela de novo, ficando imponente, sem usar magia.
+
+Malkieer mostrou um sorriso felino, pontudo, mas sem arrogância — apenas um reconhecimento silencioso.  
+— Eu tinha esse medo também, por isso desenvolvi minhas habilidades com as espadas primeiro. Na verdade foi um amigo que me ensinou a usar magia, mas eu não tenho lá tantos habilidades assim, mais alguns truques. Agora vamos deixar as coisas mais divertidas.
+
+Malkieer franziu o focinho, ergueu uma das garras — fina, limpa como uma lâmina de alfaiate — e fez um gesto circular no ar, como se abrisse um rasgo em um tecido. **Do contorno que ele traçou, um brilho pálido se formou**, escorrendo como tinta viva. E, em poucos segundos, **o vulto do Nosferatu** — o mesmo que haviam visto no interior da igreja — começou a tomar forma. O ar ao redor esfriou, como se o feitiço roubasse o calor da grama.
+
+Anna deu um passo pra trás, o cabo da adaga tremendo entre os dedos.  
+— Eu acho que eu ouvi a minha mãe me chamar, eu já volto. — disse, a voz saindo num fiapo.
+
+No mesmo instante, de dentro da casa, explodiu um **“Porra!”** abafado — a voz de Nikolai, como um tapa seco na porta do silêncio.  
+Malkieer virou as orelhas, o rabo se agitando devagar.  
+— Você ouviu isso Anna?
+
+Ela soltou uma risada nervosa, forçada, o eco tremendo na garganta.  
+— Eu eu acho melhor a gente parar né.
+
+Mas então respirou fundo, apertou o punho na empunhadura da adaga, como quem engole o próprio medo.  
+— Tá, vamos lá, vamos treinar. — E um arrepio correu da nuca até os ombros.
+
+**O Nosferatu ilusório ergueu a cabeça, sem rosto de verdade — apenas um contorno úmido de sombra e luz.** Deslizou de um lado para o outro, rápido o bastante para Anna ter que mirar, calcular, lançar. O alvo não avançava, mas também não parava de se mover — um treino para a pontaria e para o coração.
+
+A noite caiu como um cobertor pesado, engolindo o quintal em penumbra. A cada arremesso, era mais difícil enxergar onde terminava a sombra da árvore e começava o truque de Malkieer. Por fim, quando o ar ficou úmido demais e o frio lhes mordeu as mãos, os dois trocaram um olhar cúmplice — **estava na hora de recolher as lâminas e fechar as portas**.
+
+Voltaram para dentro —**hora de lavar os medos do quintal, vestir-se, e seguir até a taverna**.
+
+### **2.11 -**  Reportando os primeiro feitos
+Nikolai, no alto do quarto, limpou as mãos na borda da escrivaninha. Um lampejo de vela iluminou o vidro que agora guardava a gota carmesim. Ele tampou o frasco devagar, sentindo o peso se somar aos outros guardados no fundo da mochila — **um segredo dentro de um saco de couro, um peso que aumentava dia após dia, gota por gota**.
+
+Prendeu as tiras, dobrou o papel das últimas anotações, e desceu as escadas como se nada fosse. No andar de baixo, o ranger das botas encontrava outros ruídos: Bel ajustava a fivela do cinto, Anna prendia uma madeixa rebelde , Malkieer verificava se suas adagas sumiam sob o manto como deviam. Cassandra, já à frente, os aguardava do lado de fora da taverna— **a égua negra, Agro, atada a um velho tronco, respirava fumaça na brisa fria da noite**.
+
+Quando chegaram à **Taverna Sangue no Vinho**, a neblina que os seguiu até a porta pareceu ficar do lado de fora, barrada pelo bafo quente de vozes e canecas erguidas. Alguém — um dos guardas, talvez — havia virado a tabuleta de “Fechado” para “Aberto” ainda há pouco. O ar ali dentro era de madeira molhada pelo tempo, misturado ao odor ácido de vinho barato e conversas que se sobrepunham, riscando o teto baixo.
+
+A maior parte dos frequentadores usava **a insígnia da Guarda da Vila de Barovia**, quase todos com mantos jogados nas cadeiras, botas pingando lama do pátio de fora. Entre um brinde e outro, olhavam de soslaio o grupo que entrava — **forasteiros, mas já familiares o bastante para não levantarem mais que um murmúrio de curiosidade**.
+
+Quando eles se juntaram, Bel quebrou o ar carregado, apontando para Nikolai com um sorriso torto:
+
+— Então temos apenas um molho de chaves e isso se provou perigoso hoje. — Ele soltou uma risada abafada, piscando para Nikolai. — Talvez a gente possa ter alguma batida para saber que alguém está entrando na casa.
+
+Anna ergueu uma sobrancelha, divertida:  
+— Tipo um toque secreto?
+
+Bel balançou a cabeça, rindo:  
+— É, nada extremo assim, só não deixar ninguém em alerta quando um ou outro entrar.
+
+Nikolai apoiou a mão na mesa, teatral:  
+— “Opa, cheguei!” é uma boa.
+
+A risada veio fácil, misturada ao som de canecas que tilintavam em outras mesas.
+
+Anna, meio batucando o indicador na madeira, improvisou um ritmo que lembrava uma batida de rave abafada:  
+— Eu voto pra gente esse som!
+
+---
+A gargalhada se dissolveu junto do burburinho alcoólico da taverna. O grupo avançou até o fundo do salão, onde **Vadrik os aguardava** — corpo largado numa cadeira de encosto gasto, os pés cruzados sobre uma mesa baixa, o calor da lareira lambendo-lhe as botas sujas de cinza.
+
+Quando os viu se aproximar, ergueu só um canto da boca, um sorriso contido, como quem já sabe que vai ouvir história longa.  
+Sem tirar os olhos deles, perguntou sem rodeios como fora o primeiro dia.
+
+E o grupo contou que a situação na igreja foi resolvida, já retornando as missas, E, mais pesado, o rastro de terra rasgada do leste — a fazenda do velho Ernest, a **centopeia de vinte metros**, a espada da guarda fincada no dorso do monstro como uma lembrança de que ele não se alimentava só de abóboras. Falaram das trilhas, do mato alto, da floresta — **das rotas que tocavam a vila como veias abertas**.
+
+Quando ouviram sobre a espada, Vadrik soltou um assobio seco, um fio de som que fez os  guardas meio entorpecidos virarem o rosto. Ele os varreu com um olhar pesado, e perguntou se alguém estava faltando. O silêncio dos mantos cinzentos deu a resposta: ninguém soube dizer.
+
+Vadrik tamborilou os dedos na mesa, olhos pousados no fogo como se buscasse resposta ali. Então ergueu a voz, grave, a fumaça do vinho se misturando ao tom:  
+— Pelo que vocês falaram essa criatura enorme possivelmente já comeu um dos meus soldados, isso me deixa numa situação bem complicada. Minhas mãos ficam um tanto atadas porque eu não posso perder mais vidas dos meus soldados. — Ele se endireitou na cadeira, o rosto meio iluminado pelo braseiro. — Vocês parecem ser um tanto fortes, vocês acham que conseguem finalizar essa tarefa ou fica um pouco complicado para nossos futuros reis e rainhas?
+
+Anna ergueu o queixo, o tom dela ainda calmo, mas a preocupação se revelava até nos ombros:  
+— O que me preocupa na verdade é o velho Ernest, ele parece bem apegado ao bicho. Talvez fosse interessante dar um apoio mortal ou dar algo pra ele se apegar, algo menos agressivo.
+
+Nikolai coçou o queixo, deslizando o olhar por entre os guardas, depois voltando a Vadrik com o mesmo sorriso que não entregava nada:  
+— Com licença, Vadrik, você conhece alguém que possua um sonífero forte?
+
+Vadrik soltou uma risada seca, sem humor, estalando a língua antes de responder:  
+— Sei lá, o sonífero que eu conheço é pegar um taco e bater na cabeça da pessoa.
+
+O fogo da lareira estalou como se engolisse o resto das palavras, cuspindo fagulhas vermelhas sobre o rosto meio sombreado de Vadrik. Ele respirou fundo, passou a língua pelos dentes, e soltou, como se cuspisse algo que estava entalado fazia tempo:  
+— O velho Ernest é um pé no nosso saco. Ele implica com os vizinhos, fica falando bobeiras por aí, causa um mal-estar na cidade… mas a gente atura. As abóboras dele são muito boas.
+
+Anna não conteve o sorriso seco, um canto de lábio se erguendo como quem crava a estaca de uma ironia:  
+— O bicho também acha.
+
+Vadrik deixou escapar um riso murcho, mas não demorou a dar de ombros.  
+— Então… — soltou um suspiro pesado, fitando as labaredas. — Como eu posso falar isso? Se a centopeia gigante e o velho estão causando problema na visão de vocês, vocês podem usar a mesma solução pros dois.
+
+O silêncio se espalhou como névoa dentro do círculo do grupo. Um por um, os olhos se cruzaram — Cassandra foi a primeira a cerrar o queixo, fechando o sorriso que ainda teimava em existir.  
+— Não né.
+
+Bel ergueu uma mão, quase num gesto de parar um golpe:  
+— Calma, espera… — o tom meio desconcertado. — Você realmente tá querendo dizer isso?
+
+Vadrik descruzou as pernas, deu de ombros como quem não queria carregar o peso sozinho:  
+— É uma maneira eficiente de lidar com as duas coisas.
+
+Nikolai apoiou um cotovelo na mesa, o outro braço solto, a voz ainda macia — um veneno envolto em veludo:  
+— A gente vai dar o nosso jeito.
+
+Cassandra soltou o ar devagar, mas firme, olhos na brasa e depois de volta a Vadrik:  
+— Agradeço a sugestão, mas fazemos do nosso jeito.
+
+Vadrik ergueu a palma, rendido, quase num brinde vazio:  
+— Certo. Eu dei as tarefas porque eu confio nas mãos capazes de vocês. Não quero atrapalhar a corrida do trono.
+
+Malkieer quebrou o gelo, voz felina, arranhando o ar:  
+— Já que foi falado desses soníferos… Você sabe onde na cidade eu posso encontrar ingrediente pra fazer venenos?
+
+Vadrik girou uma moeda entre os dedos, o metal faiscando à luz da lareira.  
+— Olha, eu não conheço nenhum herbalista ou algo assim. Sinto muito.
+
+O tilintar da moeda pareceu responder por ele — seco, metálico, sem promessas.
+
+Cassandra ajeitou-se na cadeira, recostando o braço de metal sobre o tampo manchado de vinho. A voz saiu baixa, mas firme o bastante para chegar até Vadrik, mesmo por cima do crepitar da lareira:  
+— Aproveitando… eu não sei se você saberia, mas… você conhece alguém chamada Eruth?
+
+Vadrik franziu o cenho, as rugas da testa se juntando como linhas de um mapa esquecido.  
+— Eruth? — repetiu, mastigando o nome como se fosse um caroço de fruta difícil de engolir. — Não faço a mínima ideia desse nome. Mas eu sou ruim com nomes. Não significa muita coisa, sinto muito.
+
+Cassandra respirou fundo, tamborilando o dedo de metal no casco da mesa.  
+— Tem alguém mais velho na cidade que seja mais antenado nessas coisas… tirando o velho Ernest?
+
+Vadrik soltou um sopro de ar pelo nariz — um meio riso, meio suspiro. Olhou em volta, como se buscasse uma resposta estampada no teto de vigas.  
+— Pessoas idosas na cidade não há muitas, infelizmente… são os tempos que a gente vive. Mas… — a voz alongou-se, o dedo levantou pedindo paciência — eu acho que eu sei quem pode te ajudar. Há uma senhora… eu nem sei o nome dela, pra ser sincero. Não participa muito das coisas da cidade.
+
+Ele ergueu a mão, pedindo o mapa. Vadrik inclinou-se, o indicador grosso riscando o pergaminho com o toque de quem já marcou muitos caminhos por Barovia.  
+— Se não me engano, ela tá morando nessa casa aqui. — Um toque firme. — Eu acho que ela é a pessoa mais velha daqui.
+
+Cassandra cruzou o olhar com o grupo, a decisão reluzindo no canto dos olhos.  
+— Acho que podemos falar com ela no próximo dia, pessoal… já que tem um tempo até o bicho voltar.
+
+Vadrik sorriu, breve, um sorriso prático de homem acostumado a fazer trocas.  
+— Fico feliz que pude ajudar vocês… e que vocês estão me ajudando. Uma mão lava a outra, certo?
+
+Cassandra devolveu o sorriso, ainda que breve — um reflexo que lembrava mais aço do que calor.  
+— Isso aí. Caso tiver outro problema, se quiser passar pra gente nesse período.
+
+Vadrik levantou a caneca, como se brindasse sem vinho.  
+— Vou ficar de ouvidos abertos. Assim que eu achar um que caiba na mão de vocês, eu mando. Sem dúvidas.
+
+Bel, que até então descansava o cotovelo no encosto, ajeitou-se na cadeira.  
+— Também amanhã poderíamos checar as outras trilhas. Se alguma estiver sendo usada por ela… caso achemos algo, lhe avisamos pela noite, Vadrik.
+
+Vadrik inclinou o queixo, aprovando em silêncio.  
+— Okay. Perfeito.
+
+Sem mais palavras, o grupo se ergueu, afastando-se do calor da lareira para o burburinho morno no centro da taverna.
+
+---
+
+Cassandra quebrou o passo, a voz baixa mas firme o bastante para segurar o grupo num círculo improvisado entre mesas de madeira manchadas de vinho.  
+— Vão querer fazer o que agora? Ficar por aqui ou ir pra casa?
+
+Bel girou o corpo.  
+— Eu tava pensando em cozinhar. Mas vocês querem fazer mais alguma investigação antes de irmos descansar?
+
+Anna balançou a cabeça devagar, os olhos vasculhando o salão como se caçasse restos de preocupação.  
+— Por mim tranquilo. Podemos acordar mais cedo amanhã e começar cedo os trabalhos.
+
+Markieer, que até então mantinha o rabo balançando num ritmo preguiçoso, ergueu uma pata, tocando-a de leve na beirada da mesa.  
+— Eu acho que uma coisa interessante a gente fazer é pensarmos em algum tipo de emboscada pro monstro. O Vadrik não vai conseguir fazer nada pelo Ernest… então poderíamos fazer a briga longe dele.
+
+Bel soltou um sopro de riso, quase descrente.  
+— Espero que ele entenda que o bicho só… desapareceu.
+
+Cassandra ergueu uma sobrancelha, virando o rosto devagar para Nikolai, o sorriso surgindo como uma lâmina curta, mas afiada.  
+— Uma ideia que eu jogo na roda… mas mais pro Nikolai, talvez: se a gente conseguisse um cachorro, e você mentisse pra ele, Nikolai… dizendo que o amor dele foi tão grande que transformou a centopeia num cachorro.
+
+Bel explodiu numa gargalhada que virou cabeças ao redor.  
+— O QUÊ?
+
+Anna, segurando o riso com uma mão nos lábios, completou:  
+— Essa é boa, é boa mesmo. Eu acho que ele compra. Se a gente fizer o cachorro ir no mesmo horário que a centopeia iria… ele compra. Eu fiquei com dó dele, ele realmente parece apegado à centopeia.
+
+Nikolai, encostado numa cadeira como quem saboreava o próprio caos, deu de ombros, tranquilo.  
+— A ideia do sonífero seria pra colocar na abóbora. Pra pegarmos ela desprevenida na floresta.
+
+Bel coçou o queixo, lembrando de algo.  
+— Aqueles leitos de papoula não serviriam pra isso?
+
+Anna assentiu, a expressão já mudando para a de quem faz planos.  
+— Podemos tentar procurar algo assim.
+
+Quando as últimas palavras se perderam na fumaça da taverna, o grupo virou de costas, seguindo para a porta principal. A lua, do lado de fora, era apenas um contorno manchado na névoa.
+
+No instante em que empurravam a madeira da porta, Markieer parou de repente. Suas orelhas se mexeram — um estalo felino que nenhum dos outros ousou ignorar. Entre os sussurros abafados, a audição aguçada pescou o que ninguém mais teria notado.
+
+— O Lucão não desapareceu? — soprou uma voz.
+
+Outro, mais áspero, cortou o som num sussurro urgente.  
+— Xiu. Cala a boca.
+
+Markieer piscou devagar, o rabo se enroscando no tornozelo. E o ar da noite pareceu bem mais denso do que a bruma de Barovia.
+
+---

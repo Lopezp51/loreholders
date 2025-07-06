@@ -7,7 +7,7 @@ tags:
   - npc_era_de_ouro
 
 img: "[[.png]]"
-status: Viva
+status: Vivo
 Afiliação: 
 Localização: 
 aparicao:

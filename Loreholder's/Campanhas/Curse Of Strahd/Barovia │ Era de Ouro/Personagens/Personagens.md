@@ -10,12 +10,12 @@ tags:
 # PERSONAGENS
 
 ```datacards
-TABLE img, status, Afiliação, Localização
+TABLE img, status, Localização
 FROM #npc_era_de_ouro
 SORT Localização ASC 
 
 // Settings
-preset: cover
+preset: compact
 imageSize: xlarge
 imageProperty: img
 imagePosition: center
