@@ -23,7 +23,8 @@
   "obsidian-image-toolkit",
   "image-converter",
   "obsidian-prozen",
-  "dnd-ui-toolkit",
   "obsidian-meta-bind-plugin",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-dice-roller",
+  "dnd-ui-toolkit"
 ]
