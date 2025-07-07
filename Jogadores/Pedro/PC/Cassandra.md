@@ -7,7 +7,7 @@ level: 5
 hp: 49
 max_hp: 
 ac: 18
-modifier: 4
+modifier: 3
 pasperc: 9
 PlayerKnownLanguages:
   - Celestial
@@ -16,64 +16,52 @@ PlayerKnownLanguages:
 char_status: Alive
 ---
 
-
-
-> [!NOTE|div-m] Nome:  `Cassandra`
-
-> [!column|no-i no-t]
->> [!div-m|no-title]
->> ![[Cassandra_1.png]]
+> [!column-img|no-title]
+>> [!NOTE|clean no-i right]+ Cassandra  
+>> ![[Cassandra_1.png|620]]
 >
->> [!div-m|no-title] Place Name
->> ~~~meta-bind
+>> [!note|no-title] Place Name
+>>  ~~~meta-bind
 >> INPUT[select(
->> option(1, ℹ️General),
->> option(2, 🧙Description),
->> option(3, ⚙️Configure),
->> option(4, 📝GM Notes),
+>> option(1, ℹ️Geral),
+>> option(2, 📜Habilidades),
 >> class(tabbed)
 >> )]
 >> ~~~
->>>[!tabbed-box-maxh480|10]
->>> >[!div-m|no-title]
->>> > ![[#General|no-h clean]]
->>> 
->>> >[!div-m|no-title]
->>> > ![[#Description|no-h clean]]
->>> 
->>> >[!div-m|no-title]
->>> > ![[#Configure|no-h clean]]
->>> 
+>>>[!tabbed-box|10]
 >>> > [!div-m|no-title]
->>> > ![[#GM Notes|no-h clean]]
->>> 
+>>> > ![[#Geral|no-h clean]]
+>>>
+>>> > [!div-m|no-title]
+>>> > ![[#Habilidades|no-h clean]]
+>
+>> [!note|no-title] Place Name
+>>  ~~~meta-bind
+>> INPUT[select(
+>> option(1, 🗣️RUMORES),
+>> option(2, 🔒SEGREDOS),
+>> class(tabbed)
+>> )]
+>> ~~~
+>>>[!tabbed-box-maxh]
+>>> > [!div-m|no-title]
+>>> > ![[#RUMORES|no-h clean]]
+>>>
+>>> > [!div-m|no-title]
+>>> > ![[#SEGREDOS|no-h clean]]
+>>
 
-> [!NOTE|no-title]
-> ~~~meta-bind
-> INPUT[select(
-> option(1, 🤹Abilities+Skills),
-> option(2, 💪Traits),
-> option(3, 📖Spell Book),
-> option(4, ⚔️Inventory),
-> class(tabbed)
-> )]
-> ~~~
-> >[!tabbed-box-maxh]
-> > >[!div-m|no-title]
-> > > ![[#Skills|no-h clean]]
-> >
-> > >[!div-m|no-title]
-> > > ![[#Traits|no-h1 clean]]
-> >
-> > >[!div-m|no-title]
-> > > ![[#Spell Book|no-h1 clean]]
-> >
-> > > ![[#Inventory|no-h1 clean]]
+
+
+
+
+
+
 
 
 ---
 
-# General
+# Geral
 
 ```dataviewjs
 const lvl = dv.current().level;
@@ -112,8 +100,8 @@ const hp = dv.current().hp;
 // const dice = dv.current().hitdice?.dice || "d6";
 // const diceValue = dv.current().hitdice?.value || 3;
 // here we'll hard-code them as in your example:
-const dice = "d6";
-const diceValue = 3;
+const dice = "d10";
+const diceValue = 5;
 
 // build the healthpoints YAML block
 let out = "```healthpoints\n";
@@ -129,7 +117,7 @@ dv.paragraph(out);
 ```
 
 
-# Description
+# Habilidades 
 
 ```ability
 abilities:
@@ -178,6 +166,10 @@ bonuses:
 
 ```
 
+# Description
+
+...
+
 # Configure
 
 | Stat     | Value                        |
@@ -198,7 +190,9 @@ bonuses:
 
 Make notes of what you need to track in the town here. 
 
-# Skills
+# Skillsssss
+
+
 
 ```ability
 abilities:
