@@ -2854,4 +2854,86 @@ Outro, mais áspero, cortou o som num sussurro urgente.
 
 Markieer piscou devagar, o rabo se enroscando no tornozelo. E o ar da noite pareceu bem mais denso do que a bruma de Barovia.
 
+
+
+### **2.12 -**  Coisas que Ainda Têm Sabor
+A porta da frente rangeu suave quando o grupo retornou à casa, os passos arrastados denunciando o cansaço do dia, mas o ar era leve — como se o frio de Baróvia não ousasse segui-los para dentro.
+
+**Cassandra** e **Anna** foram as primeiras a largar as botas ao lado da entrada, indo direto para o sofá. Cassandra se afundou entre as almofadas, cruzando os braços com o olhar perdido na lareira apagada, enquanto Anna puxava o grimório para o colo, abrindo-o numa página inacabada. As anotações a encararam como um lembrete incômodo, mas ela só suspirou e fechou o livro, empurrando-o para o lado com aquele tipo de procrastinação que só quem conhece a magia sabe cultivar bem.
+
+**Malkieer** se acomodou em uma das cadeiras próximas à mesa, as orelhas de gato ainda mexendo de leve, como se filtrassem o que sobrava de sons do lado de fora. Nikolai sentou próximo do felino.
+
+Enquanto isso, **Bel** subia para o quarto, trocando a armadura por uma roupa leve: calças de pano cru, camisa de linho com as mangas arregaçadas até os cotovelos. O som de sua descida era diferente agora — não o ranger do couro ou o peso metálico dos passos, mas algo mais solto, mais doméstico.
+
+Na cozinha, ele foi direto para os ingredientes cuidadosamente comprados horas antes. Quando suas mãos tocaram o pão e a carne, seus ombros pareceram relaxar. Fazia tempo desde que cozinhava assim — sem urgência, sem fogueira improvisada na estrada. Apenas o prazer silencioso de preparar algo para os outros. E dessa vez, faria **uma pratada**... algo simples, saboroso e digno do grupo que agora descansava ao seu redor.
+
+A madeira da bancada estalava sob o ritmo metódico de suas mãos. Ele começou separando os ingredientes adquiridos no mercantil: um corte grosso de carne bovina, escuro, marmorizado de gordura, que ainda trazia o aroma forte e férreo da carne fresca; algumas ervas secas amarradas com barbante; broas rústicas de trigo duro, de miolo macio e crosta espessa; alho, sal, e um pouco de vinagre de maçã guardado num frasco âmbar.
+
+A primeira etapa foi criar a marinada. Bel despejou óleo de semente de girassol em um potinho de barro, misturou vinagre e uma colher de açúcar mascavo escuro — desses que agarram nos dedos — e temperou com um punhado generoso de pó de cebola, uma pitada quase simbólica de pimenta seca moída, sal de alho e um toque de pimenta-do-reino, moída na hora com um pequeno pilão de bronze. Misturou tudo com o cabo de uma colher de pau até virar uma pasta espessa e dourada.
+
+Com cuidado, ele passou a mistura na carne, esfregando com os dedos até cobrir completamente cada pedaço. Em seguida, deixou as fatias repousarem num prato de madeira, próximo à lareira, para absorver os temperos no calor morno do cômodo.
+
+Enquanto isso, derreteu manteiga numa frigideira de ferro fundido, o cheiro se espalhando pela casa, chamando atenção mesmo de quem tentava ignorar a fome. Quando a gordura começou a chiar, colocou a carne no centro da frigideira e pressionou com firmeza. A carne estalou, liberando um aroma que misturava açúcar queimado e alho. Bel virou cada pedaço com destreza, selando até atingir um tom dourado por fora e macio por dentro — ponto médio, como o grupo preferia.
+
+Ele deixou a carne descansar por alguns minutos, o suco borbulhando à superfície como se fosse respirar, e nesse tempo, cortou as broas ao meio, esquentando-as no calor residual da frigideira para ficarem tostadas por dentro.
+
+Montou os sanduíches um por um com precisão quase ritual: pão, carne, pão. Algumas fatias foram salpicadas com ervas frescas e uma leve pincelada de molho escuro — uma mistura simples de manteiga, alho e um pouco da marinada reduzida.
+
+**No total, foram dez unidades.** Dez sanduíches robustos, aromáticos, de aparência simples, mas com o tipo de cuidado que só se percebe no sabor. Bel os dispôs num prato largo, de cerâmica grossa, com galhos de salsa e folhas de coentro decorando o centro, e carregou-o para a mesa com a naturalidade de quem já fez isso mil vezes — mesmo que seu sorriso denunciasse o quanto estava satisfeito com o próprio trabalho.
+
 ---
+Na sala, o aroma quente da carne temperada e das broas tostadas já se infiltrava pelas paredes, como um convite silencioso que não podia ser recusado. Um a um, os membros do grupo se erguiam devagar de seus assentos dispersos, guiados pelo faro e pelo conforto prometido — como mariposas atraídas pela chama dourada de uma refeição bem-feita. Quando Bel finalmente colocou os pratos na mesa, o efeito era quase ritualístico: o barulho de cadeiras sendo arrastadas, o tilintar suave dos copos e a expectativa contida nos olhares famintos.
+
+**Cassandra**, já sentada, ergueu uma das metades generosas do sanduíche com as duas mãos, dando uma mordida antes mesmo de falar:  
+— Bel, você está pronto pra casar já.
+
+**Bel** deu uma risada tranquila, seus olhos ainda percorrendo a apresentação do prato como um pintor diante da própria tela.  
+— Eu tô aqui pra isso. — Ele gesticulou levemente para os pratos. — É um sanduíche de filé bovino, com broas pra segurar. Podem usar as mãos, sem cerimônia. Faz um tempo que não mexo com a cozinha, mas quando vi aquela cozinha enorme... pensei que seria uma boa tentar de novo.
+
+**Anna**, com um pedaço já a caminho da boca, soltou:  
+— Que massa! Muito obrigada, Bel. Está uma delícia. — Falou de boca cheia, sem nem se importar.
+
+— Imagina. — Bel respondeu, enquanto se sentava e começava a servir água nos copos, um por um, o gesto já automático, cuidadoso.
+
+Durante alguns minutos, o som dos talheres inexistentes — substituídos por mordidas e suspiros de prazer — dominou a casa. Era um tipo raro de silêncio: o da satisfação partilhada.
+
+**Cassandra**, mastigando devagar, inclinou o corpo à frente com um olhar curioso:  
+— Deixa eu te perguntar, Bel. Você aprendeu com quem a cozinhar? Ou foi meio sozinho?
+
+**Bel** parou por um momento. O pão ainda aquecido entre as mãos, os olhos vagando por dentro de si mesmo.  
+— Hmm… — Ele soltou um som leve. — Essa é uma ótima pergunta, na verdade. Porque… eu não aprendi com ninguém.
+
+As palavras pareciam ganhar peso à medida que ele falava.
+
+— Bem, quando você... — ele hesitou, e por um segundo, parecia que o tempo segurava o fôlego — quando você sente falta da comida, você passa a dar o valor devido a ela. Queria que fosse em situações melhores, mas eu descobri o valor dos ingredientes, do carinho que tenho que ter com a matéria-prima da cozinha. Descobri que dava pra fazer coisas incríveis com pouco. Cozinhei com o que tinha. Agora que conseguimos comprar coisas melhores… dá pra experimentar, brincar, testar. — Ele respirou fundo. — Eu não aprendi com ninguém. Mas eu diria que… a vontade de ter comida me fez valorizar ela.
+
+O silêncio que seguiu não foi de constrangimento, mas de respeito.
+
+**Cassandra** assentiu, genuinamente tocada.  
+— Caramba… muito legal da sua parte. Não sabia desse seu lado mais de criação. E até olha… — ela encarou Bel com um olhar sério, mas divertido — quem sabe, quanto a esse quesito de fazer coisas diferentes… quando a gente caçar aquela centopeia, você pode usar pra alguma coisa.
+
+**Bel** explodiu em uma gargalhada.
+
+**Anna**, no entanto, virou-se com os olhos semicerrados, expressão de nojo escancarada.  
+— Eu me recuso a comer uma centopeia.
+
+**Cassandra**, com um sorriso provocativo, retrucou:  
+— Ouvi já de uma maga falando isso no começo também...
+
+**Malkieer**, com a boca ainda cheia, falou:  
+— Espero que você continue com bastante vontade então, Bel… isso aqui está uma delícia.
+
+— Que bom! Eu fiz para vocês! — disse Bel, com os olhos brilhando. Havia ali um tipo de orgulho silencioso, não vaidoso, mas genuinamente satisfeito.
+
+---
+No meio da comida Anna faz uma pergunta
+"Caso a gente precise lutar contra aquele troço enorme, alguém sabe como que mata? Que eu saiba alguns insetos podem sobreviver com até cabeça cortada..."
+Bel "Uma boa pergunta.."
+Cassandra "Bater forte até não se mexer mais?"
+Malkieer "Foi a minha primeira ideia não vou mentir" 
+Cassandra ri "É minha única ideia"
+Anna olha para a faca que está na sua cintura que estava treinando, tentando imaginar acertar a centopeia de 50 metros com ela.
+Bel "A ideia que estávamos tendo de talvez envenenar antes de partir para o combate talvez seja uma boa, pode fragilizar a estrutura toda da criatura "
+O grupo teoria alguns cenários caóticos, cômicos até e terminam de comer. 
+Continuar
+19:40
