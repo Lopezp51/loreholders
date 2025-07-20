@@ -2926,14 +2926,508 @@ O silêncio que seguiu não foi de constrangimento, mas de respeito.
 — Que bom! Eu fiz para vocês! — disse Bel, com os olhos brilhando. Havia ali um tipo de orgulho silencioso, não vaidoso, mas genuinamente satisfeito.
 
 ---
-No meio da comida Anna faz uma pergunta
-"Caso a gente precise lutar contra aquele troço enorme, alguém sabe como que mata? Que eu saiba alguns insetos podem sobreviver com até cabeça cortada..."
-Bel "Uma boa pergunta.."
-Cassandra "Bater forte até não se mexer mais?"
-Malkieer "Foi a minha primeira ideia não vou mentir" 
-Cassandra ri "É minha única ideia"
-Anna olha para a faca que está na sua cintura que estava treinando, tentando imaginar acertar a centopeia de 50 metros com ela.
-Bel "A ideia que estávamos tendo de talvez envenenar antes de partir para o combate talvez seja uma boa, pode fragilizar a estrutura toda da criatura "
-O grupo teoria alguns cenários caóticos, cômicos até e terminam de comer. 
+No meio da refeição, **Anna levanta o olhar com um vinco na testa**, segurando o sanduíche pela metade.  
+— Caso a gente precise lutar contra aquele troço enorme… alguém sabe como que mata? Que eu saiba, alguns insetos podem sobreviver com até a cabeça cortada…
+
+**Bel mastiga devagar, pensando.**  
+— Uma boa pergunta…
+
+**Cassandra dá de ombros.**  
+— Bater forte até não se mexer mais?
+
+**Markieer, ainda com farelos no queixo, solta com naturalidade:**  
+— Foi a minha primeira ideia, não vou mentir.
+
+**Cassandra ri, mordendo mais um pedaço.**  
+— É minha única ideia.
+
+**Anna baixa os olhos para a faca presa à sua cintura.** A mesma que ela havia usado durante o treino com Markieer. Ela a segura com um gesto distraído, imaginando se conseguiria arremessar aquilo contra uma criatura de cinquenta metros.
+
+**Bel comenta enquanto serve mais água:**  
+— A ideia que estávamos tendo de talvez envenenar antes de partir pro combate talvez seja uma boa… pode fragilizar a estrutura toda da criatura.
+
+O grupo começa a teorizar, com expressões animadas, **inventando cenários caóticos e absurdos** de como poderiam enfrentar a centopeia. Uma das ideias envolve colocar veneno na comida dela, o que parece ser uma ideia viável, todos torcem que isso não seja um tônico para ela, ou que a leve a se transformar em uma borboleta gigante. Os risos vão enchendo a sala com um calor que o frio de Baróvia parecia ter esquecido de roubar.
+
+Quando todos terminam os últimos pedaços do segundo sanduíche, **Bel se levanta da cadeira com uma expressão diferente — quase solene.**
+
+— No meio da preparação da carne, eu consegui fazer uma coisinha especial… pra uma pessoa que foi corajosa hoje.
+
+**Ele some por um instante na cozinha**, e retorna segurando um pequeno prato. Sobre ele, uma **tortinha rústica com frutas vermelhas**, brilhando discretamente sob a luz da lareira. Ele a pousa na frente de Anna, que arregala os olhos.
+
+— Uma sobremesa especial pra você.
+
+— É sobremesa? É açúcar?! — a animação na voz dela explode, e os olhos quase brilham.
+
+— Não consegui fazer muito por conta do tempo, mas queria agradecer pela tua braveza hoje. Por ter pegado a chave… e ter encarado aquela criatura.
+
+**Anna, sem hesitar, dá uma mordida com um som de satisfação quase teatral.**  
+— Obrigada!
+
+**Ela passa o prato para Cassandra, que morde com um sorriso discreto e repassa para Markieer, que lambe os dedos antes mesmo de tocar a massa. Por fim, o prato vai até Bel, que come a última mordida.**
+
+— Se sobrar um tempinho na cozinha, eu sempre vou tentar fazer uma coisinha a mais… Espero que tenham gostado também. — o sorriso dele era sincero, quase tímido.
+
+**Cassandra encosta o prato vazio na borda da mesa.**  
+— Muito bom. Caso precisar de ajuda alguma hora… eu não sou a mais expert na cozinha, mas eu cozinhava pra minha pequenininha.
+
+**Bel acena com a cabeça.**  
+— Sim. Podemos fazer alguma coisa um pouco mais complexa quando tivermos um pouco mais de tempo.
+
+**Anna se estica na cadeira.**  
+— Eu também não sei cozinhar… mas eu sempre experimentava a comida do meu pai, então…
+
+**Bel a interrompe, rindo:**  
+— Então eu sei comer bem!
+
+**A gargalhada do grupo ecoa pelo cômodo, leve e redonda.**
+
+Depois da risada, **a rotina se instala com um conforto simples.** Um pega as louças, outro seca com panos de linho já gastos. **As mãos se cruzam sem pressa** enquanto guardam os pratos, panelas e utensílios de volta aos seus devidos lugares. Alguém varre as migalhas da sala de jantar. 
+
+E por um breve momento, **a casa é só isso: uma casa.**
+
+---
+Terminado o jantar, a limpeza e as conversas animadas, **o cansaço começou a pesar nos ombros do grupo**. Alguns começaram a bocejar entre frases. A madeira da casa estalava discretamente, como se também já buscasse repouso.
+
+---
+**Malkieer**, antes de ir para seu próprio quarto, teve a curiosidade de espiar por uma porta entreaberta. A penumbra do cômodo vazio era cortada por um fio pálido de luar, e sobre a pequena mesa de madeira ele viu um pilão acompanhado de ferramentas de herbalista. **Era um conjunto bem cuidado**, embora coberto por uma fina camada de poeira — sinal de que há tempos não era usado. As flores do pequeno vaso ao lado estavam mortas, ressecadas, sem perfume, sem cor. A madeira da mesa, porém, trazia marcas finas de uso frequente, como se alguém tivesse ali triturado raízes e folhas durante muitas noites antes de ir dormir.
+
+Nenhum cheiro, nenhum resquício de planta fresca. Só a lembrança do que aquele quarto já foi para alguém. Após analisar o quarto, o felino foi para descansar.
+
+---
+Enquanto isso, **Cassandra seguiu para seu quarto**, os passos pesados e arrastados pelo desgaste do dia. A madeira rangeu sob suas botas conforme ela empurrou a porta com o ombro, fechando-a atrás de si com um estalo surdo. O silêncio a recebeu como um cobertor. Sem pressa, ela começou a desmontar-se.
+
+**Soltou a fivela grossa do cinturão de couro**, desatando os cordões dourados que seguravam o conjunto, e apoiou o peso da couraça metálica sobre a cama. Em seguida, retirou as proteções dos ombros, douradas e gastas, e o pano vermelho enrolado ao pescoço caiu ao chão como um suspiro. Por fim, ela desamarrou o **lenço vermelho** do pescoço e soltou o manguito que cobria o braço direito — revelando os **pontilhados de metal que afloravam da carne**, tão simétricos quanto desconfortáveis, cicatrizes esculpidas com precisão.
+
+As **placas metálicas das coxas** bateram umas contra as outras ao serem desencaixadas, e as botas grossas foram deixadas ao pé da cama com um som oco. Por fim, a **prótese do braço direito** — uma peça pesada, de bronze escurecido e mecanismos expostos — emitiu um leve zumbido, ajustando-se conforme ela movia os dedos, como se também buscasse descanso.
+
+Vestiu então suas roupas leves. Um **topo marrom simples, sem mangas**, que deixava à mostra os ombros fortes e o peito riscado por marcas de batalha. A calça, **de tecido grosso e confortável**, vinha presa nos tornozelos por faixas de pano vermelho. E ali, **com os pés descalços no chão de madeira fria**, Cassandra respirou fundo — mais leve, mas ainda inteira.
+
+Sentada à beira da cama, **Cassandra girou o antebraço metálico** até ouvir o clique suave da trava se soltando. Com cuidado, desacoplou a **manopla pesada** da ponta da prótese, revelando o emaranhado preciso de placas, pinos e pequenas engrenagens que corriam por dentro como nervuras artificiais.
+
+Puxou uma pequena chave de fenda escondida na própria correia do cinto, e começou a trabalhar.  
+Os dedos ágeis, já acostumados com aquele ritual silencioso, foram abrindo compartimentos e ajustando **válvulas de pressão**, encaixando pequenas cápsulas metálicas como se ativasse munições encantadas. Uma delas foi apertada com cuidado — a válvula emitiu um leve psshht ao travar — e um brilho pálido percorreu as linhas no interior do braço. 
+
+Durante o processo, seus pensamentos vagaram.
+
+**Anna.**
+
+Havia algo inquietante em sua leveza.  
+Cassandra lembrava-se, elas haviam dormido de madrugada na última noite, e mesmo assim, quando os guardas chegaram pela manhã, foi Anna quem abriu a porta e ficou com Cassandra até todos os outros acordarem. E tão lúcida quanto qualquer um que tivesse dormido um dia inteiro.
+
+Ela se perguntou, com uma ponta de curiosidade e outra de receio, **o que, exatamente, descansava em Anna durante aquele tempo.**  
+Decidiu que quando ela terminasse seu repouso, iria espiar Anna, só para entender melhor... algo.
+
+Terminou os ajustes finais com um estalar leve no encaixe do pulso, fechando a blindagem de volta sobre os delicados mecanismos.
+
+Então se deitou.
+
+O colchão cedeu sob o peso dela, a madeira gemeu, e Cassandra ficou ali, **encarando o teto** por um tempo que não soube medir. O braço esquerdo, meio carne e meio aço, repousava sobre o peito, ainda levemente quente.  
+Os pensamentos escorreram devagar como tinta em papel, se diluindo em lembranças e planos, **até que o corpo parou — não dormindo, mas cessando.**  
+Ali, imóvel, olhos abertos no escuro, Cassandra permitiu-se o tipo de quietude que só ela conhecia: **sem sonhos, sem apagões, apenas o silêncio entre os batimentos.**  
+
+---
+Anna entrou no seu quarto, trancando a porta com cuidado. A rotina começava em silêncio.
+
+Trocou a roupa do dia por um pijama confortável e desbotado. Depois, com gestos precisos, retirou a peruca com naturalidade. Revelando os traços finos e as orelhas pontiagudas que o mundo não devia ver. Com um suspiro leve, passou os dedos sobre o próprio rosto, desmanchando os encantos do prestidigitation. A ilusão sumiu, como neblina ao sol.
+
+Pegou o pequeno espelho de bolso. Ele era antigo — e mais do que isso.
+
+— **Boa noite,** disse ela, baixinho.
+
+A resposta veio com o tom sarcástico de quem está há tempo demais preso num objeto:
+
+— **Eu não saberia se é noite ou dia, já que você me deixa completamente às cegas.**
+
+Anna sorriu.
+
+— **Você quer voltar para a casa do Khazimir?**
+
+— **Eu gostaria que você voltasse.**
+
+— **Eu vou.**
+
+— **Um ano, você falou, certo?**
+
+— **Um pouco menos de um ano agora.**
+
+— **Um dia a menos se passou.**
+
+Anna assentiu. Depois, com um brilho sincero nos olhos:
+
+— **Mas eu tenho algumas coisinhas interessantes para contar. Primeiro de tudo... eu nunca achei que fosse conhecer pessoas tão legais.**  
+Ela hesitou. — **E estou começando a pensar que... ficaria tudo bem se eu falasse a verdade para eles. Eles parecem diferentes, talvez... talvez eles saibam de alguma coisa.**
+
+O espelho demorou um instante para responder. A voz, agora mais baixa:
+
+— **Sobre seus pais?**
+
+— **Sobre meus pais. Sobre mim. Sobre tudo.**
+
+— **Você sabe o quão arriscado é isso.**
+
+Anna desviou o olhar, fingindo mexer nos travesseiros.
+
+— **Tá. Mudando de assunto.**  
+Ela se ajeitou na cama e continuou:  
+— **Eu queria tirar duas dúvidas com você. Já ouviu falar de alguém chamada Eruth? Achamos um diário com esse nome. A casa era dela. Parece que os sonhos dela estavam... se tornando reais.**
+
+O espelho demorou um pouco mais dessa vez.
+
+— **Eu passei muitos anos ao lado de Khazimir. Tentamos nos manter afastados do mundo. Esse nome não me diz nada. Sinto muito.**  
+Um breve silêncio, então a pergunta veio com suavidade:  
+— **Inclusive... você já mandou uma carta para ele?**
+
+Anna arregalou os olhos.
+
+— **Eu esqueci!**  
+Colocou a mão na testa. 
+— **Bom, deixei um recado dizendo que voltava.**
+
+— **Você disse que estava comigo?**
+
+— **Sim. Falei que eu estava com você.**
+
+— **Tá bom.** 
+
+— **Eu sou responsável!.** 
+
+Um riso veem do espelho.  
+— **Sei. Você disse que vocês vão viver nessa casa?**
+
+— **Isso. Pelo próximo ano.**
+
+— **Tem espelhos aqui?**
+
+— **Tem um pequeno no banheiro do segundo andar. Mas eu posso providenciar mais, se você quiser perambular pela casa.**  
+Anna mordeu o lábio.  
+— **Desculpa por te deixar confinada nesse. Eu achei que teria mais.**
+
+— **Eu aceitaria. É um pouco claustrofóbico ficar no seu bolso.**
+
+— **Desculpa.**  
+Ela depositou o espelho sobre a mesinha ao lado da cama com cuidado.  
+
+Houve um instante de silêncio.
+
+— **E uma última coisa...**  
+Anna hesitou.  
+— **É só uma sensação, mas... você já viu a entrada do castelo de Strahd?**
+
+— **Há muito tempo atrás.**
+
+— **Sempre teve aquela pilha de ossos enterrada?**
+
+— **Sempre teve um ar de morte ao redor daquele castelo... mas minhas memórias daquele lugar são borradas.**
+
+Anna olhou para o espelho. A superfície antes nítida estava agora embaçada — sinal de que a conversa havia chegado ao limite.
+
+— **Bom, no geral, eu tô bem animada e feliz. São os primeiros amigos que eu faço.**
+
+— **Eu achei que você fosse amiga dos filhos dos Wachter.**
+
+Anna soltou uma risadinha abafada.
+
+— **Relação aluno-professor é diferente disso.**
+
+— **Eu fico feliz por você.**
+
+— **Bem... vou dormir. Amanhã temos um longo dia caçando uma centopeia gigante.**
+
+A resposta foi lenta, quase um sussurro:
+
+— **Só prossiga com cautela. Você é forte. Mas aqui, fora da nossa casa... as coisas são cruéis. E não têm um pingo de piedade. Só rezo que tudo isso termine bem, depois de todo esse período.**
+
+Anna sorriu com ternura.
+
+— **Vou lembrar disso. Boa noite.**
+
+— **Boa noite, Elsa.**
+
+O nome verdadeiro ecoou no quarto escuro como um segredo esquecido. Anna apagou a vela e se aninhou entre os cobertores, com um sorriso cansado. Lá fora, a noite avançava — e o espelho, em silêncio, a observava dormir.
+
+---
+**Bel foi o último a subir.**  
+A refeição ainda pesava morna em seu estômago e nas mãos havia vestígios de farinha e ervas. Pegou uma muda limpa no armário do quarto e seguiu até o banheiro, sentindo o piso de madeira estalar sob os pés descalços.
+
+No banheiro, pegou um pano limpo, embebeu num balde d’água e começou a passar pelo corpo, devagar, da nuca aos ombros, dos ombros ao peito.
+
+**Enquanto esfregava o pescoço, os pensamentos voltaram aos eventos do dia.** A igreja, a criatura das sombras, a plantação e a centopeia.
+
+O pano escorregou pelo braço quando ele se virou para encher mais água.  
+Foi então que notou.
+
+**Na borda da banheira**, um líquido escarlate escorria para o chão em fios quase preguiçosos. Bel se abaixou, farejando com cuidado. **O cheiro adocicado e metálico** não enganava — não era sangue. Era **poção de cura.**  
+Ou melhor, **os restos dela.** Como se alguém a tivesse ingerido ali mesmo, durante a noite.
+
+Ele franziu o cenho, reconstituindo em pensamento os acontecimentos com os Gremishkas. Um deles... teria vindo até aqui?
+
+Suspirou, e enquanto voltava a se enxugar, os olhos se detiveram no espelho acima da pia.
+
+**Algo estava ali.**
+
+Uma silhueta. Uma sombra indistinta. Não uma mancha. Não um reflexo. Uma presença.
+
+Ele virou-se num estalo — o banheiro estava vazio. Voltou o olhar para o espelho.
+
+**A figura ainda ali.**
+
+Bel deu dois passos adiante, ainda nu, o chão frio contra os pés.  
+Quando se aproximou da madeira da parede, instintivamente levou a mão até onde, normalmente, estaria sua arma. E **como se a casa reconhecesse o gesto**, **a rapieira surgiu, encaixada no punho como uma extensão do seu próprio braço.**
+
+Ele não disse nada.
+
+Chegou ainda mais perto do espelho. A superfície estava opaca, embaçada — mas por trás da névoa havia o reflexo do banheiro. Sem ele.  
+**O espelho não o refletia.**
+
+Passou a mão pelo vidro. O vapor cedeu sob o toque, e por um momento o reflexo se mostrou normal: o banheiro, ele mesmo, a toalha pendurada. Tudo ali.  
+Mas antes que pudesse se convencer, **o vidro começou a embaçar novamente.**  
+E então ele notou: **a banheira soltava vapor.**
+
+Bel arregalou os olhos.
+
+**Ele só havia trazido água fria.**
+
+Ajoelhou-se. A madeira abaixo da banheira não estava quente, mas quando mergulhou a mão no fundo, sentiu o calor pulsando da água como um coração escondido.
+
+**Algo a aquecia.**
+
+Não havia fogo, nem pedras, nem aquecedor.
+
+Só a banheira.  
+Só o espelho.  
+Só ele.
+
+Com um gesto lento e controlado, enxugou-se com a toalha, os músculos atentos a qualquer novo som. Vestiu-se ali mesmo, a camisa colando nas costas ainda úmidas. Antes de sair, deu um último olhar para o espelho. A superfície seguia turva — mas nada mais ali.
+
+**Nada visível.**
+
+No quarto, jogou-se sobre a cama, o cansaço acumulado o puxando como areia. Abriu a bagagem com o cuidado de sempre e retirou uma ração, sua ração.
+
+Mastigando enquanto observava pela janela o contorno escuro da cidade dormindo.
+
+As luzes se apagavam uma a uma, como olhos cansados.  
+**Bel seguiu o exemplo.**  
+Mordeu o último pedaço. Engoliu.  
+**E dormiu.**
+
+---
+**A noite seguiu em silêncio.**
+
+**Após quatro horas imóvel, Cassandra começava a se mexer**
+
+Havia algo na forma como se ergueu, sem pressa, mas também sem hesitação. O corpo se movia como um relógio despertando, cada junta reencontrando seu lugar natural.  
+Ela calçou os pés no chão frio, os dedos se flexionando no metal do braço esquerdo.
+
+Sem acender luz, sem ruído, ela cruzou o quarto até a parede que dividia o espaço com Anna.
+
+Ali, encostou a mão na madeira.  
+Girou o pulso protético com precisão. Uma fenda se abriu entre placas de latão. **Um leve chiado. Um sopro. Um clique.**
+
+**O ar foi sugado com um sussurro metálico.**  
+**Uma válvula tilintou. E então, um vapor pálido escapou.**
+
+Cassandra inspirou.
+
+**O cheiro veio logo em seguida.**  
+Familiar.  
+**Mortificado.**  
+Undead.
+
+Ela ficou ali, por longos segundos, os olhos baixos e as sobrancelhas unidas.
+
+O cheiro não era forte, mas era claro.  
+**Definitivamente dentro do raio do seu sensor. Trinta pés.**
+
+Fechou os olhos.  
+Começou a analisar. Não era dela — já havia eliminado essa possibilidade.  
+**Mas... não era um só cheiro.**
+
+**Diversos. Misturados.**  
+Como um corredor por onde vários cadáveres tivessem passado.  
+Como um perfume antigo absorvido pelas tábuas da casa.
+
+Ela tentava realizar cálculos mentais — se Anna estivesse no centro do raio...  
+Mas os números não ofereciam certeza.  
+Não havia direção exata.  
+**Só a presença.**
+
+O cheiro de mortos.
+
+Ela afastou a mão da parede, fechando a fenda no braço com um clique suave. Voltou para a cama em silêncio, o rosto impassível.
+
+Mas os olhos, acesos na penumbra.
+
+Ficou ali deitada, **ouvindo.**
+
+Do outro lado da parede, o som de uma porta.  
+Passos suaves.  
+
+**Anna.**
+
+No quarto ao lado, a jovem maga acordara.
+
+Com precisão ensaiada, refez os encantamentos sobre o rosto com um gesto ágil de **prestidigitação**.  
+Colocou a peruca com o cuidado de quem ajusta um disfarce.  
+Vestiu o traje habitual de maga. Prendeu o grimório ao cinto.  
+Os passos curtos desceram pela escada.
+
+Na sala de jantar, procurou por algo. O **livro de Eruth.**  
+Não o encontrou.
+
+Abriu a despensa, pegou um pequeno lanche e subiu de novo, passando pela cozinha, sumindo de vista.
+
+No quarto, ela se sentou diante do grimório.  
+As páginas ainda em branco a encaravam como um desafio.
+
+Cada ranger. Cada passo de Anna, Cassandra estava atenta.
+A paladina permaneceu em silêncio.  
+Sem certezas. Sem conclusões.
+
+**Mas alerta.**
+
+E a casa voltou a mergulhar no escuro murmúrio da madrugada.
+
+### **2.13 -**  Pesquisa de campo
+
+**O som do grasnar de pássaros quebrou a quietude da casa.**  
+A luz do dia escorria pelas frestas, preenchendo lentamente os corredores, tocando os móveis com o dourado pálido de um novo amanhecer.
+
+Tudo parecia tranquilo.  
+Até que — **três batidas discretas, ritmadas e educadas soaram na porta.**
+
+Do quarto, a voz de Cassandra cortou o silêncio:
+
+**"ANNA, A PORTA!"**
+
+Anna, que já estava a caminho, respondeu alto:  
+**"TÔ INDO!"**
+
+Os passos ecoaram com força nos degraus de madeira, os saltos da bota batendo ritmadamente enquanto descia correndo as escadas.  
+O som foi o suficiente para acordar os outros pela casa, que aos poucos se reviravam em seus quartos, atentos ao inesperado.
+
+Anna parou diante da porta, ajeitando a gola do vestido.  
+Curvou-se, espiando pelo **olho mágico**.
+
+Do lado de fora, parado com uma postura impecável, estava um homem envolto em um manto azul-escuro, adornado por fios dourados nas costuras e ombreiras largas que lembravam o corte cerimonial de um arauto ou funcionário da corte. A túnica era abotoada até o alto do pescoço com fios metálicos.  
+Por cima do capuz, um **rosto metálico**, inumano e impenetrável: uma **máscara dourada pálida**, de traços elegantes e perfeitos, moldada como se pertencesse a uma estátua.
+
+Anna respirou fundo.
+
+—Bom dia — ela disse ao abrir a porta.
+
+— Bom dia, candidata— respondeu a figura com uma voz firme, abafada levemente pela máscara. Havia um sotaque leve, rebuscado — e um tom polido, que jamais beirava informalidade.
+
+— Eu poderia entrar na casa para conversar com vocês?
+
+Anna sorriu de leve.
+
+—Claro. Entre.
+
+**A figura entrou.**
+
+Com passos precisos, sem pressa, **o mordomo da Casa Zarovich** adentrou o salão da casa.
+
+— Peço desculpas por vir tão cedo. Meus horários são… complicados.
+
+— Sem problemas — respondeu Anna com gentileza, embora mantivesse a postura ereta, atenta. —Gostaria de um chá?
+
+— Não será necessário. Gostaria apenas de conversar com todos os candidatos.
+
+— Acho que eles já devem estar descendo para o café da manhã. Se quiser se sentar enquanto chegam…
+
+— Perfeito.
+
+A figura caminhou até o sofá com uma lentidão medida, os ombros largos firmes sob a capa azul de bordas douradas. Sentou-se ereto, as mãos repousando sobre os joelhos, o rosto mascarado virado para o centro da sala. Havia algo cerimonial em cada gesto.
+
+Anna subiu um degrau da escada e gritou:
+
+— TEM VISITA!
+
+A resposta veio em ecos de portas se abrindo e passos lentos acima. Enquanto isso, Anna foi até a cozinha, acendeu o fogão a lenha, pôs a chaleira com água e começou a preparar a mesa com pratos e fatias de pão.
+
+Ao voltar para a sala, disse com um sorriso ensaiado:
+
+— Eu esqueci de perguntar seu nome. Pelas vestes, presumo que trabalhe no castelo.
+
+A figura assentiu levemente com a cabeça.  
+— Sim. Vocês podem me chamar de **[[O Juiz|O Juiz]]**.
+
+Bel foi o primeiro a aparecer no corredor, seguido de Malkieer e Nikolai, ainda ajeitando o colarinho da camisa. Cassandra, por fim, desceu com passos lentos. Todos foram se sentando à mesa ou se espalhando próximos, dizendo seus **"bom dia"** com diferentes tons — desconfiança, polidez ou apenas sonolência.
+
+O Juiz se levantou.
+
+— Bom revê-los novamente. Eu serei o juiz da Equipe Número Um, que são vocês.
+Sua voz tinha a ressonância de quem estava acostumado a falar para auditórios em silêncio.
+
+— Planejava vir mais cedo, mas alguns afazeres me interromperam. Vejo que o representante dessa cidade já lhes providenciou um abrigo. Vim apresentar-me formalmente a vocês, pois ao longo deste ano, serei responsável por acompanhar o progresso da sua equipe. Não quero que levem o título de 'juiz' como algo punitivo. Ainda é o Rei Strahd quem analisará o desempenho de todos. Eu atuo como um intermediador — observo, documento, esclareço dúvidas.
+
+Ele olhou para cada um, a máscara imóvel, mas o silêncio que se seguiu sugeria que os olhos por trás dela **os avaliavam** com atenção medida.
+
+— Cuidarei de outras equipes também, em diferentes cidades. Não estarei presente aqui o tempo todo, mas espero conseguir manter um ritmo de contato. Duas vezes por semana.
+
+Anna, com o chá agora em mãos, perguntou:
+
+— De quantas equipes cada juiz cuida?
+
+— Informação privilegiada.
+
+Ela assentiu com um meio sorriso.
+
+Malkieer, sentado de pernas cruzadas com um pão na mão, perguntou:
+
+— E como mandamos cartas a você?"
+
+— Qualquer correio. Enviem para 'O Juiz'. Os carteiros foram instruídos. A carta será redirecionada até mim, onde quer que eu esteja.
+
+Anna então acrescentou, casual:  
+— Imagino que seja confidencial a identidade do juiz.
+
+— Exato. Para nossa proteção. E para a de vocês também.
+
+O Juiz entrelaçou os dedos.
+
+— Bom. Com as apresentações feitas, preciso perguntar: como está o progresso de vocês na missão atribuída? Eu sei que se passou apenas um dia, mas é meu dever saber.
+
+— Já resolvemos um problema. — Anna cruzou as mãos sobre a mesa, a voz serena, mas firme.
+
+— A igreja da cidade tinha uma dificuldade e conseguimos auxiliar. — Bel completou, sentando-se com um certo peso no gesto. — Hoje vamos investigar a segunda pista que o líder da guarda nos deu. Mas, depois disso... não sabemos quais serão os próximos problemas.
+
+— Imagino que alguma coisa vá surgir até lá. — Anna deu de ombros, pegando um prato e começando a preparar o chá.
+
+— Bom... — O Juiz respondeu, com um leve aceno. — A maneira como vocês escolhem cumprir a missão está sob total descrição do grupo. Agradeço o relatório. Agora, antes de partir, pergunto: têm alguma dúvida sobre a competição em geral?
+
+— Eu tenho uma sobre o objetivo. — Bel recostou na cadeira, os dedos tamborilando de leve sobre a madeira. — Foi-nos dada a frase “melhorar a vila de Barovia”. E seria você quem vai nos dizer quando esse objetivo estará completo? Ou vamos ficar aqui até o fim da competição? Vamos para outro lugar?
+
+— São vocês que devem me reportar se a missão foi cumprida. — A voz do Juiz era neutra, sem pressa. — Quem vai decidir se ela foi concluída com êxito é o Rei.
+
+— Você sabe qual equipe está na cidade de Vallaki? — Anna perguntou, casualmente, embora o olhar permanecesse firme sobre ele.
+
+— Isso é confidencial.
+
+Anna manteve o silêncio, a expressão educada demais para ser desinteressada. O Juiz continuou:
+
+— Nosso intuito com o baile foi manter a identidade de vocês em segredo. Não quero compartilhar informações privilegiadas, pois isso significaria que eu também teria que revelar a identidade de vocês às outras equipes.
+
+— Tenho uma dúvida. — Cassandra se inclinou ligeiramente para frente, os olhos atentos. — A gente pode voltar para o castelo em algum momento?
+
+— Vocês são livres para irem aonde desejarem.
+
+— Mas seríamos bem recebidos, ou precisaríamos de algum tipo de pedido formal...? — Ela manteve o tom calmo, mas seus pensamentos já estavam longe, na imagem da pianista mascarada.
+
+— Os requisitos para visitar o castelo não mudaram desde os tempos comuns. Qualquer cidadão de Barovia pode solicitar uma audiência com o Rei ou com algum representante dele.
+
+— Até aqueles que trabalham no castelo? Ou só representantes? — insistiu, o cenho levemente franzido.
+
+— Não entendi sua pergunta. O castelo só abre as portas durante a festa, mas é possível marcar uma audiência com alguém que represente o Rei.
+
+— Entendi. — Cassandra se recostou, as palavras girando por dentro como engrenagens soltas.
+
+— Se não houverem mais dúvidas, preciso partir para dar continuidade aos meus afazeres. — O Juiz se ergueu, o tecido do manto mal emitindo som ao se mover. — Estarei acompanhando o progresso de vocês. Boa sorte.
+
+E então, sem outra palavra, **o mordomo da Casa Zarovich** atravessou a porta como quem nunca esteve ali.
+
+1:10:39
+
+
 Continuar
-19:40
+
