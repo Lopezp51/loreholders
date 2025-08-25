@@ -26,7 +26,137 @@ trama: 02│Boas-Vindas a Vila De Barovia
 >>>[!tabbed-box-maxh]
 >>> >[!div-m|no-title]
 >>> > ![[#Objetivos|no-h clean]]
->>>
+
+
+### TESTES 
+
+
+#### TEEEEEEEEEEEESTEZ
+
+- **Após o ataque na casa**  
+  O grupo desce armado para verificar se os fantasmas poderiam afetar outras áreas da vila.  
+
+- **Cassandra & Nikolai**  
+  - Cassandra confirma com **Divine Sense** que há um undead dentro dele.  
+  - Nikolai revela ter sido cobaia da Reitora Victra: perdeu o coração e não tem pulso.  
+  - O frasco usado no combate vem do mesmo experimento, mas ele desconhece os efeitos.  
+
+- **Ronda pela vila**  
+  - **Ernest**: 
+		- Guarda o roubou e lhe deixou apenas um recibo. Revela que antes de Strahd havia burgomestres, e que o avô de Vadrik assumiu após a morte do último legítimo.  
+		- Nikolai e Cassandra acabaram ficando para um lanche da madrugada com Ernest.
+  - **Anna & Bel:**  
+    - Anna conta que o irmão é controlado pela arma do pai e a irmã busca poder obscuro.  
+    - Admite que nunca poderá dividir sua vida por causa desses segredos.  
+    - Bel revela que não vem de família nobre, apenas um cavaleiro em busca de espaço no mundo, agora dedicado a esse propósito.  
+  - **Malkieer**: 
+		- Espiona a taverna. Ouve sobre encomendas de Zeidenburg ainda não entregues e Vadrik afirmando que “o rei está prestes a sair do trono”.  
+		- Quase é visto, mas o guarda apenas comenta ter visto “um gato enorme”.  
+
+- **Discussões e descobertas**  
+  - Segredos do reino parecem ligados à família de Vadrik.  
+  - As encomendas pelo correio podem fazer parte disso.  
+
+- **Plano**  
+  - Malkieer e Nikolai se disfarçarão de guardas para interceptar a encomenda.  
+  - Bel, Anna e Cassandra distrairão aliados de Vadrik.  
+  - Agro (cavalo) e Imperator (familiar reinvocado) darão suporte.  
+
+- **Momentos finais**  
+  - Malkieer realiza ritual e traz de volta o Imperator.  
+  - Revela a Cassandra que cresceu num bairro de refugiados em Vallaki, apagado da história oficial.  
+  - Todos descansam para executar o plano pela manhã.  
+  
+
+
+### **1.1 -** A Chegada à Sombra de Ravenloft
+
+- **Após o ataque na casa**
+    
+    - O grupo desce armado e agasalhado para investigar se os fantasmas estavam apenas na casa ou se poderiam afetar outras áreas da vila.
+        
+    - **Cassandra** e **Nikolai** conversam em particular:
+        
+        - Cassandra confirma com **Divine Sense ** que há um **undead dentro de Nikolai**.
+            
+        - Ele revela que foi cobaia de um **experimento da Reitora Victra** na Academia de Krezk: seu coração foi retirado e ele não tem pulso desde então.
+            
+        - O frasco que usou no combate também faz parte desses experimentos, mas ele não sabe os efeitos colaterais.
+            
+- **Ronda pela vila**
+    
+    - O grupo se divide:
+        
+        - **Cassandra e Nikolai** visitam **Ernest**, que revela:
+            
+            - A guarda bateu nele e roubou seu pagamento, restando-lhe apenas um “recibo” como humilhação.
+                
+            - Ele já tentou falar com o rei duas vezes na juventude, mas foi ignorado. O rei disse que “suas mãos estavam atadas”.
+                
+            - Revela também que antes de Strahd, Baróvia era governada por burgomestres, e o avô de **Vadrik** assumiu após a morte do último burgomestre legítimo.
+                
+            - Ernest considera esse sofrimento o “normal” da vida em Baróvia, mas Cassandra o confronta dizendo que “sobreviver não é viver”.
+                
+        - **Bel e Anna** investigam juntos (com clima de aproximação pessoal):
+            
+            - Anna revela segredos da família Wachter:
+                
+                - O irmão parece controlado pela arma dada pelo pai.
+                    
+                - A irmã busca poder obscuro, tendo aprendido magia em ritmo anormal.
+                    
+                - Anna admite que nunca poderá se casar ou dividir sua vida por causa dos segredos da família.
+                    
+            - **Bel se abre para Anna**:
+                
+                - Conta que **não vem de uma família nobre**.
+                    
+                - Que é apenas um **cavaleiro em busca do seu espaço no mundo**, com o propósito de usar essa chance para **melhorar as coisas**.
+                    
+                - Revela que já teve outros sonhos, mas agora sua vida é dedicada a esse objetivo.
+                    
+        - **Malkieer** espiona a taverna onde **Vadrik** está reunido com aliados:
+            
+            - Ouvem conversas sobre encomendas vindas de **Sidenberg** que ainda não chegaram pelo correio.
+                
+            - Vadrik afirma que “o rei está prestes a sair do trono” e que há segredos escondidos em Baróvia e em várias cidades.
+                
+            - Malkieer quase é visto, mas escapa correndo — um guarda só comenta que viu “um gato enorme”.
+                
+- **Discussões e descobertas**
+    
+    - O grupo conclui que os **segredos do reino** podem estar ligados à família de Vadrik.
+        
+    - Há indícios de que **as encomendas vindas pelo correio** são parte desse segredo.
+        
+    - Plano traçado:
+        
+        - No dia seguinte, **Malkieer e Nikolai** irão disfarçados como guardas para interceptar a encomenda nos correios.
+            
+        - **Bel, Anna e Cassandra** tentarão distrair eventuais aliados de Vadrik.
+            
+        - Agro (o cavalo) e o Imperator (familiar de Malkieer, recém-reinvocado) ajudarão como apoio/alerta.
+            
+- **Momentos finais**
+    
+    - **Malkieer** realiza um ritual e consegue trazer de volta o **Imperator**.
+        
+    - Revela a Cassandra que cresceu em um bairro miserável de refugiados em Vallaki, que depois foi apagado da história da cidade.
+        
+    - Todos descansam para executar o plano na manhã seguinte.
+
+> [!summary]- 2.1 Sem Missa
+> Chegada na igreja e resolução.
+> - **Beats:** …
+> - **Pendências:** …
+
+> [!summary]- 2.2 Velho Ernest e seu "bichinho"
+> Sinopse curta aqui.
+> - **Beats:** …
+> - **Pendências:** …
+
+> [!example]- 2.3 Investigação da Floresta
+> notas…
 
 
 ### PRESENTES /MENÇÕES NESTE TRAMA

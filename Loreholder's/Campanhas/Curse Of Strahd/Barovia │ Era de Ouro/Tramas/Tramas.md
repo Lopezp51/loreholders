@@ -21,3 +21,16 @@ tags:
 > fontSize: small
 > ```
 
+
+> [!tramas]+ TRAMAS
+> ```datacards 
+> TABLE cover,  Descrição FROM #tramas_era_de_ouro
+> SORT file.name asc
+> 
+> // Settings 
+> preset: dense 
+> columns: 5
+> cardSpacing: 4
+> imageProperty: cover
+> fontSize: small
+> ```
