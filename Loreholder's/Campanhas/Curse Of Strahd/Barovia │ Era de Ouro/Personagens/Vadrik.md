@@ -12,6 +12,7 @@ status: Vivo
 Afiliação: [[Guarda da Vila de Barovia]]
 Localização: [[Vila de Barovia]]
 aparicao:
+  - 01│Baile de Máscaras
   - 02│Boas-Vindas a Vila De Barovia
 ---
 
@@ -21,16 +22,16 @@ aparicao:
 # ** Vadrik **
 
 **Descrição:**  
-...
+Vadrik é o capitão da guarda da Vila de Baróvia, primeiro representante oficial com quem o grupo tem contato ao chegar. Ele é uma figura de autoridade local, mesmo não sendo burgomestre.
 
 ### **Segredos ou Boatos:**  
-...
+Sua familia aparenta estar no controle da guarda da cidade há 3 gerações. 
 
 ### **Citação Marcante:**  
-> "..."
+> "No final disso tudo espero que falem que foram bem recebidos na vila."
 
-### **Primeira Aparição:** ??? 
-...
+### **Primeira Aparição:** 
+Apareceu pela primeira vez na taverna sangue no vinho, recebendo o grupo na vila de Barovia. 
 
 ---
 

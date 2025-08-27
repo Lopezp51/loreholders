@@ -6,14 +6,14 @@ cssclasses:
 tags:
   - bestiario_era_de_ouro
 
-img: "[[centopeia_gigante.png]]"
+img: "[[centopeia_gigante copy.png]]"
 conexao: [[Bestiário]]
 ameaca: 💀💀💀
 aparicao:
   - 02│Boas-Vindas a Vila De Barovia
 ---
 > [!NOTE|clean no-i right]+ Centopeia Gigante
-> ![[centopeia_gigante.png|400]]  
+> ![[centopeia_gigante copy.png|400]]  
 
 ## ** Centopeia Gigante **
 
@@ -45,4 +45,5 @@ Vista pela primeira vez pelo grupo ao o velho Ernest a alimentar com aboboras no
 
 <div class="npc-gallery">
     <img src="centopeia_gigante.png" alt="centopeia_gigante " />
+    <img src="centopeia_gigante copy.png" alt="centopeia_gigante " />
 </div>

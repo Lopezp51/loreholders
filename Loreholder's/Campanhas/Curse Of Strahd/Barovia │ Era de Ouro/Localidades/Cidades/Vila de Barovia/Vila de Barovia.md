@@ -76,7 +76,7 @@ imageSize: small
 fontSize: small
 imageProperty: img
 imagePosition: center
-columns: 3
+columns: 4
 lazyLoad: true
 
 ```
@@ -89,6 +89,12 @@ lazyLoad: true
 
 🍺Sangue no Vinho
 
-🛖Fazenda do Velho Ernist
+🛖Fazenda do Velho Ernest
 
 🛖Açougue Porco Feliz
+
+🛖Mercantil de Bildrath
+
+🛖Correios
+
+🛖Casa da vó Wensencia

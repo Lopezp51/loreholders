@@ -1,4 +1,7 @@
 {
-	"nodes":[],
+	"nodes":[
+		{"id":"a8b38d8b1abd2ea5","x":-660,"y":-161,"width":669,"height":451,"type":"file","file":"Loreholder's/media/strahd/Localidades/sangue_no_vinho_fora.png"},
+		{"id":"bbfc2b368b2d99b1","x":9,"y":-120,"width":400,"height":327,"type":"file","file":"Loreholder's/media/strahd/Localidades/sangue_no_vinho_dentro.png"}
+	],
 	"edges":[]
 }

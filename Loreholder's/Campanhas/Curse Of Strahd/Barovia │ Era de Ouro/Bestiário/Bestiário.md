@@ -19,7 +19,7 @@ imageSize: small
 imageProperty: img
 imagePosition: center
 fontSize: xlarge
-columns: 5
+columns: 4
 lazyLoad: true
 
 ```

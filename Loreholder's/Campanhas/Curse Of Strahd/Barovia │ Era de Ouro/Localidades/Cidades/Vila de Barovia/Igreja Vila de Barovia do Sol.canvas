@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"6665e0ba9af4ac79","x":-880,"y":-460,"width":1420,"height":1236,"type":"file","file":"Loreholder's/media/strahd/Localidades/igreja_do_sol.png"}
+		{"id":"6665e0ba9af4ac79","type":"file","file":"Loreholder's/media/strahd/Localidades/igreja_do_sol.png","x":-880,"y":-460,"width":1420,"height":1236}
 	],
 	"edges":[]
 }

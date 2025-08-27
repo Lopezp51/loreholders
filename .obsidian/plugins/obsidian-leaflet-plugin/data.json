@@ -46,7 +46,7 @@
     {
       "id": "vila_de_barovia",
       "locked": true,
-      "lastAccessed": 1751504493911,
+      "lastAccessed": 1756258087339,
       "markers": [
         {
           "id": "ID_ab6a4998db49",
@@ -221,7 +221,7 @@
           "mutable": true,
           "command": false,
           "percent": null,
-          "description": "Fazenda do Velho Ernist",
+          "description": "Fazenda do Velho Ernest",
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
@@ -270,6 +270,38 @@
           "command": false,
           "percent": null,
           "description": "Mercantil de Bildrath",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_799b09887b38",
+          "type": "Comercio",
+          "loc": [
+            2277.708807718192,
+            824.4092534647099
+          ],
+          "layer": "media%2Fstrahd%2FLocalidades%2Fvila_de_barovia.png",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Correios",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_c9fa99782889",
+          "type": "Casa",
+          "loc": [
+            1375.2499694824219,
+            1469.1055758254997
+          ],
+          "layer": "media%2Fstrahd%2FLocalidades%2Fvila_de_barovia.png",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Casa da vó Wensencia",
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"

@@ -11,9 +11,9 @@ tags:
 
 
 ```datacards
-TABLE img, descricao as "Descrição"
+TABLE img,  descricao as "Descrição"
 FROM #localidades_era_de_ouro 
-SORT tipo_artefato
+SORT file.link ASC
 
 // Settings
 preset: square
