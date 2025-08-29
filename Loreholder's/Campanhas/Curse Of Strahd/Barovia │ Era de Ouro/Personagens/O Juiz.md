@@ -11,7 +11,7 @@ status: Vivo
 Afiliação: 
 Localização: 
 aparicao:
-  - 02│Boas-Vindas a Vila De Barovia
+  - 03│........
 ---
 
 > [!NOTE|clean no-i right]+ O Juiz

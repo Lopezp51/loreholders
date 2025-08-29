@@ -19,7 +19,7 @@ preset: compact
 imageSize: xlarge
 imageProperty: img
 imagePosition: center
-columns: 7
+columns: 5
 lazyLoad: true
 
 ```

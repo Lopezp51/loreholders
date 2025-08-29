@@ -5,31 +5,32 @@ cssclasses:
 tags: 
   - npc
   - npc_era_de_ouro
+  - facçao_guarda_vila_barovia
 
-img: "[[wensencia.png]]"
-status: Viva
+img: "[[Luke_Bramdt.png]]"
+status: Vivo
 Afiliação: 
-Localização: [[Vila de Barovia]]
+Localização: ???
 aparicao:
   - 03│
 ---
 
-> [!NOTE|clean no-i right]+ Wensencia  
-> ![[wensencia.png|500]]  
+> [!NOTE|clean no-i right]+ Luke Bramdt  
+> ![[Luke_Bramdt.png|500]]  
 
-# ** Wensencia **
+# ** Luke Bramdt **
 
 **Descrição:**  
-A dona Wensencia, ou, vó Win, é uma das moradores mais antigas da vila de Barovia. A qual é a favor do sistema da vila. 
+#TODO ADD DESCRIÇÃO
 
 ### **Segredos ou Boatos:**  
-...
+
 
 ### **Citação Marcante:**  
-> "..."
+> ""
 
 ### **Primeira Aparição:** 
-Apareceu pela primeira vez quando o grupo foi procurar por informações na cidade, ao procurar pelo paradeiro do "Lukão".
+...
 
 ---
 
@@ -46,6 +47,6 @@ Apareceu pela primeira vez quando o grupo foi procurar por informações na cida
 ### 🖼️ **Galeria de Imagens Alternativas**
 
 <div class="npc-gallery">
-    <img src="wensencia.png" alt="Wensencia" />
+    <img src="Luke_Bramdt.png" alt="Vadrik" />
 </div>
 

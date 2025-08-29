@@ -14,6 +14,7 @@ Localização: [[Vila de Barovia]]
 aparicao:
   - 01│Baile de Máscaras
   - 02│Boas-Vindas a Vila De Barovia
+  - 03│........
 ---
 
 > [!NOTE|clean no-i right]+ Vadrik  

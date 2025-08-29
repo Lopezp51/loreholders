@@ -108,9 +108,19 @@ Ao cruzarem os portões do castelo, foram imediatamente tomados por uma atmosfer
   - Um emissário anuncia que formarão uma **equipe de candidatos ao trono de Baróvia**.  
   - Primeira missão: **“Tornar a Vila de Baróvia um lugar melhor”**.  
   - A carruagem parte em meio à tempestade, deixando Ravenloft para trás.  
+---
+
+#### 🔎 Pendências / Investigações Futuras
+- [ ] **Quem envenenou Sir Leon Wachter?** O vinho foi manipulado, mas não há suspeitos claros.  
+- [ ] **Irmã de Anna (Wachter):** qual seu papel real na competição e a origem de seus poderes mágicos.  
+- [ ] **Paranoia de Nikolai:** está sendo realmente vigiado ou apenas efeito da tensão após o baile?  
+- [ ] **Piso da entrada de Ravenloft:** parecia um lago congelado com esqueletos presos — qual o significado?  
+- [ ] **Comentário da pianista:** por que ela achou reconhecer Cassandra? Coincidência ou pista maior?  
 
 
-## ** 1.3  **Portas Abertas, Suspiros Velhos
+
+
+## ** 1.3  ** - Portas Abertas, Suspiros Velhos
 
 - **Apresentações na carruagem**  
   - O grupo tira suas máscaras e revela suas identidades:  
@@ -150,13 +160,8 @@ Ao cruzarem os portões do castelo, foram imediatamente tomados por uma atmosfer
 
 ---
 
-## 🔎 Pendências / Investigações Futuras
+#### 🔎 Pendências / Investigações Futuras
 
-- [ ] **Quem envenenou Sir Leon Wachter?** O vinho foi manipulado, mas não há suspeitos claros.  
-- [ ] **Irmã de Anna (Wachter):** qual seu papel real na competição e a origem de seus poderes mágicos.  
-- [ ] **Paranoia de Nikolai:** está sendo realmente vigiado ou apenas efeito da tensão após o baile?  
-- [ ] **Piso da entrada de Ravenloft:** parecia um lago congelado com esqueletos presos — qual o significado?  
-- [ ] **Comentário da pianista:** por que ela achou reconhecer Cassandra? Coincidência ou pista maior?  
 - **Criaturas estranhas:**  
   - [ ] Roedor monstruoso que atacou Bel — de onde veio?  
   - [ ] Enxame de gremlins libertados do baú — por que estavam ali?  

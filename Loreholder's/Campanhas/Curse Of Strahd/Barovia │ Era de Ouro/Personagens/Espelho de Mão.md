@@ -20,7 +20,8 @@ aparicao:
 Aparenta ter uma relação próxima com Anna, sendo sua mãe de criação pelos indicativos.
 
 ### **Segredos ou Boatos:**  
-Aparenta que o ser dentro do espelho é uma elfa.
+- Aparenta que o ser dentro do espelho é uma elfa.
+- No espelho está anotado "Lydia Petrovna Vallakovich"
 
 ### **Citação Marcante:**  
 > "Seguinte... aqui fora, fora de Vallaki... as coisas são complicadas. Tanto pra mim, quanto pra todos nós. Principalmente pra elfos como nós."

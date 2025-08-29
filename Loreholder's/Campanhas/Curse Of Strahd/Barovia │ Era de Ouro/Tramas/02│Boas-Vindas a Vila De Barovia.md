@@ -7,7 +7,7 @@ tags:
   - tramas
 conexao: "[[Campanhas/Curse Of Strahd/Barovia │ Era de Ouro/Tramas/Tramas|Tramas]]"
 cover: "[[guardas da vila de barovia.png]]"
-Descrição: Na sombria vila de Barovia, o grupo luta para restaurar a cidade, mas acaba desenterrando segredos do passado pelo caminho.
+Descrição: Na penumbra da vila esquecida, segredos se escondem entre sonhos e monstros famintos. A promessa de “melhorar Baróvia” revela-se apenas o início de uma longa descida pelas sombras. 
 trama: 02│Boas-Vindas a Vila De Barovia
 ---
 #  02│Boas-Vindas a Vila De Barovia
@@ -42,9 +42,9 @@ showImageOnHover: true
 cardSpacing: 4
 ```
 
-## ** 2.1 ** - Os Devoradores de Magia
+## ** 2.1 ** -  Os Devoradores de Magia
 
-- **Retomada do cliffhanger da Sessão 2B**  
+- **Retomada do cliffhanger **  
   - O enxame de **[[Gremishkas]]** (criaturas parecidas com gremlins/gatos roedores) sai do baú aberto por Malkieer.  
   - Cada personagem está em um canto da casa, sem noção imediata do perigo.  
 
@@ -83,11 +83,19 @@ cardSpacing: 4
   - Reagem com violência a magias conjuradas próximas (podendo até se multiplicar).  
   - Só podem ser vencidos com **ataques físicos não mágicos**.  
   - Estavam presos no baú por **dois cadeados**. 
+---
 
+#### 🔎 Pendências / Investigações Futuras
+
+- [ ] **O que exatamente são as gremísticas?** Quem as criou e com que propósito?  
+- [ ] **Sobrevivência:** como as criaturas permaneceram vivas tanto tempo presas?  
+- [ ] **Pergaminho encontrado por Nikolai:** quem o escreveu e qual sua importância?  
+- [ ] **Arma ou risco?** Vale a pena tentar capturar e usar as gremísticas contra inimigos, ou é perigoso demais?  
+- [ ] **Segredos da casa:** podem existir mais criaturas ou armadilhas escondidas em outros andares?  
 
 ---
 
-## ** 2.2 ** Conversas à Luz da Lareira  
+## ** 2.2 ** - Conversas à Luz da Lareira  
 
 - **Após a batalha com as [[Gremishkas]]**  
   - Cassandra recolhe os corpos das criaturas e os incinera na lareira, deixando um cheiro desagradável no ar.  
@@ -130,13 +138,8 @@ cardSpacing: 4
 
 
 
-## 🔎 Pendências / Investigações Futuras
+#### 🔎 Pendências / Investigações Futuras
 
-- [ ] **O que exatamente são as gremísticas?** Quem as criou e com que propósito?  
-- [ ] **Sobrevivência:** como as criaturas permaneceram vivas tanto tempo presas?  
-- [ ] **Pergaminho encontrado por Nikolai:** quem o escreveu e qual sua importância?  
-- [ ] **Arma ou risco?** Vale a pena tentar capturar e usar as gremísticas contra inimigos, ou é perigoso demais?  
-- [ ] **Segredos da casa:** podem existir mais criaturas ou armadilhas escondidas em outros andares?  
 - [ ] **Diário de Eruth:** quais outros sonhos registrados ainda podem se tornar realidade?  
 - [ ] **Destino de Eruth:** ela ainda vive? Se sim, onde está?  
 - [ ] **Entidade do espelho:** quem é a figura misteriosa que fala com Anna? Quais são suas intenções?  
@@ -145,25 +148,171 @@ cardSpacing: 4
 - [ ] **Reinado de Strahd:** como é possível que ele governe há 100 anos sem sinais claros de envelhecimento?  
 - [ ] **Khazan:** quem é realmente esse conselheiro de Strahd e qual seu papel na guerra?  
 
+## ** 2.3 ** -  A Igreja do Sol
+
+- **Retomada da noite anterior**  
+  - O grupo encerra a longa conversa e Bel propõe um **brinde de união**, servindo copos de água como símbolo da esperança de transformar Baróvia.  
+  - Todos se recolhem para descansar.  
+  - Cassandra reflete sobre seus votos de redenção e relembra o estranho comentário da pianista do baile (“já não nos encontramos antes?”).  
+  - Pela manhã, soldados da guarda entregam à casa do grupo:  
+    - Um **mapa da Vila de Baróvia**.  
+    - Uma **lista de problemas** a resolver:  
+      - Fazendeiro Ernest reclamando de estragos nas plantações.  
+      - Igreja do Sol não abriu a missa do dia anterior.  
+
+- **Leitura do diário de Eruth**  
+  - Cassandra e Anna continuam explorando o diário, mas têm dificuldade em decifrar partes confusas sobre sonhos.  
+  - Entendem que os registros misturam sonhos infantis com visões sinistras, e que eles podem estar ligados a manifestações reais.  
+
+- **Rotinas pela manhã**  
+  - Malkieer realiza um pequeno ritual diante de velas, lembrando de sua vida passada em Vallaki.  
+  - Bel se equipa com sua armadura e observa da torre a cidade envolta em neblina.  
+  - Nikolai revisa suas anotações e mantém sua máscara de confiança antes de descer para o grupo.  
+
+- **Primeira missão: investigar a Igreja do Sol**  
+  - A caminho da igreja, percebem que a vila parece triste, com guardas patrulhando a cada quarteirão.  
+  - Encontram a igreja fechada, trancada com **Arcane Lock**.  
+  - Pelas janelas, Malkieer vê bancos quebrados e sinais de batalha.  
+  - Decidem investigar pelo cemitério nos fundos.  
+
+- **Encontro com Fiona Solbakk**  
+  - Conhecem **Fiona Solbakk**, jovem sacerdotisa temporária, responsável pela igreja após a saída repentina do sacerdote oficial.  
+  - Inicialmente desconfiada, revela que esqueceu a chave mágica no interior da igreja.  
+  - Anna entra com **Misty Step** para recuperá-la, mas é atacada por um **espírito antigo** escondido na igreja..  
+  - Ela consegue escapar, gravemente ferida, trazendo a chave.  
+
+- **O segredo da igreja**  
+  - Confrontada, Fiona admite que a criatura é chamada apenas de **“espírito antigo”**, existente na igreja há séculos.  
+  - Os sacerdotes da Igreja do Sol o mantêm vivo alimentando-o com sangue.  
+  - Mostra cortes em seus braços, confirmando o ritual de alimentação.  
+  - Explica que a tradição da igreja é proteger e manter a criatura em segredo — acreditando ser impossível destruí-la.  
+  - O grupo promete manter discrição, mas exige poder ajudar a controlar a ameaça.  
+  - Fiona abre a porta da igreja e conduz os heróis para dentro.  
+
+---
+
+#### 🔎 Pendências / Investigações Futuras  
+
+- [ ] **Espírito antigo:** qual é a verdadeira natureza dessa criatura vampírica? É realmente impossível destruí-lo?  
+- [ ] **Tradição da Igreja do Sol:** por que sacerdotes mantêm esse segredo há séculos? Qual o propósito?  
+- [ ] **Diário de Eruth:** quais outras manifestações dos sonhos ainda podem surgir?  
+- [ ] **Sacerdote desaparecido:** por que deixou Fiona sozinha justamente no início da competição pelo trono?  
+- [ ] **Fazendeiro Ernest:** que criatura está atacando suas plantações?  
+- [ ] **A pianista do baile:** por que reconheceu Cassandra e qual é sua ligação real?  
+- [ ] **Strahd e seus segredos:** lacunas de 100 anos na história, a ligação com Khazan e a origem de seu reinado.  
+
+###  ** 2.4 ** - A Centopeia do Velho Ernest  
+
+- **Retomada na Igreja do Sol**  
+  - Após o ataque da criatura, Anna retorna ferida mas com a chave mágica.  
+  - O grupo conversa novamente com **Fiona Solbakk**, que admite que a igreja mantém o **espírito antigo** alimentado há séculos com sangue.  
+  - O grupo a tranquiliza e ajuda a reconstruir o interior da igreja:  
+    - Cassandra usa seu braço protético e magias de reparo (*Mending*).  
+    - Bel ajuda a mover bancos e destroços.  
+    - Nikolai se apresenta formalmente.  
+    - Malkieer observa curioso, com Imperator na forma de cobra.  
+  - Fiona, jovem de apenas 16 anos, mostra-se grata e mais confiante, revelando que o antigo sacerdote chamava-se **Pastor Gatstaf**.  
+
+- **Informações sobre Ernest**  
+  - Fiona conta que o **Velho Ernest** é isolado, não frequenta missas e tem reputação estranha entre vizinhos.  
+  - Diz que sua fazenda fica a leste e é conhecida pelas boas abóboras.  
+
+- **Passagem pela Taverna Sangue no Vinho**  
+  - O grupo encontra a taverna fechada ao meio-dia, servindo de dormitório para guardas.  
+  - Conversam com um guarda de rua, que confirma que a taverna abre apenas ao pôr do sol.  
+  - Nikolai finge admiração pela guarda, arrancando informações sobre Vadrik e quase levantando suspeitas entre o grupo.  
+
+- **Na Fazenda do Velho Ernest**  
+  - O grupo observa Ernest alimentando uma **centopeia colosal**, que devora abóboras inteiras.  
+  - Ernest a chama de **Santi** e a trata como criatura única e magnífica.  
+  - Revela que ela apareceu há duas semanas, a cada 2–3 dias, sempre no horário do almoço.  
+  - O grupo nota que a criatura parece ter dezenas de metros de comprimento e é extremamente perigosa, apesar da ingenuidade de Ernest.  
+  - Decidem não confrontar o monstro na frente do velho para evitar sua reação.  
+
+- **Seguindo os rastros**  
+  - Investigando a trilha deixada pela centopeia, percebem que ela atravessa a floresta de Svalich.  
+  - Descobrem que seus túneis e trilhas se estendem não só para o interior da floresta, mas também retornam em diferentes pontos da **Vila de Baróvia**.  
+  - Ao se esconderem, testemunham a passagem da criatura:  
+    - Estimada em mais de 20 metros de comprimento.  
+    - Trazia cravada nas costas uma **espada da guarda da cidade**.  
+  - Isso sugere que já atacou (ou matou) pelo menos um soldado.  
+
+- **A fossa de descarte**  
+  - Seguindo outro caminho, encontram uma grande **fossa de carnes em decomposição** usada por um açougue da vila.  
+  - A centopeia claramente tem se alimentado dali também, não apenas das abóboras de Ernest.  
+  - Conclusão: a criatura já está integrada ao ecossistema da vila, alimentando-se de descartes e possivelmente de pessoas.  
+
+---
+
+#### 🔎 Pendências / Investigações Futuras  
+
+- [ ] **Santi (centopeia colossal):** qual sua origem e até onde vai seu território?  
+- [ ] **Espada da guarda:** qual soldado foi atacado/morto por ela? Há mais vítimas?  
+- [ ] **Relação com a vila:** até quando será possível ignorar o risco da centopeia rondando a cidade?  
+- [ ] **Fossa do açougue:** a criatura se alimenta apenas de restos, ou também de pessoas descartadas?  
+
+
+### ** 2.5**  - Planos para Santi  
+
+- **Separação temporária do grupo**  
+  - Cada personagem segue atividades individuais antes da noite cair:  
+    - **Bel** vai ao **Mercantil de Bildrath**, única mercearia da cidade.  
+      - Compra ingredientes e mantimentos suficientes para duas semanas.  
+      - Consegue negociar por um bom preço (5 pratas).  
+    - **Nikolai** retorna para casa para ler mais do **diário de Eruth**.  
+      - Descobre trechos cada vez mais sinistros: sonhos com comida virando cera e, em uma página, apenas a frase **“Sonhei que meu pai morreu”**.  
+      - É surpreendido por barulhos ao ouvir alguém entrando na casa.  
+      - Assustado, esconde o diário e conjura **Invisibility**, mas era apenas Bel voltando das compras.  
+    - **Cassandra** vai diretamente à Igreja do Sol para assistir a missa.  
+      - Assiste Fiona Solbakk conduzir uma celebração simples, mas inspiradora.  
+      - A jovem parece insegura, mas consegue transmitir fé e esperança à pequena congregação.  
+      - Cassandra se retira em silêncio ao final, sem se aproximar de Fiona.  
+    - **Anna e Malkieer** ficam em casa, treinando.  
+      - Malkieer ensina Anna a usar adagas, criando um alvo mágico.  
+      - Ela consegue progresso inicial (1/3 para ganhar proficiência).  
+      - Conversam sobre autodefesa e as dificuldades que enfrentaram contra os gremísticas.  
+
+- **Reunião na Taverna Sangue no Vinho**  
+  - O grupo se encontra no início da noite.  
+  - A taverna está lotada de guardas bebendo, ambiente esfumaçado e pesado.  
+  - Encontram **Vadrik**, que os recebe e pede notícias.  
+  - O grupo relata a existência da **centopeia colossal Santi**, mostrando desenho de Nikolai e ilusão de Malkieer para ilustrar.  
+  - Informam que ela é alimentada por Ernest a cada 2–3 dias, mas também se alimenta na **fossa do açougue Porco Feliz**.  
+  - Revelam que Santi tem cravada nas costas uma espada da guarda, sugerindo já ter matado alguém.  
+
+- **Discussão com Vadrik**  
+  - Ele fica incrédulo, mas atento.  
+  - Reconhece que a situação é perigosa demais para enviar guardas, insinuando que o grupo deve resolver.  
+  - Menciona que Ernest é excêntrico e malvisto na vila, mas tolerado pelas boas colheitas.  
+  - Dá liberdade para o grupo lidar com Ernest e Santi como acharem melhor — mesmo insinuando que a solução poderia envolver eliminar ambos.  
+  - O grupo rejeita a ideia extrema, preferindo um plano de substituição:  
+    - Encontrar um **cachorro** para substituir Santi, enganando Ernest.  
+    - Ou usar **soníferos** para tentar capturar/neutralizar a criatura sem confronto direto.  
+  - Decidem investigar possíveis ervas ou papoula na floresta para criar veneno/sonífero.  
+
+- **Nova pista**  
+  - Ao saírem da taverna, Malkieer ouve guardas comentando baixinho:  
+    - Um colega chamado **Lucão** desapareceu.  
+  - O grupo conclui que pode ter sido mais uma vítima de Santi, confirmando o perigo real da criatura.  
+
+---
+
+## 🔎 Pendências / Investigações Futuras  
+
+- [ ] **Santi:** como lidar com a centopeia? Combate direto, sonífero ou enganar Ernest com um substituto?  
+- [ ] **Lucão desaparecido:** confirmar se foi vítima da centopeia e investigar seu paradeiro.  
+- [ ] **Velho Ernest:** como convencê-lo a abandonar Santi sem causar um trauma ou crise?  
+- [ ] **Sonífero:** é possível encontrar ingredientes em Baróvia ou na floresta para produzir?  
+- [ ] **Diário de Eruth:** o sonho sobre o pai morto tem conexão direta com eventos da vila?  
+- [ ] **Fiona Solbakk:** continuará conseguindo manter as missas e o segredo do espírito antigo sozinha?  
+- [ ] **Vadrik:** até que ponto está testando ou manipulando o grupo nas missões?  
+
 ### Detalhes
 
-  
+Na penumbra da vila esquecida, segredos se escondem entre sonhos e monstros famintos.  
+A promessa de “melhorar Baróvia” revela-se apenas o início de uma longa descida pelas sombras.  
+Pois a cada porta aberta, novas verdades se revelam: templos guardam fomes antigas,  
+fazendas alimentam horrores que não deveriam existir, e até os sonhos de uma criança  
+podem ecoar como presságios de sangue.  
 
-Na noite em que Strahd celebra seu 99º inverno, o castelo ergue-se como um farol de sombras. Máscaras ocultam rostos, mas não ambições: a corte abre as portas aos novos pretendentes. Sussurros atravessam o salão, vinhos rubros como sangue fluem em taças, e a dança se torna uma guerra silenciosa. Cada olhar é uma promessa de poder ou de ruína. Quem ousará sonhar com o trono? E quem cairá tentando?
-
->
-“Diferente dos aniversários anteriores, hoje há rostos novos neste salão. Não apenas velhos amigos… mas também algo mais.
->
-Entre nós estão aqueles que podem moldar o futuro de Barovia, os candidatos ao trono. É um prazer conhecê-los. Achei justo que conhecessem nossa corte, e que nós conhecêssemos vocês.
->
-Mesmo que esta noite os nomes estejam ocultos sob máscaras, daqui a um ano, um deles será escolhido. Um de vocês se sentará neste trono.
->
-Como muitos sabem, não tenho herdeiros. Não quis seguir esse caminho. Meu pai… não foi um homem amável. Nem meu irmão, que descanse em paz.
->
-Não quis perpetuar o nome da minha família. Mas acredito, com convicção, que meu sangue seguirá adiante.
->
-Muito dele já foi derramado, especialmente na última guerra, tingindo este trono de vermelho. E quem se sentar aqui, saibam, herdará não só minha coroa, mas minhas dores.
->
-Foram anos longos, e sou grato por tê-los vivido com vocês.
->
-Dito isso… celebremos esta noite. Que seja uma festa para todos.” -  **Strahd von Zarovich**
+A vila sussurra — e quem ousar escutá-la talvez descubra que alguns fardos não foram feitos para ser carregados.  
