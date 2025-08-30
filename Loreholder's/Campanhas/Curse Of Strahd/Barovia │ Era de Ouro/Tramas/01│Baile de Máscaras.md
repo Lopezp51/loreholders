@@ -20,12 +20,17 @@ trama: 01│Baile de Máscaras
 >> ~~~meta-bind
 >> INPUT[select(
 >> option(1, 📝Detalhes),
+>> option(2, 🔎 Pendências / Investigações Futuras),
 >> class(tabbed)
 >> )]
 >> ~~~
 >>>[!tabbed-box-maxh]
 >>> >[!div-m|no-title]
 >>> > ![[#Detalhes|no-h clean]]
+>>> 
+>>> >[!div-m|no-title]
+>>> > ![[#Pendências|no-h clean]]
+
 
 ### PRESENTES /MENÇÕES NESTE TRAMA
 ```datacards
@@ -108,17 +113,8 @@ Ao cruzarem os portões do castelo, foram imediatamente tomados por uma atmosfer
   - Um emissário anuncia que formarão uma **equipe de candidatos ao trono de Baróvia**.  
   - Primeira missão: **“Tornar a Vila de Baróvia um lugar melhor”**.  
   - A carruagem parte em meio à tempestade, deixando Ravenloft para trás.  
+
 ---
-
-#### 🔎 Pendências / Investigações Futuras
-- [ ] **Quem envenenou Sir Leon Wachter?** O vinho foi manipulado, mas não há suspeitos claros.  
-- [ ] **Irmã de Anna (Wachter):** qual seu papel real na competição e a origem de seus poderes mágicos.  
-- [ ] **Paranoia de Nikolai:** está sendo realmente vigiado ou apenas efeito da tensão após o baile?  
-- [ ] **Piso da entrada de Ravenloft:** parecia um lago congelado com esqueletos presos — qual o significado?  
-- [ ] **Comentário da pianista:** por que ela achou reconhecer Cassandra? Coincidência ou pista maior?  
-
-
-
 
 ## ** 1.3  ** - Portas Abertas, Suspiros Velhos
 
@@ -158,18 +154,9 @@ Ao cruzarem os portões do castelo, foram imediatamente tomados por uma atmosfer
   - A casa, recém-escolhida para ser a base do grupo, revela-se cheia de segredos e perigos.  
   - Sessão termina em suspense com a libertação dos [[Gremishkas|gremlins]].  
 
+
 ---
-
-#### 🔎 Pendências / Investigações Futuras
-
-- **Criaturas estranhas:**  
-  - [ ] Roedor monstruoso que atacou Bel — de onde veio?  
-  - [ ] Enxame de gremlins libertados do baú — por que estavam ali?  
-- **Casa do grupo:**  
-  - [ ] Por que havia pratos de cera imitando comida?  
-  - [ ] Objetos antigos (mandolim quebrado, instrumentos de herbalismo secos, cordas e ganchos) — quem viveu ali antes?  
-- [ ] **Vadrik:** é apenas capitão da guarda ou também avaliador/manipulador da competição?  
-
+---
 
 ### Detalhes
 
@@ -193,3 +180,18 @@ Muito dele já foi derramado, especialmente na última guerra, tingindo este tro
 Foram anos longos, e sou grato por tê-los vivido com vocês.
 >
 Dito isso… celebremos esta noite. Que seja uma festa para todos.” -  **Strahd von Zarovich**
+
+
+### Pendências 
+- [ ] **Quem envenenou Sir Leon Wachter?** O vinho foi manipulado, mas não há suspeitos claros.  
+- [ ] **Irmã de Anna (Wachter):** qual seu papel real na competição e a origem de seus poderes mágicos.  
+- [ ] **Paranoia de Nikolai:** está sendo realmente vigiado ou apenas efeito da tensão após o baile?  
+- [ ] **Piso da entrada de Ravenloft:** parecia um lago congelado com esqueletos presos — qual o significado?  
+- [ ] **Comentário da pianista:** por que ela achou reconhecer Cassandra? Coincidência ou pista maior?  
+- **Criaturas estranhas:**  
+  - [ ] Roedor monstruoso que atacou Bel — de onde veio?  
+  - [ ] Enxame de gremlins libertados do baú — por que estavam ali?  
+- **Casa do grupo:**  
+  - [ ] Por que havia pratos de cera imitando comida?  
+  - [ ] Objetos antigos (mandolim quebrado, instrumentos de herbalismo secos, cordas e ganchos) — quem viveu ali antes?  
+- [ ] **Vadrik:** é apenas capitão da guarda ou também avaliador/manipulador da competição?  
