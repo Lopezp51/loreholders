@@ -5,38 +5,39 @@ cssclasses:
 tags: 
   - npc
   - npc_era_de_ouro
+  - facçao_guarda_vila_barovia
 
-img: "[[npc_placeholder_1.png]]"
+img: "[[Garl.png]]"
 status: Vivo
-Afiliação: ???
-Localização: ???
+Afiliação: [[Guarda da Vila de Barovia]]
+Localização: [[Vila de Barovia]]
 aparicao:
   - 03│O Peso dos Mortos
 ---
 
-> [!NOTE|clean no-i right]+ Kazimir  
-> ![[.png|500]]  
+> [!NOTE|clean no-i right]+ Garl 
+> ![[Garl.png|500]]  
 
-# ** Kazimir **
+# ** Garl**
 
 **Descrição:**  
-...
+#TODO ADD DESCRIÇÃO
 
 ### **Segredos ou Boatos:**  
-...
+
 
 ### **Citação Marcante:**  
-> "..."
+> ""
 
-### **Primeira Aparição:** 02│Boas-Vindas a Vila De Barovia
-Anna mencionou ele pela primeira vez durante uma conversa sua com [[Espelho de Mão]], ela disse que ela e ele era como pais para ela.
+### **Primeira Aparição:** 
+...
 
 ---
 
 > [!groups_test]+ Aparições  
 > ```dataview
 > list
-> from #tramas_era_de_ouro 
+> from #tramas_era_de_ouro
 > where contains(this.aparicao, file.name)
 > sort file.name asc
 > ```
@@ -46,6 +47,6 @@ Anna mencionou ele pela primeira vez durante uma conversa sua com [[Espelho de M
 ### 🖼️ **Galeria de Imagens Alternativas**
 
 <div class="npc-gallery">
-    <img src=".png" alt="Kazimir" />
+    <img src="Garl.png" alt="Garl" />
 </div>
 

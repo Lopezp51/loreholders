@@ -4,7 +4,7 @@ cssclasses:
   - b-sides-script
 tags:
   - npc_era_de_ouro
-img: 
+img: "[[npc_placeholder_3.png]]"
 status: Vivo
 Afiliação: Nenhuma
 Localização: [[Vallaki]]

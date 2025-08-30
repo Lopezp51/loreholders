@@ -6,7 +6,7 @@ tags:
   - npc
   - npc_era_de_ouro
 
-img: "[[.png]]"
+img: "[[npc_placeholder_1.png]]"
 status: Vivo
 Afiliação: 
 Localização: 

@@ -11,7 +11,7 @@ status: Vivo
 Afiliação: 
 Localização: 
 aparicao:
-  - 03│........
+  - 03│O Peso dos Mortos
 ---
 
 > [!NOTE|clean no-i right]+ O Juiz

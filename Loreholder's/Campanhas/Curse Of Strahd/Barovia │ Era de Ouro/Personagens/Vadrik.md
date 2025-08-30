@@ -14,7 +14,7 @@ Localização: [[Vila de Barovia]]
 aparicao:
   - 01│Baile de Máscaras
   - 02│Boas-Vindas a Vila De Barovia
-  - 03│........
+  - 03│O Peso dos Mortos
 ---
 
 > [!NOTE|clean no-i right]+ Vadrik  

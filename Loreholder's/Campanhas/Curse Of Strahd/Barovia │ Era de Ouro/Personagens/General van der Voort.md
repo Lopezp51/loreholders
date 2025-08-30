@@ -6,10 +6,10 @@ tags:
   - casa_van_der_voort
   - npc_era_de_ouro
 
-img: 
+img: "[[npc_placeholder_1.png]]"
 status: Vivo
 Afiliação: ???
-Localização: ???
+Localização: [[Vallaki]]
 aparicao:
   - 01│Baile de Máscaras
 ---

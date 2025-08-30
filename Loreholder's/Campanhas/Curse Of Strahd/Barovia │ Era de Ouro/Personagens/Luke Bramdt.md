@@ -5,14 +5,13 @@ cssclasses:
 tags: 
   - npc
   - npc_era_de_ouro
-  - facçao_guarda_vila_barovia
 
 img: "[[Luke_Bramdt.png]]"
 status: Vivo
 Afiliação: 
 Localização: ???
 aparicao:
-  - 03│
+  - 03│O Peso dos Mortos
 ---
 
 > [!NOTE|clean no-i right]+ Luke Bramdt  
@@ -47,6 +46,6 @@ aparicao:
 ### 🖼️ **Galeria de Imagens Alternativas**
 
 <div class="npc-gallery">
-    <img src="Luke_Bramdt.png" alt="Vadrik" />
+    <img src="Luke_Bramdt.png" alt="Luke Bramdt" />
 </div>
 
