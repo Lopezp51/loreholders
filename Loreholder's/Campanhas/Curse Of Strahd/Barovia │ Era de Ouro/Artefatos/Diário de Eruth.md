@@ -4,7 +4,7 @@ cssclasses:
 tags:
   - artefatos_era_de_ouro
 img: "[[img_diario_de_Eruth.png]]"
-posse: 
+posse: [[Anna Wachter]]
 tipo_artefato: Único
 conexao: [[Artefatos]]
 ---
@@ -46,6 +46,9 @@ Ao fundo, formas distorcidas surgiam como vultos famintos. Dentes. Garras. Sorri
 
 ### **Leitura de Nikolai:**
 As página que Nikolai leu ficavam mais bizarras a cada passagem, os destaques forma de quando Eruth sonhou que tudo que comia virava cera e uma passagem onde tinha somente uma escrita na página **Eu sonhei que meu pai morreu**,  ficando vários dias sem escrever no diário.
+
+### **Jornal na última página:**
+Foi achado no final do diário um pedaço de jornal antigo de 200 anos atrás, onde havia uma matéria que Eruth estava sendo levada para a abadia de santa Markovia para tratamento pela guarda da vila de Barovia, com a permisssão da sua mãe.
 
 ### **Primeira Aparição:** 02│Boas-Vindas a Vila De Barovia
 Foi recostruído por Cassandra e entregue para Anna estudar.

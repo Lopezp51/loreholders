@@ -11,7 +11,7 @@ status: Viva
 Afiliação: 
 Localização: [[Vila de Barovia]]
 aparicao:
-  - 03│
+  - 03│O Peso dos Mortos
 ---
 
 > [!NOTE|clean no-i right]+ Wensencia  

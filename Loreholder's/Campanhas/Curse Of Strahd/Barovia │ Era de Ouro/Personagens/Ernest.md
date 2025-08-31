@@ -12,6 +12,7 @@ Afiliação:
 Localização: [[Vila de Barovia]]
 aparicao:
   - 02│Boas-Vindas a Vila De Barovia
+  - 03│O Peso dos Mortos
 ---
 
 > [!NOTE|clean no-i right]+ Ernest  

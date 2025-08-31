@@ -7,7 +7,7 @@ tags:
   - tramas
 conexao: "[[Campanhas/Curse Of Strahd/Barovia │ Era de Ouro/Tramas/Tramas|Tramas]]"
 cover: "[[aparicao_1.png]]"
-Descrição: Entre mortos que andam e verdades distorcidas, a guarda de Baróvia revela-se um império de corrupção. Cada segredo descoberto abre rachaduras não só no presente, mas na própria história do reino.
+Descrição: Entre mortos que andam e verdades distorcidas, a guarda de Barovia revela-se um império de corrupção. Cada segredo descoberto abre rachaduras não só no presente, mas na própria história do reino.
 trama: 03│O Peso dos Mortos
 ---
 #  03│O Peso dos Mortos
@@ -20,16 +20,20 @@ trama: 03│O Peso dos Mortos
 >> ~~~meta-bind
 >> INPUT[select(
 >> option(1, 📝Detalhes),
+>> option(2, 🔎 Pendências / Investigações Futuras),
 >> class(tabbed)
 >> )]
 >> ~~~
 >>>[!tabbed-box-maxh]
 >>> >[!div-m|no-title]
 >>> > ![[#Detalhes|no-h clean]]
+>>> 
+>>> >[!div-m|no-title]
+>>> > ![[#Pendências|no-h clean]]
 
 ### PRESENTES /MENÇÕES NESTE TRAMA
 ```datacards
-TABLE img  FROM #npc_era_de_ouro
+TABLE img, status, Localização  FROM #npc_era_de_ouro
 where contains(aparicao, "03│O Peso dos Mortos")
 
 SORT name ASC
@@ -50,7 +54,6 @@ cardSpacing: 4
 
 - **Noite em casa**  
   - Bel prepara o jantar para todos, servindo sanduíches de carne bovina com pães e ervas.  
-  - O momento à mesa se torna descontraído, com conversas leves e piadas sobre casamento e vida cotidiana.  
   - Anna recebe de Bel uma pequena torta como reconhecimento por sua coragem na igreja.  
   - A casa, antes abandonada, começa a ter sinais de vida, com o grupo limpando, cozinhando e rindo junto.  
 
@@ -64,7 +67,7 @@ cardSpacing: 4
     - O ser a chama de **Elsa**, revelando o verdadeiro nome de Anna.  
     - Ela pergunta sobre Eruth, mas não recebe respostas.  
     - Fala sobre os amigos e o desejo de revelar sua verdade a eles.  
-    - O espelho a alerta sobre os perigos da honestidade e reforça que Baróvia não tem piedade.  
+    - O espelho a alerta sobre os perigos da honestidade e reforça que Barovia não tem piedade.  
 
 - **O Juiz**  
   - Pela manhã, o grupo recebe uma visita inesperada: um homem se apresenta apenas como **[[O Juiz|“o Juiz”]]**.  
@@ -74,24 +77,23 @@ cardSpacing: 4
     - Reportará suas ações, mas o julgamento final é do rei.  
     - Cuidará de várias equipes, mas não revela quantas.  
     - Eles podem enviar cartas para ele pelo correio.  
-  - O grupo pergunta sobre regras, outras equipes e Vallaki, mas o Juiz mantém sigilo.  
-  - Reforça que a missão continua sendo **“tornar Baróvia um lugar melhor”**.  
+  - Reforça que a missão continua sendo **“tornar Barovia um lugar melhor”**.  
 
 - **Correio e novas pistas**  
   - No correio da vila, descobrem que cartas urgentes custam **1 peça de ouro** e chegam em 1 dia; o normal leva 3–5 dias até Vallaki, para Krezk 8 - 10 dias.   
   - Anna envia uma carta para Kazimir.  
   - Compram o **jornal de Vallaki**, que especula sobre possíveis candidatos ao trono.  
-    - O nome de **Bel van der Voort** aparece em **7º lugar** na lista dos “Top 10 Possíveis Reis de Baróvia”.  
+    - O nome de **Bel van der Voort** aparece em **7º lugar** na lista dos “Top 10 Possíveis Reis de Barovia”.  
 
 - **Exploração da floresta**  
   - O grupo se divide em duplas:  
     - **Anna e Malkieer**: encontram plantas e ingredientes raros para preparar um veneno fortíssimo, capaz de deixar Santi inconsciente por horas.  
     - **Bel e Cassandra**: seguem rastros da centopeia.  
-      - Encontram uma **armadilha de urso antiga**, marcada com o símbolo da guarda da cidade.  
+      - Encontram uma **armadilha de urso antiga**, marcada com o símbolo da guarda da cidade, mas enferrujada.  
       - A trilha se perde, mas confirmam que Santi ronda por áreas amplas próximas da vila.  
 
 - **De volta para casa**  
-  - **Malkieer** prepara o veneno com a supervisão de Cassandra.  
+  - **Malkieer** prepara o veneno.
 
 - **Planos para o futuro**  
   - Debatem como aplicar o veneno em Santi:  
@@ -102,23 +104,13 @@ cardSpacing: 4
 
 ---
 
-### 🔎 Pendências  
-
-- [ ] **Santi:** como aplicar o veneno e lidar com a criatura sem envolver Ernest?  
-- [ ] **Undeads na casa:** Cassandra sentiu múltiplos sinais — de onde vêm?  
-- [ ] **Entidade do espelho:** quem é e o que realmente deseja?  
-- [ ] **Nome verdadeiro de Anna (Elsa):** o que a ligação com o espelho significa?  
-- [ ] **Banheira mágica:** quem a encantou e por quê?  
-- [ ] **Armadilha da guarda:** por que havia uma armadilha de urso marcada com o símbolo da guarda?  
-
----
 
 ### ** 3.2 ** – A Armadilha para Santi  
 
 - **Preparativos finais**  
   - O grupo decide levantar-se de madrugada para executar o plano contra **Santi**, evitando que o Velho Ernest presencie qualquer coisa.  
   - Combinam roubar algumas abóboras do galpão do Ernest, envenená-las e deixá-las no caminho da criatura.  
-  - **Nikolai** vigia a frente da casa enquanto **Malkieer e Cassandra** invadem o galpão furtivamente e retiram três abóboras.  
+  - **O grupo** vigia a frente da casa enquanto **Malkieer e Cassandra** invadem o galpão furtivamente e retiram três abóboras.  
   - As correntes do galpão são destrancadas em silêncio, e o grupo consegue escapar sem levantar Ernest.  
 
 - **O veneno**  
@@ -152,13 +144,6 @@ cardSpacing: 4
     - Convencê-lo de que a centopeia “se transformou” ou que o coelho é seu novo herdeiro.  
     - Debatem versões da mentira, preparando Nikolai para manipular o fazendeiro novamente.  
 
----
-
-### 🔎 Pendências  
-
-- [ ] **Ernest:** como enganar o fazendeiro sobre a ausência de Santi? O coelho será suficiente?  
-- [ ] **Guarda da Vila:** confirmada a corrupção — quem lidera esse esquema de extorsão?  
-- [ ] **Espada da guarda riscada:** simboliza expulsão ou deserção? Quem era o soldado?  
 
 
 ---
@@ -210,15 +195,6 @@ cardSpacing: 4
 
 ---
 
-### 🔎 Pendências  
-
-- [ ] **Ernest:** como enganar o velho sobre a ausência de Santi?  
-- [ ] **Guarda da cidade:** até onde vai a corrupção? Quem lidera o esquema?  
-- [ ] **Figura encapuzada:** quem era a silhueta que observou a casa à noite?  
-- [ ] **Diário de Eruth:** até que ponto seus sonhos “acordados” afetaram a realidade?  
-- [ ] **Teufeldorf:** o que realmente acontece nas minas? Qual o papel delas na política de Baróvia?  
-
----
 
 ### ** 3.4 ** – Luke, o Morto que Anda  
 
@@ -268,16 +244,6 @@ cardSpacing: 4
   - Nikolai lê superficialmente seus pensamentos e confirma: Carl teme que, se falar demais, também será morto.  
   - A sessão encerra com o grupo discutindo a corrupção da guarda e o peso das revelações.  
 
----
-
-### 🔎 Pendências  
-
-- [ ] **Luke:** por que retornou lúcido, diferente de outros mortos? Qual será seu destino em Krezk?  
-- [ ] **Espelho de Lydia Petrovna Vallakovich:** quem foi essa pessoa?  
-- [ ] **Garl:** guarda covarde, mas pode ser fonte de mais informações.  
-- [ ] **Vadrik:** como reagirá ao saber que o grupo questiona sobre Luke?  
-- [ ] **Relação com Teufeldorf:** ainda é obscura — o que de fato ocorreu na guerra e nas minas?  
-- [ ] **Natalie em Krezk:** poderá surgir como aliada importante no futuro?  
 
 ---
 
@@ -308,7 +274,7 @@ cardSpacing: 4
     - Bel percebe que o companheiro estava mais isolado e pergunta se ele está bem.
     - Nikolai sorri de forma triste, lembrando-se da visita à casa arruinada do burgomestre — o fogo, as cinzas, despertam lembranças. 
     - Bel se solidariza, recordando perdas que também já enfrentou, e compartilha que, antes de ser treinado pela Casa van der Voort, sua vida havia definhado e sumido contra sua vontade.  
-    - Eles falam sobre tragédias, padrões de destruição e a sensação de que forças maiores controlam os destinos em Baróvia, capazes de tomar muito mais do que se pode imaginar.  
+    - Eles falam sobre tragédias, padrões de destruição e a sensação de que forças maiores controlam os destinos em Barovia, capazes de tomar muito mais do que se pode imaginar.  
     - A conversa termina em reflexão silenciosa, com Nikolai agradecendo a preocupação e subindo para descansar.  
 
 - O grupo sobe para os quartos — exceto Cassandra, que vigia silenciosa no andar de baixo.  
@@ -316,13 +282,6 @@ cardSpacing: 4
 
 ---
 
-### 🔎 Pendências  
-
-- [ ] **Espelho de Lydia Petrovna Vallakovich:** qual sua verdadeira origem e ligação com Anna?  
-- [ ] **Os 10 homens de Vadrik:** quem são e como podem ser separados dele?  
-- [ ] **Próximos passos:** entregar-se às ordens de Vadrik para ganhar sua confiança ou começar a minar seu poder agora?  
-
----
 
 ### ** 3.6 ** – Gelo e Segredos  
 
@@ -343,10 +302,10 @@ cardSpacing: 4
 - **Revelações do diário de Eruth**  
   - Investigando o diário, o grupo encontra páginas descrevendo os mesmos **fantasmas de gelo**, surgidos da respiração dela em noites frias.  
   - Descobrem também páginas grudadas: nelas, um **jornal de 200 anos atrás**.  
-    - Manchete: *“Louca Eruth finalmente será levada à Abadia de Santa Markovia”*.  
-    - O texto afirma que até a mãe de Eruth permitiu que fosse levada, sob custódia da guarda do **Reino de Baróvia**, para tratamento.  
+    - Manchete: **“Louca Eruth finalmente será levada à Abadia de Santa Markovia”**.  
+    - O texto afirma que até a mãe de Eruth permitiu que fosse levada, sob custódia da guarda do **Reino de Barovia**, para tratamento.  
   - Cassandra se lembra: a **Universidade de Krezk** foi construída sobre as ruínas dessa abadia.  
-  - O detalhe inquietante: o jornal menciona o “Reino de Baróvia” **antes da ascensão de Strahd**, revelando uma contradição histórica.  
+  - O detalhe inquietante: o jornal menciona o “Reino de Barovia” **antes da ascensão de Strahd**, revelando uma contradição histórica.  
 
 - **Discussões e suspeitas**  
   - O grupo teoriza que os sonhos de Eruth podem continuar ecoando, mesmo após sua morte.  
@@ -359,16 +318,6 @@ cardSpacing: 4
 
 ---
 
-### 🔎 Pendências  
-
-- [ ] **Eruth:** estaria viva após 200 anos? O que realmente aconteceu na Abadia de Santa Markovia?  
-- [ ] **Universidade de Krezk:** que segredos permanecem sob as ruínas da abadia?  
-- [ ] **Fantasmas de gelo:** podem voltar em outras noites?  
-- [ ] **Frasco de Nikolai:** o que exatamente é a substância que o manteve vivo?  
-- [ ] **Nikolai:** qual a natureza do undead dentro dele?  
-- [ ] **Casa de Eruth:** os sonhos estão presos à casa ou podem se espalhar pela vila?  
-
----
 
 ### ** 3.7 ** – Passeio na Madruga
 
@@ -385,8 +334,8 @@ cardSpacing: 4
     - **Cassandra e Nikolai visitam Ernest**:  
       - A guarda bateu nele e roubou seu pagamento, restando-lhe apenas um “recibo” como humilhação.  
       - Ele já tentou falar com o rei duas vezes na juventude, mas foi ignorado. O rei disse que “suas mãos estavam atadas”.  
-      - Revela também que antes de Strahd, Baróvia era governada por burgomestres, e o avô de Vadrik assumiu após a morte do último burgomestre legítimo.  
-      - Ernest considera esse sofrimento o “normal” da vida em Baróvia. 
+      - Revela também que antes de Strahd, Barovia era governada por burgomestres, e o avô de Vadrik assumiu após a morte do último burgomestre legítimo.  
+      - Ernest considera esse sofrimento o “normal” da vida em Barovia. 
     - **Bel e Anna investigam juntos** (com clima de aproximação pessoal):  
       - Anna revela segredos da família Wachter:  
         - O irmão parece controlado pela arma dada pelo pai.  
@@ -398,7 +347,7 @@ cardSpacing: 4
         - Revela que já teve outros sonhos, mas agora sua vida é dedicada a esse objetivo.  
     - **Malkieer espiona a taverna** onde Vadrik está reunido com aliados:  
       - Ouvem conversas sobre encomendas vindas de **[[Zeidenburg]]** que ainda não chegaram pelo correio.  
-      - Vadrik afirma que “o rei está prestes a sair do trono” e que há segredos escondidos em Baróvia e em várias cidades.  
+      - Vadrik afirma que “o rei está prestes a sair do trono” e que há segredos escondidos em Barovia e em várias cidades.  
       - Malkieer quase é visto, mas escapa correndo — um guarda só comenta que viu “um gato enorme”.  
 
 - **Discussões e descobertas**  
@@ -415,20 +364,37 @@ cardSpacing: 4
   - Revela a Cassandra que cresceu em um bairro miserável de refugiados em Vallaki, que depois foi apagado da história da cidade.  
   - Todos descansam para executar o plano na manhã seguinte.  
 
-### 🔎 Pendências  
+---
+---
 
-- [ ] **Nikolai:** até onde vão as consequências dos experimentos da Reitora Victra?  
-- [ ] **Família Wachter:** qual a verdadeira extensão do poder do irmão e da irmã de Anna?  
-- [ ] **Encomendas de Zeidenburg:** o que carregam e por que são tão importantes para Vadrik?  
-- [ ] **Vadrik:** o que significa a frase “o rei está prestes a sair do trono”?  
-- [ ] **Malkieer:** o bairro de refugiados em Vallaki foi realmente apagado da história — por quê?  
-- [ ] **Interceptar a encomenda:** o plano do grupo dará certo ou atrairá represálias da guarda?  
+
 
 
 ### Detalhes
 
-A casa que deveria ser um refúgio se revelou um lugar de vigílias e sussurros, onde mortos voltam lúcidos e espelhos guardam verdades proibidas. O povo de Baróvia vive sob o peso da corrupção da guarda, esmagado por impostos e silenciado pelo medo, enquanto o capitão Vadrik ergue sua própria corte de ferro e segredos.
+A casa que deveria ser um refúgio se revelou um lugar de vigílias e sussurros, onde mortos voltam lúcidos e espelhos guardam verdades proibidas. O povo de Barovia vive sob o peso da corrupção da guarda, esmagado por impostos e silenciado pelo medo, enquanto o capitão Vadrik ergue sua própria corte de ferro e segredos.
 
-Das sombras da centopeia colossal à aparição de Luke Bramdt, o morto que anda, os heróis percebem que a morte em Baróvia não é um fim, mas uma transição incerta. Nas ruas, anciãos observam em silêncio, encomendas misteriosas chegam de Zeidenburg, e até a história do reinado de Strahd começa a mostrar rachaduras.
+Das sombras da centopeia colossal à aparição de Luke Bramdt, o morto que anda, os heróis percebem que a morte em Barovia não é um fim, mas uma transição incerta. Nas ruas, anciãos observam em silêncio, encomendas misteriosas chegam de Zeidenburg, e até a história do reinado de Strahd começa a mostrar rachaduras.
 
-Entre conspirações e revelações pessoais, cada um é forçado a encarar seus próprios fantasmas — alguns vindos do passado, outros refletidos em vidros antigos. E assim, em cada passo, a dúvida cresce: estão desafiando apenas Vadrik e sua guarda… ou desenterrando segredos que podem reescrever o destino de toda Baróvia?
+Entre conspirações e revelações pessoais, cada um é forçado a encarar seus próprios fantasmas — alguns vindos do passado, outros refletidos em vidros antigos. E assim, em cada passo, a dúvida cresce: estão desafiando apenas Vadrik e sua guarda… ou desenterrando segredos que podem reescrever o destino de toda Barovia?
+
+
+### Pendências 
+
+
+- [ ] **Undeads na casa:** Cassandra sentiu múltiplos sinais — de onde vêm?  
+- [ ] **Entidade do espelho:** quem é e o que realmente deseja?  
+- [ ] **Nome verdadeiro de Anna (Elsa):** o que a ligação com o espelho significa?  
+- [ ] **Armadilha da guarda:** por que havia uma armadilha de urso marcada com o símbolo da guarda?  
+- [ ] **Diário de Eruth:** até que ponto seus sonhos “acordados” afetaram a realidade?  
+- [ ] **Relação com Teufeldorf:** ainda é obscura — o que de fato ocorreu na guerra e nas minas?  
+- [ ] **Natalie em Krezk:** poderá surgir como aliada importante no futuro?  
+- [ ] **Espelho de Lydia Petrovna Vallakovich:** qual sua verdadeira origem e ligação com Anna?  
+- [ ] **Eruth:** estaria viva após 200 anos? O que realmente aconteceu na Abadia de Santa Markovia?  
+- [ ] **Universidade de Krezk:** que segredos permanecem sob as ruínas da abadia?  
+- [ ] **Nikolai:** qual a natureza do undead dentro dele?  
+- [ ] **Nikolai:** até onde vão as consequências dos experimentos da Reitora Victra?  
+- [ ] **Família Wachter:** qual a verdadeira extensão do poder do irmão e da irmã de Anna?  
+- [ ] **Encomendas de Zeidenburg:** o que carregam e por que são tão importantes para Vadrik?  
+- [ ] **Interceptar a encomenda:** o plano do grupo dará certo ou atrairá represálias da guarda?  
+

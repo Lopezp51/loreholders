@@ -150,7 +150,7 @@ Ao cruzarem os portões do castelo, foram imediatamente tomados por uma atmosfer
     - Malkieer abre um baú trancado com suas ferramentas → o baú libera uma horda de pequenos [[Gremishkas|monstros]] semelhantes a gremlins.  
   - **Anna & Cassandra**: encontram quartos melhores, acendem a lareira e preparam chá, tentando descansar sem notar o perigo que surge acima.  
 
-- **Clímax da sessão**  
+- **Monstros a solta**  
   - A casa, recém-escolhida para ser a base do grupo, revela-se cheia de segredos e perigos.  
   - Sessão termina em suspense com a libertação dos [[Gremishkas|gremlins]].  
 

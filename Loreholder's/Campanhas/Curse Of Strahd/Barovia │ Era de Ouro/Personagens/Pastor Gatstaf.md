@@ -9,7 +9,7 @@ tags:
 img: "[[npc_placeholder_1.png]]"
 status: Vivo
 Afiliação: 
-Localização: 
+Localização: ???
 aparicao:
   - 02│Boas-Vindas a Vila De Barovia
 ---

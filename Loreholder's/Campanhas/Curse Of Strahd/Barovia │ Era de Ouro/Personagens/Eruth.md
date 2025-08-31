@@ -6,11 +6,13 @@ tags:
     - npc_era_de_ouro
     - npc
 img: "[[Eruth_retrato.png]]"
-status: ???
+status: Morta?
 Afiliação: ???
 Localização: ???
 aparicao:
   - 02│Boas-Vindas a Vila De Barovia
+  - 03│O Peso dos Mortos
+
 ---
 
 > [!NOTE|clean no-i right]+ ???
@@ -20,7 +22,7 @@ aparicao:
 # ** Eruth **
 **Descrição:**  
 Morou na casa que a party atual está morando na vila de Barovia, parece que seus sonhos ganham vida.
-Seu [[Diário de Eruth]] agora está em posse de Anna.
+Seu [[Diário de Eruth|diário]] agora está em posse de Anna.
 
 ### **Segredos ou Boatos:**  
 Parece que seus sonhos ganham vida.
@@ -48,6 +50,7 @@ Seu diário foi desoberto, onde Anna começou a desvendar seus mistérios.
 <div class="npc-gallery">
     <img src="Eruth_retrato.png" alt="Eruth" />
     <img src="Eruth_demons.png" alt="Eruth" />
+    <img src="eruth_presa.png" alt="Eruth" />
 </div>
 
 

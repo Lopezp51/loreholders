@@ -30,7 +30,8 @@ Ele é de Krezk
 ### 🖼️ **Galeria de Imagens Alternativas**
 
 <div class="npc-gallery">
-    <img src="nikolai.png" alt="Malkieer" />
+	<img src="nikolai.png" alt="Nikolai" />
+    <img src="nikolai_v2.png" alt="Nikolai" />
 </div>
 
 

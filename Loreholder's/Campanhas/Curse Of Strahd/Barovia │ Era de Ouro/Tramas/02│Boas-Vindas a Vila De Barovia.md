@@ -7,7 +7,7 @@ tags:
   - tramas
 conexao: "[[Campanhas/Curse Of Strahd/Barovia │ Era de Ouro/Tramas/Tramas|Tramas]]"
 cover: "[[guardas da vila de barovia.png]]"
-Descrição: Na penumbra da vila esquecida, segredos se escondem entre sonhos e monstros famintos. A promessa de “melhorar Baróvia” revela-se apenas o início de uma longa descida pelas sombras. 
+Descrição: Na penumbra da vila esquecida, segredos se escondem entre sonhos e monstros famintos. A promessa de “melhorar Barovia” revela-se apenas o início de uma longa descida pelas sombras. 
 trama: 02│Boas-Vindas a Vila De Barovia
 ---
 #  02│Boas-Vindas a Vila De Barovia
@@ -20,16 +20,20 @@ trama: 02│Boas-Vindas a Vila De Barovia
 >> ~~~meta-bind
 >> INPUT[select(
 >> option(1, 📝Detalhes),
+>> option(2, 🔎 Pendências / Investigações Futuras),
 >> class(tabbed)
 >> )]
 >> ~~~
 >>>[!tabbed-box-maxh]
 >>> >[!div-m|no-title]
 >>> > ![[#Detalhes|no-h clean]]
+>>> 
+>>> >[!div-m|no-title]
+>>> > ![[#Pendências|no-h clean]]
 
 ### PRESENTES /MENÇÕES NESTE TRAMA
 ```datacards
-TABLE img  FROM #npc_era_de_ouro
+TABLE img, status, Localização  FROM #npc_era_de_ouro
 where contains(aparicao, "02│Boas-Vindas a Vila De Barovia")
 
 SORT name ASC
@@ -43,10 +47,6 @@ cardSpacing: 4
 ```
 
 ## ** 2.1 ** -  Os Devoradores de Magia
-
-- **Retomada do cliffhanger **  
-  - O enxame de **[[Gremishkas]]** (criaturas parecidas com gremlins/gatos roedores) sai do baú aberto por Malkieer.  
-  - Cada personagem está em um canto da casa, sem noção imediata do perigo.  
 
 - **Nikolai**  
   - Revira caixas e encontra uma **potion of healing** e um **pergaminho rasgado**.  
@@ -79,35 +79,27 @@ cardSpacing: 4
   - Prepara-se para apoiar Cassandra e Bel, percebendo que os gremísticas são um risco maior do que pareciam.  
 
 - **Revelações sobre os gremísticas**  
-  - São atraídos por **poções e energia mágica**.  
+  - São atraídos por **energia mágica**.  
   - Reagem com violência a magias conjuradas próximas (podendo até se multiplicar).  
   - Só podem ser vencidos com **ataques físicos não mágicos**.  
   - Estavam presos no baú por **dois cadeados**. 
 ---
 
-#### 🔎 Pendências / Investigações Futuras
 
-- [ ] **O que exatamente são as gremísticas?** Quem as criou e com que propósito?  
-- [ ] **Sobrevivência:** como as criaturas permaneceram vivas tanto tempo presas?  
-- [ ] **Pergaminho encontrado por Nikolai:** quem o escreveu e qual sua importância?  
-- [ ] **Arma ou risco?** Vale a pena tentar capturar e usar as gremísticas contra inimigos, ou é perigoso demais?  
-- [ ] **Segredos da casa:** podem existir mais criaturas ou armadilhas escondidas em outros andares?  
-
----
 
 ## ** 2.2 ** - Conversas à Luz da Lareira  
 
 - **Após a batalha com as [[Gremishkas]]**  
   - Cassandra recolhe os corpos das criaturas e os incinera na lareira, deixando um cheiro desagradável no ar.  
   - Malkieer instala seu quarto e conjura novamente o Imperator, que desta vez assume a forma de uma cobra branca com marcas pretas, enrolada em seu pescoço.  
-  - Bel organiza seu quarto na torre mais alta e decora-o com **flâmulas de sua casa**, reforçando seus laços com a família e sua identidade.  
+  - Bel organiza seu quarto na torre mais alta e decora-o com **flâmulas de sua casa**.
   - Nikolai realiza cuidados médicos em si mesmo, coletando sangue e anotando dados como parte de seus experimentos e segredos.  
   - Anna encontra e começa a ler um **diário antigo de [[Eruth|Eruth]]**, percebendo que ele reúne **relatos de sonhos que se tornavam realidade**, incluindo os que originaram as criaturas.  
 
 - **Conversa de Anna com o espelho**  
   - Anna fala com uma **[[Espelho de Mão|figura misteriosa que habita o espelho]]**.  
   - A entidade demonstra preocupação, repreende Anna por estar arriscando demais, mas concorda em ajudá-la.  
-  - Anna revela que ficará em Baróvia por um ano com sua equipe, parte da competição pelo trono, e que busca respostas sobre sua mãe biológica.  
+  - Anna revela que ficará em Barovia por um ano com sua equipe, parte da competição pelo trono, e que busca respostas sobre sua mãe biológica.  
   - O ser do espelho se mostra ambíguo: ao mesmo tempo protetor e crítico, alerta que ela está colocando em risco não apenas a si, mas também a outros.  
 
 - **Reunião do grupo**  
@@ -121,7 +113,7 @@ cardSpacing: 4
     - Nikolai mostra-se músico e bardo habilidoso.  
 
 - **Discussões sobre ambições e o trono**  
-  - Cassandra revela que não deseja a coroa, mas sim tornar Baróvia um lugar digno, pensando no futuro de uma jovem que criou como filha.  
+  - Cassandra revela que não deseja a coroa, mas sim tornar Barovia um lugar digno, pensando no futuro de uma jovem que criou como filha.  
   - Bel fala sobre o poder como ferramenta de mudança, acreditando que o trono pode corrigir injustiças e crueldades.  
   - Anna compartilha que seu irmão deve herdar a linhagem de burgomestre e que sua irmã persegue poder obscuro, preocupando-se com os rumos da família Wachter.  
   - Malkieer mantém postura prática, vendo a coroa mais como oportunidade do que destino.  
@@ -137,25 +129,14 @@ cardSpacing: 4
 ---
 
 
-
-#### 🔎 Pendências / Investigações Futuras
-
-- [ ] **Diário de Eruth:** quais outros sonhos registrados ainda podem se tornar realidade?  
-- [ ] **Destino de Eruth:** ela ainda vive? Se sim, onde está?  
-- [ ] **Entidade do espelho:** quem é a figura misteriosa que fala com Anna? Quais são suas intenções?  
-- [ ] **Irmã de Anna:** quais são seus verdadeiros planos e a natureza de seu poder obscuro?  
-- [ ] **Segredos de Nikolai:** o que realmente ele esconde de seu passado e experimentos?  
-- [ ] **Reinado de Strahd:** como é possível que ele governe há 100 anos sem sinais claros de envelhecimento?  
-- [ ] **Khazan:** quem é realmente esse conselheiro de Strahd e qual seu papel na guerra?  
-
 ## ** 2.3 ** -  A Igreja do Sol
 
 - **Retomada da noite anterior**  
-  - O grupo encerra a longa conversa e Bel propõe um **brinde de união**, servindo copos de água como símbolo da esperança de transformar Baróvia.  
+  - O grupo encerra a longa conversa e Bel propõe um **brinde de união**, servindo copos de água como símbolo da esperança de transformar Barovia.  
   - Todos se recolhem para descansar.  
   - Cassandra reflete sobre seus votos de redenção e relembra o estranho comentário da pianista do baile (“já não nos encontramos antes?”).  
   - Pela manhã, soldados da guarda entregam à casa do grupo:  
-    - Um **mapa da Vila de Baróvia**.  
+    - Um **mapa da Vila de Barovia**.  
     - Uma **lista de problemas** a resolver:  
       - Fazendeiro Ernest reclamando de estragos nas plantações.  
       - Igreja do Sol não abriu a missa do dia anterior.  
@@ -191,15 +172,7 @@ cardSpacing: 4
 
 ---
 
-#### 🔎 Pendências / Investigações Futuras  
-
-- [ ] **Espírito antigo:** qual é a verdadeira natureza dessa criatura vampírica? É realmente impossível destruí-lo?  
-- [ ] **Tradição da Igreja do Sol:** por que sacerdotes mantêm esse segredo há séculos? Qual o propósito?  
-- [ ] **Diário de Eruth:** quais outras manifestações dos sonhos ainda podem surgir?  
-- [ ] **Sacerdote desaparecido:** por que deixou Fiona sozinha justamente no início da competição pelo trono?  
-- [ ] **Fazendeiro Ernest:** que criatura está atacando suas plantações?  
-- [ ] **A pianista do baile:** por que reconheceu Cassandra e qual é sua ligação real?  
-- [ ] **Strahd e seus segredos:** lacunas de 100 anos na história, a ligação com Khazan e a origem de seu reinado.  
+  
 
 ###  ** 2.4 ** - A Centopeia do Velho Ernest  
 
@@ -207,7 +180,7 @@ cardSpacing: 4
   - Após o ataque da criatura, Anna retorna ferida mas com a chave mágica.  
   - O grupo conversa novamente com **Fiona Solbakk**, que admite que a igreja mantém o **espírito antigo** alimentado há séculos com sangue.  
   - O grupo a tranquiliza e ajuda a reconstruir o interior da igreja:  
-    - Cassandra usa seu braço protético e magias de reparo (*Mending*).  
+    - Cassandra usa seu braço protético e magias de reparo (**Mending**).  
     - Bel ajuda a mover bancos e destroços.  
     - Nikolai se apresenta formalmente.  
     - Malkieer observa curioso, com Imperator na forma de cobra.  
@@ -231,7 +204,7 @@ cardSpacing: 4
 
 - **Seguindo os rastros**  
   - Investigando a trilha deixada pela centopeia, percebem que ela atravessa a floresta de Svalich.  
-  - Descobrem que seus túneis e trilhas se estendem não só para o interior da floresta, mas também retornam em diferentes pontos da **Vila de Baróvia**.  
+  - Descobrem que seus túneis e trilhas se estendem não só para o interior da floresta, mas também retornam em diferentes pontos da **Vila de Barovia**.  
   - Ao se esconderem, testemunham a passagem da criatura:  
     - Estimada em mais de 20 metros de comprimento.  
     - Trazia cravada nas costas uma **espada da guarda da cidade**.  
@@ -243,13 +216,6 @@ cardSpacing: 4
   - Conclusão: a criatura já está integrada ao ecossistema da vila, alimentando-se de descartes e possivelmente de pessoas.  
 
 ---
-
-#### 🔎 Pendências / Investigações Futuras  
-
-- [ ] **Santi (centopeia colossal):** qual sua origem e até onde vai seu território?  
-- [ ] **Espada da guarda:** qual soldado foi atacado/morto por ela? Há mais vítimas?  
-- [ ] **Relação com a vila:** até quando será possível ignorar o risco da centopeia rondando a cidade?  
-- [ ] **Fossa do açougue:** a criatura se alimenta apenas de restos, ou também de pessoas descartadas?  
 
 
 ### ** 2.5**  - Planos para Santi  
@@ -297,22 +263,34 @@ cardSpacing: 4
 
 ---
 
-## 🔎 Pendências / Investigações Futuras  
-
-- [ ] **Santi:** como lidar com a centopeia? Combate direto, sonífero ou enganar Ernest com um substituto?  
-- [ ] **Lucão desaparecido:** confirmar se foi vítima da centopeia e investigar seu paradeiro.  
-- [ ] **Velho Ernest:** como convencê-lo a abandonar Santi sem causar um trauma ou crise?  
-- [ ] **Sonífero:** é possível encontrar ingredientes em Baróvia ou na floresta para produzir?  
-- [ ] **Diário de Eruth:** o sonho sobre o pai morto tem conexão direta com eventos da vila?  
-- [ ] **Fiona Solbakk:** continuará conseguindo manter as missas e o segredo do espírito antigo sozinha?  
-- [ ] **Vadrik:** até que ponto está testando ou manipulando o grupo nas missões?  
 
 ### Detalhes
 
 Na penumbra da vila esquecida, segredos se escondem entre sonhos e monstros famintos.  
-A promessa de “melhorar Baróvia” revela-se apenas o início de uma longa descida pelas sombras.  
+A promessa de “melhorar Barovia” revela-se apenas o início de uma longa descida pelas sombras.  
 Pois a cada porta aberta, novas verdades se revelam: templos guardam fomes antigas,  
 fazendas alimentam horrores que não deveriam existir, e até os sonhos de uma criança  
 podem ecoar como presságios de sangue.  
 
 A vila sussurra — e quem ousar escutá-la talvez descubra que alguns fardos não foram feitos para ser carregados.  
+
+
+### Pendências 
+
+- [ ] **Segredos da casa:** podem existir mais criaturas ou armadilhas escondidas em outros andares? 
+- [ ] **Diário de Eruth:** quais outros sonhos registrados ainda podem se tornar realidade?  
+- [ ] **Destino de Eruth:** ela ainda vive? Se sim, onde está?  
+- [ ] **Entidade do espelho:** quem é a figura misteriosa que fala com Anna? Quais são suas intenções?  
+- [ ] **Irmã de Anna:** quais são seus verdadeiros planos e a natureza de seu poder obscuro?  
+- [ ] **Segredos de Nikolai:** o que realmente ele esconde de seu passado e experimentos?  
+- [ ] **Espírito antigo:** qual é a verdadeira natureza dessa criatura vampírica? É realmente impossível destruí-lo?  
+- [ ] **Diário de Eruth:** quais outras manifestações dos sonhos ainda podem surgir?  
+- [ ] **A pianista do baile:** por que reconheceu Cassandra e qual é sua ligação real?  
+- [ ] **Strahd e seus segredos:** lacunas de 100 anos na história, a ligação com Khazan e a origem de seu reinado.
+- [ ] **Santi (centopeia colossal):** qual sua origem e até onde vai seu território?  
+- [ ] **Espada da guarda:** qual soldado foi atacado/morto por ela? Há mais vítimas?  
+- [ ] **Relação com a vila:** até quando será possível ignorar o risco da centopeia rondando a cidade?  
+- [ ] **Fossa do açougue:** a criatura se alimenta apenas de restos, ou também de pessoas descartadas?  
+- [ ] **Santi:** como lidar com a centopeia? Combate direto, sonífero ou enganar Ernest com um substituto?  
+- [ ] **Lucão desaparecido:** confirmar se foi vítima da centopeia e investigar seu paradeiro.  
+- [ ] **Diário de Eruth:** o sonho sobre o pai morto tem conexão direta com eventos da vila?  

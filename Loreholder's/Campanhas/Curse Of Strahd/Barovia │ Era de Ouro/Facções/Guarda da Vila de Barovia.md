@@ -86,15 +86,15 @@ Status: Ativa
 
 # INFORMAÇÕES GERAIS
 
-**Fundador:** ???
-**Reputação Pública:** 
+**Fundador:** Avô de Vadrik
+**Reputação Pública:**  Volátil 
 **Líder Atual:**  [[Vadrik]]
 **Status:**  `INPUT[inlineSelect(option(Ativa),  option(Dissolvida), option(Destruída), option(Esquecida), option(Mítica)):Status]`  
 **Sede Principal:** [[Vila de Barovia]]
 
 
 # HISTÓRIA
-...
+Iniciada pela avô de [[Vadrik|Vadrik]], pouco tempo depois da morte do burgomestre da vila de Barovia, se estabeleceram como os "protetores da vila", cobrando impostos para manter os cidadãos a salvo. 
 
 
 # ALIADOS
@@ -110,4 +110,4 @@ Status: Ativa
 
 
 # SEGREDOS
-...
+Apesar de cobrarem impostos, a guarda recebe dinheiro do rei. 
