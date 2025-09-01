@@ -90,9 +90,11 @@ Mesmas promessas... mesmo fogo.**
 > [!world]+ ERA DE OURO
 >```chronos
 >> DEFAULTVIEW  0|1
+>@ [0-01-01~0-01-06] #blue Melhorar a Vila de Barovia
 >- [0-01-01] #red 99º aniversário de Strahd
->- [0-01-01] #yellow Time Nº1 é formado
->- [0-01-02] #yellow Reconstruir A Vila de Barovia
+>- [0-01-01] #yellow Time Nº1 chega a vila de Barovia
+>- [0-01-05] #yellow Guarda se mostrou corrupta
+>- [0-01-06] #yellow Dia atual
 >```
 > ## 1500
 > Os sete

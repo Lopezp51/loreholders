@@ -12,6 +12,7 @@ img: "[[nikolai.png]]"
 subclasse: 
 level:
 Afiliação:
+jogador: Raul
 ---
 
 > [!NOTE|clean no-i right]+ Nikolai

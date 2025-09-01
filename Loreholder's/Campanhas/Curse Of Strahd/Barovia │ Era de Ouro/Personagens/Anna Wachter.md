@@ -15,6 +15,7 @@ img: "[[anna Wachter.png]]"
 subclasse: 
 level:
 Afiliação: "[[Time Nº1]]"
+jogador: Bruna
 ---
 
 

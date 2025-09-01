@@ -15,6 +15,7 @@ img: "[[bel_img_1.png]]"
 subclasse: 
 level:
 Afiliação: [[Time Nº1]]
+jogador: João
 ---
 
 > [!NOTE|clean no-i right]+ Bel van der Voort

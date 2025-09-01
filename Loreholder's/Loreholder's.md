@@ -47,9 +47,9 @@ tags:
 >```
 
 > [!infobox] 
-> [🗺️ Mapa de Faerûn](obsidian://open?vault=DisgracelandOnline&file=Loreholder's%2FO%20Mundo%2FMapa%20de%20Faer%C3%BBn)
-> [📜 Lore](obsidian://open?vault=DisgracelandOnline&file=Loreholder's%2FO%20Mundo%2FLore)
-> [⚔️ Party's](obsidian://open?vault=DisgracelandOnline&file=Loreholder's%2FO%20Mundo%2FParty's)
+> [🗺️ Mapa de Faerûn](obsidian://open?vault=obsidian&file=Loreholder's%2FO%20Mundo%2FMapa%20de%20Faer%C3%BBn)
+> [📜 Lore](obsidian://open?vault=obsidian&file=Loreholder's%2FO%20Mundo%2FLore)
+> [⚔️ Party's](obsidian://open?vault=obsidian&file=Loreholder's%2FO%20Mundo%2FParty's)
 
 
 > [!world]+ Últimos Personagens  Modificados

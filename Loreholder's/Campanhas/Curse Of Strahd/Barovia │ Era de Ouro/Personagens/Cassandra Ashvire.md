@@ -14,6 +14,7 @@ img: "[[Cassandra_1.png]]"
 subclasse: 
 level:
 Afiliação:
+jogador: Pedro
 ---
 
 > [!NOTE|clean no-i right]+ Cassandra Ashvire

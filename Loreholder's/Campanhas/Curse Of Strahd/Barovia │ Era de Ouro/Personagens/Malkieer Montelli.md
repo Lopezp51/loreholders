@@ -15,6 +15,7 @@ img: "[[malkieer montelli.png]]"
 subclasse: 
 level:
 Afiliação:
+jogador: Gabriel
 ---
 
 > [!NOTE|clean no-i right]+ Malkieer Montelli
