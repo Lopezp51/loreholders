@@ -4,18 +4,18 @@
     "Main Homepage": {
       "value": "Loreholder's/Loreholder's",
       "kind": "File",
-      "openOnStartup": true,
+      "openOnStartup": false,
       "openMode": "Replace last note",
       "manualOpenMode": "Replace last note",
       "view": "Reading view",
       "revertView": true,
-      "openWhenEmpty": true,
+      "openWhenEmpty": false,
       "refreshDataview": false,
       "autoCreate": false,
       "autoScroll": false,
       "pin": true,
       "commands": [],
-      "alwaysApply": true,
+      "alwaysApply": false,
       "hideReleaseNotes": false
     }
   },

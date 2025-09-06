@@ -68,6 +68,7 @@
   "APB_colorLightSubTaskCompletedText": "#349a16",
   "APB_progressBarChange": true,
   "APB_fallbackColor": "#2978ef",
+  "APB_pureBlack": "#000000",
   "defaultLightColors": [
     "#278378",
     "#2baab9",

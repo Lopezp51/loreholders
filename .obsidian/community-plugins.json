@@ -20,11 +20,11 @@
   "phrasesync",
   "obsidian-style-settings",
   "folder-notes",
-  "obsidian-image-toolkit",
   "image-converter",
   "obsidian-prozen",
   "obsidian-meta-bind-plugin",
   "obsidian-git",
   "obsidian-dice-roller",
-  "dnd-ui-toolkit"
+  "dnd-ui-toolkit",
+  "obsidian-image-toolkit"
 ]
