@@ -190,7 +190,7 @@ bonuses:
 
 ```datacards
 
-TABLE Casting_Time, Range, Components, Duration, cover, txt
+TABLE Casting_Time, Range, Components, Duration, cover, txt, status
 
 FROM #Paladin_Spell_List
 

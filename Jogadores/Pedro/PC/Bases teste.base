@@ -10,7 +10,13 @@ views:
       - Range
       - Components
       - Duration
+      - status
     cardSize: 170
     imageFit: ""
     imageAspectRatio: 1.2
     image: note.cover
+  - type: table
+    name: View 2
+    order:
+      - file.name
+      - status

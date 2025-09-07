@@ -1,6 +1,6 @@
 ```datacards
 
-TABLE Casting_Time, Range, Components, Duration, cover
+TABLE Casting_Time, Range, Components, Duration, cover, status
 
 FROM #Paladin_Spell_List
 
@@ -10,7 +10,7 @@ SORT file.name ASC
 
 // Settings
 
-preset: compact
+preset: dense
 
 imageSize: small
 
@@ -23,6 +23,7 @@ columns: 7
 lazyLoad: true
 
 fontSize: small
+booleanDisplayMode: "checkbox"
 
   
 
