@@ -8,6 +8,7 @@ Casting Time: 1 hour
 Casting_Time: 1 hora
 Range: Touch
 Components: V, S, M (25 gp worth of powdered silver, which the spell consumes)
+txt: You can touch a creature and draw power from the pool to restore a number of hp to that creature, up to the maximum amount remaining in your pool. You can expend 5 hp from your pool of healing to cure the target of one disease or neutralize one poison affecting it. This feature has no effect on undead and constructs.
 Duration: Instantaneous (see below)
 cover: "[[1aehucv2b0n11.gif]]"
 ---

@@ -1,6 +1,6 @@
 ```datacards
 
-TABLE Casting_Time, Range, Components, Duration
+TABLE Casting_Time, Range, Components, Duration, cover
 
 FROM #Paladin_Spell_List
 
@@ -10,7 +10,7 @@ SORT file.name ASC
 
 // Settings
 
-preset: dense
+preset: compact
 
 imageSize: small
 
@@ -18,7 +18,7 @@ imageProperty: cover
 
 imagePosition: center
 
-columns: 4
+columns: 7
 
 lazyLoad: true
 

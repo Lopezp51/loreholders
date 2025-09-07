@@ -1,6 +1,13 @@
 {
-  "pluginList": [],
-  "pluginSubListFrozenVersion": [],
+  "pluginList": [
+    "hay-kot/obsidian-dnd-ui-toolkit"
+  ],
+  "pluginSubListFrozenVersion": [
+    {
+      "repo": "hay-kot/obsidian-dnd-ui-toolkit",
+      "version": "latest"
+    }
+  ],
   "themesList": [],
   "updateAtStartup": true,
   "updateThemesAtStartup": true,
@@ -10,5 +17,6 @@
   "loggingVerboseEnabled": false,
   "debuggingMode": false,
   "notificationsEnabled": true,
-  "personalAccessToken": ""
+  "personalAccessToken": "",
+  "selectLatestPluginVersionByDefault": false
 }

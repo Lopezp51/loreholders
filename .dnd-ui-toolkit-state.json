@@ -1,15 +1,17 @@
 {
   "state": {
     "din_items__ring_of_investigation": {
-      "value": 1
+      "value": 2
     },
     "din_health": {
       "current": 49,
       "temporary": 0,
-      "hitdiceUsed": 0
+      "hitdiceUsed": 0,
+      "deathSaveSuccesses": 0,
+      "deathSaveFailures": 0
     },
     "din_spells_1": {
-      "value": 0
+      "value": 1
     },
     "din_spell_2": {
       "value": 0
@@ -24,6 +26,45 @@
       "value": 0
     },
     "din_arcane_recovery": {
+      "value": 0
+    },
+    "din_resource_0": {
+      "value": 0
+    },
+    "din_resource_1": {
+      "value": 0
+    },
+    "din_slots_0": {
+      "value": 0
+    },
+    "din_slots_1": {
+      "value": 0
+    },
+    "din_divine_sense": {
+      "value": 0
+    },
+    "divine_sense": {
+      "value": 0
+    },
+    "past_life": {
+      "value": 0
+    },
+    "first_level": {
+      "value": 0
+    },
+    "second_level": {
+      "value": 0
+    },
+    "din_luck_spell_1": {
+      "value": 0
+    },
+    "action_surge": {
+      "value": 0
+    },
+    "bardic_inspiration": {
+      "value": 0
+    },
+    "channel_divinity": {
       "value": 0
     }
   }
