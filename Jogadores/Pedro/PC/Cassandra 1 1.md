@@ -6,7 +6,7 @@ Role: Player
 level: 5
 hp: 49
 max_hp:
-ac: 19
+ac: 18
 modifier: 3
 pasperc: 9
 PlayerKnownLanguages:
@@ -52,7 +52,7 @@ items:
   - label: Save DC
     value: 14
   - label: AC
-    value: 19
+    value: 18
 dense: 0
 ```
 
@@ -60,8 +60,8 @@ dense: 0
 state_key: din_health
 health: 49
 hitdice:
-  dice: d6
-  value: 4
+  dice: d10
+  value: 5
 
 reset_on: ["short-rest", "long-rest"]
 ```
