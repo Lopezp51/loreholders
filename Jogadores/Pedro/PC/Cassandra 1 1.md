@@ -23,6 +23,7 @@ lay_on_hands: 25
 > option(1, ℹ️Geral),
 > option(2, 📜Habilidades),
 > option(3, ⚙️ 1º nível),
+> option(4, ⚙️ Preparar Spells),
 > class(tabbed)
 > )]
 > ~~~
@@ -35,6 +36,9 @@ lay_on_hands: 25
 >>
 >> > [!div-m|no-title]
 >> > ![[#1 nível|no-h clean]]
+>>
+>> > [!div-m|no-title]
+>> > ![[#Preparar Spells|no-h clean]]
 
 
 
@@ -217,19 +221,7 @@ fontSize: small
   
 
 ```
-## Spell Slots
-
-
-
-
-### teste
-
-
-
-### Recursos
-
-
-
+## Preparar Spells
 ```stats
 items:
   - label: SPELLCASTING ABILITY
@@ -244,5 +236,43 @@ items:
 grid:
   columns: 4
 ```
+
+```dataviewjs
+const pages = dv.pages("#Paladin_Spell_List").sort(p => p.file.name, 'asc');
+
+const rows = pages.map(p => {
+  const pathNoMd = p.file.path.replace(/\.md$/,'');
+
+  // Toggle editável (done)
+  const doneBlock =
+`~~~meta-bind
+INPUT[toggle:${pathNoMd}#done]
+~~~`;
+
+  // Valores fixos (com fallback para "Casting Time" ou "Casting_Time")
+  const casting = p["Casting_Time"] ?? p["Casting Time"] ?? "";
+  const range = p.Range ?? "";
+  const components = Array.isArray(p.Components) ? p.Components.join(", ") : (p.Components ?? "");
+  const duration = p.Duration ?? "";
+  const txt = p.txt ?? "";
+
+  return [p.file.link, doneBlock, casting, range, components, duration, txt];
+});
+
+dv.table(["Spells", "✅ Preparado?", "Casting Time", "Range", "Components", "Duration", "Description"], rows);
+```
+
+
+
+
+### teste
+
+
+
+### Recursos
+
+
+
+
 
 

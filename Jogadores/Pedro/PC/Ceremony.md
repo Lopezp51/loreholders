@@ -12,6 +12,7 @@ txt: You can touch a creature and draw power from the pool to restore a number o
 Duration: Instantaneous (see below)
 cover: "[[1aehucv2b0n11.gif]]"
 status: false
+done: false
 ---
 
 You perform one of several religious ceremonies. When you cast the spell, choose one of the following ceremonies, the target of which must be within 10 feet of you throughout the casting.
@@ -29,3 +30,5 @@ Funeral Rite. You touch one corpse, and for the next 7 days, the target can’t 
 Investiture (UA). You touch one willing humanoid. Choose one 1st-level spell you have prepared and expend a spell slot and any material components as if you were casting that spell. The spell has no effect. Instead, the target can cast this spell once without having to expend a spell slot or use material components. If the target doesn’t cast the spell within 1 hour, the invested spell is lost.
 
 Wedding. You touch adult humanoids willing to be bonded together in marriage. For the next 7 days, each target gains a +2 bonus to AC while they are within 30 feet of each other. A creature can benefit from this rite again only if widowed.
+
+High Tenperature: `INPUT[toggle:done]`
