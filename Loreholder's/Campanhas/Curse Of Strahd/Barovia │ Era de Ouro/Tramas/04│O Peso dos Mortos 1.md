@@ -99,6 +99,77 @@ cardSpacing: 4
   - Planejam interceptar o pacote quando chegar, com vantagem por terem manipulado os prazos.  
   - Fica decidido: cada personagem terá **2 dias de downtime** para pequenos projetos pessoais antes do próximo movimento.  
 
+# 📖 Resumo da Sessão 14
+
+---
+
+- 🕰️ Downtime (2 dias)
+	- **Cassandra**  
+	  - Após a missa, anuncia que não traz milagres, mas pode ajudar com febres, dores e reparos (roupas, brinquedos, casas).  
+	  - O Nome começa a espalhar, começam a trazer mais ferramentas, alicates, facas. Cassandra percebe que é a única pessoa disposta a ajudar as pessoas dessa maneira, sua fama vai se espalhando mas ainda está no começo
+	- **Nikolai**  
+	  - Tenta estudar o frasco com Malkieer, mas o líquido já havia evaporado.  
+	  - Percebe que pode perder mais amostras se manusear errado.  
+	  - Compõe uma música durante os dias de descanso.  
+	- **Malkieer**  
+	  - Envia uma carta para **Kothos Levkarest**, anexando o recorte de jornal do diário de Eruth.  
+	  - Questiona a origem e a discrepância histórica de **200 anos**.  
+	  - Tenta obter informações sobre as **minas de Teufeldorf**, mas não encontra nada concreto.  
+	- **Bel**  
+	  - Escreve uma para o dojo da casa van der Voort, para seu irmão **Vjorn van der Voort Stromkirk**, relatando os estranhos acontecimentos da vila.  
+	  - Tenta se aproximar da vizinhança com doces e bolinhos, mas encontra desconfiança; ainda assim, conquista **respeito por seu prestígio nobre**.  
+	- **Anna**  
+	  - Lê o diário de **Eruth ** por completo.  
+	  - Descobre que:  
+	    - Os sonhos da jovem se manifestavam na realidade.  
+	    - A própria mãe a denunciou à guarda.  
+	    - O recorte de jornal foi inserido depois por outra pessoa.  
+	    - As manifestações da casa assombrada derivam dos sonhos de Eruth e podem ser **evitadas ou até manipuladas**.  
+
+- 🚧 Preparação da Blitz
+	- O grupo escolhe um ponto na estrada para montar a emboscada, com floresta densa e curva.  
+	- **Nikolai (Disguise Self)** se disfarça de guarda; **Malkieer** avança mais à frente para investigar.  
+	- Combinam sinais com o **Imperator** para dar o alerta.  
+
+
+
+- 🐎 Chegada da carroça
+	- Uma carroça de correio aparece, puxada por boi, mas acompanhada de um **cavaleiro de justa: Hamlet Strazni**.  
+	- Malkieer percebe que foi notado e tenta disfarçar, mas o cavaleiro o mantém sob vigilância.  
+	- O grupo decide prosseguir com a Blitz improvisada.  
+
+- ⚔️ Confronto com Hamlet Strazni
+	- Bel se revela e reconhece o cavaleiro, trocando cortesias e disfarçando a situação.  
+	- Hamlet permite a inspeção, mas deixa claro que não abrirá mão da segurança da carga.  
+	- O carteiro abre a carroça sob supervisão.  
+
+
+- 📦 Investigação da carga
+	- Há várias encomendas para **Anna Wachter** e **Nikolai**.  
+	- Um pacote em especial chama atenção: **destinado a Vadrik**, endereçado à taverna.  
+	- **Bel** usa Devil’s Sight e percebe os detalhes; mais tarde, Anna, se teleporta com **Misty Step** para dentro da carroça, roubando discretamente o pacote.  
+
+
+💎 O pacote de Vadrik
+	- Caixa luxuosa, com selo de cera e interior forrado de veludo.  
+	- Dentro, uma **carta da Companhia Pretorius (de Zeidenberg)** e um **colar mágico**.  
+	- Carta: agradece a compra e indica também a aquisição de uma **mansão em Zeidenberg** (20.000 PO), além do colar (5.000 PO).  
+	- O item é identificado como um **Necklace of Fireballs** (5 pérolas).  
+
+
+- 🧩 Discussões e planos
+	- Grupo considera trocar o colar por uma réplica com pérolas comuns pintadas de vermelho.  
+	- Debate se é melhor devolver a caixa forjada ao correio ou sumir com ela.  
+	- Decidem preparar um disfarce convincente, usando o tempo até a entrega oficial.  
+
+🏘️ Retorno à cidade
+	- Voltam para casa com o pacote roubado.  
+	- Discutem opções enquanto manipulam tintas e materiais para falsificação.  
+	- São interrompidos por uma batida na porta:  
+	  - Um **carteiro entrega uma encomenda urgente para Nikolai**.  
+	  - Ele assina e recebe o pacote.  
+	  - O carteiro sai correndo em direção à **taverna**.  
+
 
 ---
 
