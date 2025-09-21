@@ -112,11 +112,11 @@ cardSpacing: 4
 	  - Percebe que pode perder mais amostras se manusear errado.  
 	  - Compõe uma música durante os dias de descanso.  
 	- **Malkieer**  
-	  - Envia uma carta para **Kothos Levkarest**, anexando o recorte de jornal do diário de Eruth.  
+	  - Envia uma carta para **[[Kothos Levkarest|Kothos Levkarest]]**, anexando o recorte de jornal do diário de Eruth.  
 	  - Questiona a origem e a discrepância histórica de **200 anos**.  
 	  - Tenta obter informações sobre as **minas de Teufeldorf**, mas não encontra nada concreto.  
 	- **Bel**  
-	  - Escreve uma para o dojo da casa van der Voort, para seu irmão **Vjorn van der Voort Stromkirk**, relatando os estranhos acontecimentos da vila.  
+	  - Escreve uma para o dojo da casa van der Voort, para seu irmão **[[Vjorn van der Voort Stromkirk|Vjorn van der Voort Stromkirk]]**, relatando os estranhos acontecimentos da vila.  
 	  - Tenta se aproximar da vizinhança com doces e bolinhos, mas encontra desconfiança; ainda assim, conquista **respeito por seu prestígio nobre**.  
 	- **Anna**  
 	  - Lê o diário de **Eruth ** por completo.  
@@ -134,7 +134,7 @@ cardSpacing: 4
 
 
 - 🐎 Chegada da carroça
-	- Uma carroça de correio aparece, puxada por boi, mas acompanhada de um **cavaleiro de justa: Hamlet Strazni**.  
+	- Uma carroça de correio aparece, puxada por boi, mas acompanhada de um **cavaleiro de justa:  [[Hamlet Strazni|Hamlet Strazni]]**.  
 	- Malkieer percebe que foi notado e tenta disfarçar, mas o cavaleiro o mantém sob vigilância.  
 	- O grupo decide prosseguir com a Blitz improvisada.  
 
@@ -154,7 +154,7 @@ cardSpacing: 4
 	- Caixa luxuosa, com selo de cera e interior forrado de veludo.  
 	- Dentro, uma **carta da Companhia Pretorius (de Zeidenberg)** e um **colar mágico**.  
 	- Carta: agradece a compra e indica também a aquisição de uma **mansão em Zeidenberg** (20.000 PO), além do colar (5.000 PO).  
-	- O item é identificado como um **Necklace of Fireballs** (5 pérolas).  
+	- O item é identificado como um **[[Necklace of Fireballs]]** (5 pérolas).  
 
 
 - 🧩 Discussões e planos
@@ -172,12 +172,104 @@ cardSpacing: 4
 
 
 ---
-
-### 🔎 Pendências  
-
+# 📖 Resumo da Sessão 15A
 
 
----
+- 🎭 Falsificação do colar
+
+	- O grupo debate o que fazer com o **Necklace of Fireballs** roubado de Vadrik.  
+	- Decidem produzir uma **réplica convincente**, mantendo o original escondido.  
+	- **Malkieer** (Sleight of Hand) rearranja a corrente e pérolas;  
+	- **Nikolai** usa símbolos e magia (**Illusory Script**) para dar aparência mágica.  
+	- O resultado é um colar falso **quase idêntico ao original**.  
+	- Decidem recolocar o item falsificado no Correio à noite.  
+
+
+- 📦 Encomenda de Nikolai
+
+	- Nikolai recebe uma caixa grande, marcada como frágil, com selo da **Universidade**.  
+	- Dentro, frascos e uma carta curta assinada por **[[Victra|Victra Mordenheim]]**:  
+	- Agradece coletas anteriores.  
+	- Diz que o material é “muito valioso para a pesquisa”.  
+	- Pede que ele continue o bom trabalho.  
+	- Nikolai guarda tudo em sigilo no quarto.  
+
+
+- 🕵️ Missão de Malkieer
+
+	- À noite, **Nikolai lança Invisibility** em Malkieer, que vai entregar o colar falso nos Correios.  
+	- Ele encontra a entrada fechada, mas percebe uma janelinha lateral aberta.  
+	- Espiando, descobre que **Hamlet Strazni** está dormindo dentro, de guarda.  
+	- Usando **Mage Hand**, faz a caixa flutuar até o depósito sem ser notado (por pouco).  
+	- Consegue concluir a missão e retorna em segurança.  
+	- O grupo comemora com um bolo preparado por **Bel** (“Parabéns pela missão”).  
+
+
+- 🛡️ Conversa noturna (Cassandra & Bel)
+
+	- Cassandra visita Bel em seu quarto, no topo da casa, e pergunta sobre o torneio que Hamlet mencionou.  
+	- Bel explica:  
+	  - Competições podem ser **justas a cavalo** ou **duelos no chão**, geralmente equilibradas (espadas/armas iguais).  
+	  - A diferença deste próximo torneio é que os **candidatos ao trono** serão os competidores.  
+	- Revela sua história:  
+	  - Em Valaki, a maioria das casas só reconhece **nobreza por sangue**.  
+	  - A **Casa van der Voort** é diferente: seus membros não são herdeiros de sangue, mas guerreiros que **provam seu valor e sobrevivem ao treinamento**.  
+	  - Foi acolhido ainda jovem, treinou anos e derrotou seu mestre na arena do dojo.  
+	  - Nesse momento, **“o meu sangue se tornou nobre”** — não por nascimento, mas por conquista.  
+	  - Carrega o brasão pessoal (uma coroa trançada), símbolo de seu sonho de trazer luz e esperança ao reino.  
+	- Cassandra compartilha:  
+	  - Desde que lembra, sabia lutar — resultado das experiências de quem a criou, que buscava uma “obra-prima”.  
+	  - Diferente de Bel, carrega peso de arrependimentos e tenta usar o **chicote** para controlar melhor sua força.  
+	- Ambos reconhecem um paralelo em suas trajetórias:  
+	  - “Alguém nos acolheu, moldou, mas seguimos caminhos distintos.”  
+	  - Reforçam a esperança de que juntos formarão uma boa equipe.  
+
+
+- 👁️ Vigilância inicial
+
+	- **Imperator** percebe o carteiro saindo de casa e indo até os Correios.  
+	- Logo em seguida, **Hamlet Strazni** sai do prédio já arrumado, cumprimenta o carteiro e parte de volta para a estrada com seu cavalo.  
+
+- 📦 Entrega do pacote
+
+	- **[[Dmitry|Dmitry]]** e **[[Lavinia|Lavinia]]** são vistos saindo da taverna e caminhando até os Correios.  
+	- Eles retornam rapidamente carregando a caixa destinada a **Vadrik**.  
+	- O grupo, pintando os muros, observa à distância.  
+	- **Nikolai** prepara e lança **Clairvoyance** dentro da taverna para acompanhar a cena.  
+
+- 🍷 Cena na taverna
+
+	- **Vadrik** recebe Dmitry e Lavinia.  
+	- Abre a caixa: encontra o **colar de pérolas vermelhas (falsificado)** e a carta.  
+	- Demonstra satisfação, elogiando a beleza efêmera de joias que desaparecem quando usadas.  
+	- Guarda a carta no casaco e mantém o colar com ele.  
+	- Ordena que queimem a caixa na lareira.  
+	- Conversa reveladora:  
+	  - Reclama de ter gasto quase todas as economias nisso e em “outra coisa”.  
+	  - Afirma que sua posição sempre foi temporária, dependente da boa vontade do **rei**.  
+	  - Quando Lavinia menciona o acordo, ele a ameaça — “se falarem mais disso, perdem a cabeça”.  
+	  - Confirma que em **duas semanas** haverá **coleta de impostos**, e ordena que seja adiantada.  
+	  - Diz claramente: após isso, **eles deixarão a cidade**.  
+
+
+- 🤔 Discussões do grupo
+
+	- O grupo reflete sobre o plano de Vadrik:  
+	  - Pode fugir levando o **Necklace of Fireballs**, ou usá-lo antes de partir.  
+	  - O suposto acordo com o rei parece **mais profundo que apenas impostos**, já que até Vadrik teme mencionar.  
+	- Conversam sobre possíveis estratégias:  
+	  - Interceptar a cobrança de impostos em duas semanas.  
+	  - Investigar guardas mais antigos, ligados ao pai de Vadrik.  
+	  - Usar veneno/sonífero em guardas próximos (talvez durante uma festa na taverna).  
+	  - Consideram acelerar o fim da pintura da rua para avançar planos.  
+
+
+- 🥪 Encerramento
+
+	- A manhã termina com o grupo almoçando algo simples (“sanduíches de presente”) para ganhar tempo.  
+	- Decidem terminar a rua ainda naquele dia e depois definir o próximo passo contra Vadrik.  
+	- Sessão encerra com clima de expectativa e tensão sobre os **planos de Vadrik e o uso do colar**.  
+
 ---
 
 
