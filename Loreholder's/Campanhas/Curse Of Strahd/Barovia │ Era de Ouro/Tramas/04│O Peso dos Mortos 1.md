@@ -99,9 +99,8 @@ cardSpacing: 4
   - Planejam interceptar o pacote quando chegar, com vantagem por terem manipulado os prazos.  
   - Fica decidido: cada personagem terá **2 dias de downtime** para pequenos projetos pessoais antes do próximo movimento.  
 
-# 📖 Resumo da Sessão 14
+### ** 4.2** –  Vistoria Surpresa
 
----
 
 - 🕰️ Downtime (2 dias)
 	- **Cassandra**  
@@ -172,7 +171,7 @@ cardSpacing: 4
 
 
 ---
-# 📖 Resumo da Sessão 15A
+### ** 4.3** –  Pacote Entregue
 
 
 - 🎭 Falsificação do colar

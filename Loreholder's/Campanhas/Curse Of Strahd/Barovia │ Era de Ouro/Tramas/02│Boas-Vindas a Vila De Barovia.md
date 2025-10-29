@@ -174,7 +174,7 @@ cardSpacing: 4
 
   
 
-###  ** 2.4 ** - A Centopeia do Velho Ernest  
+## ** 2.4 ** - A Centopeia do Velho Ernest  
 
 - **Retomada na Igreja do Sol**  
   - Após o ataque da criatura, Anna retorna ferida mas com a chave mágica.  
@@ -218,7 +218,7 @@ cardSpacing: 4
 ---
 
 
-### ** 2.5**  - Planos para Santi  
+## ** 2.5**  - Planos para Santi  
 
 - **Separação temporária do grupo**  
   - Cada personagem segue atividades individuais antes da noite cair:  
